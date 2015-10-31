@@ -1,7 +1,6 @@
 library(XML)
 a = htmlTreeParse(file.choose(),useInternal = TRUE)
 
-xmlValue(a) 
 
 ns <- getNodeSet(a, '//tr')
 
