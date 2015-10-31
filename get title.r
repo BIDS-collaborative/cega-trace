@@ -21,7 +21,7 @@ for (i in 1:length(ns2)){
 
 r=which(temp_title %in% 1)
 title=ns2[r]
-title
+
 for (i in 1:length(title)){
   t=title[i]
   t=substr(t, 4, nchar(t))
