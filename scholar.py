@@ -1105,9 +1105,11 @@ def csv(querier, header=False, sep='|'):
     return lst
 
 def citation_export(querier):
+    string = ''
     articles = querier.articles
     for art in articles:
-        print(art.as_citation() + '\n')
+        string += art.as_citation()
+    return string
 
 
 def main():

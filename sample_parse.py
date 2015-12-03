@@ -3,6 +3,8 @@ import os
 import re
 import codecs
 import scholar
+import random
+import time
 
 
 current_path = os.getcwd() + "/output.csv"
@@ -12,7 +14,7 @@ parse_file = "target.txt"
 
 
 def decode(parse_file):
-    with codecs.open(parse_file, 'r+', encoding='UTF-8') as txt_file:
+    with codecs.open(parse_file, 'r+', encoding='utf-8') as txt_file:
         txt = txt_file.readlines()
     return txt
 
@@ -102,23 +104,30 @@ txt.close()
 sample = decode(parse_file)
 citation = parseTxtFile(sample)
 
+# print(len(citation))
 # dict_data = writeDictToCSV(current_path, csv_columns, citation)
 # print(dict_data)
 
 querier = scholar.ScholarQuerier()
 settings = scholar.ScholarSettings()
 query = scholar.SearchScholarQuery()
+settings.set_citation_format(scholar.ScholarSettings.CITFORM_BIBTEX)
 querier.apply_settings(settings)
 
-with open('outcome.csv', 'w') as csvfile:
+citationFile = codecs.open('citation.bib', 'w','utf-8')
+
+with open('output.csv', 'w') as csvfile:
     writer = csv.writer(csvfile, delimiter=' ', quotechar='|', quoting=csv.QUOTE_MINIMAL)
     writer.writerow(csv_columns)
     for c in citation:
-        #print(c)
+        time.sleep(random.random())
+        # print(c)
         query.set_words(c)
         querier.send_query(query)
-        scholar.csv(querier, header=False, sep=',')
-        writer.writerow(scholar.csv(querier, header=False, sep=','))
+        print(scholar.citation_export(querier))
+        citationFile.write(scholar.citation_export(querier))
+        citationFile.write('\n')
+        # writer.writerow(scholar.csv(querier, header=False, sep=','))
 
 print('finish writing to CSV file!')
 
