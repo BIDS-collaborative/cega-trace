@@ -6,12 +6,13 @@ import scholar
 
 
 current_path = os.getcwd() + "/output.csv"
-csv_columns = ['name', 'date', 'article']
+# csv_columns = ['title', 'url', 'year', 'num_citations', 'num_versions', 'cluster_id', 'url_pdf', 'url_citations', 'url_versions', 'url_citation', 'excerpt']
+csv_columns = ['title,url,year,num_citations,num_versions,cluster_id,url_pdf,url_citations,url_versions,url_citation,excerpt']
 parse_file = "target.txt"
 
 
 def decode(parse_file):
-    with codecs.open(parse_file, 'r+', encoding='IBM855') as txt_file:
+    with codecs.open(parse_file, 'r+', encoding='UTF-8') as txt_file:
         txt = txt_file.readlines()
     return txt
 
@@ -109,8 +110,16 @@ settings = scholar.ScholarSettings()
 query = scholar.SearchScholarQuery()
 querier.apply_settings(settings)
 
-for c in citation:
-    print(c)
-    query.set_words(c)
-    querier.send_query(query)
-    scholar.csv(querier, header=True, sep='|')
+with open('outcome.csv', 'w') as csvfile:
+    writer = csv.writer(csvfile, delimiter=' ', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    writer.writerow(csv_columns)
+    for c in citation:
+        #print(c)
+        query.set_words(c)
+        querier.send_query(query)
+        scholar.csv(querier, header=False, sep=',')
+        writer.writerow(scholar.csv(querier, header=False, sep=','))
+
+print('finish writing to CSV file!')
+
+
