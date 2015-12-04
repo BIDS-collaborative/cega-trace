@@ -5,6 +5,10 @@ import codecs
 import scholar
 import random
 import time
+import sys  
+
+reload(sys)  
+sys.setdefaultencoding('utf8')
 
 
 current_path = os.getcwd() + "/output.csv"
@@ -125,7 +129,7 @@ with open('output.csv', 'w') as csvfile:
         query.set_words(c)
         querier.send_query(query)
         print(scholar.citation_export(querier))
-        citationFile.write(scholar.citation_export(querier))
+        citationFile.write(scholar.citation_export(querier).encode('utf-8'))
         citationFile.write('\n')
         # writer.writerow(scholar.csv(querier, header=False, sep=','))
 
