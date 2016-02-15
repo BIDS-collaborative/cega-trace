@@ -22,17 +22,17 @@ def decode(parse_file):
         txt = txt_file.readlines()
     return txt
 
-def concate(lines):
-    str1 = ""
-    L = []
-    for line in lines:
-        if line[-1] != ".":
-            str1 = str1 + " " + line
-        else:
-            str1 = str1 + " " + line
-            L.append(str1)
-            str1 = ''
-    return L
+# def concate(lines):
+#     str1 = ""
+#     L = []
+#     for line in lines:
+#         if line[-1] != ".":
+#             str1 = str1 + " " + line
+#         else:
+#             str1 = str1 + " " + line
+#             L.append(str1)
+#             str1 = ''
+#     return L
 
 def concate2(lines):
     str1 = ""
@@ -71,27 +71,27 @@ def writeDictToCSV(csv_file, csv_columns, dict_data):
             writer.writerow(data)
     return dict_data
 
-def parseLeftAndRight(txt):
-	left,right = [], []
-	for line in txt:
-		index = line.find('  ')
-		if index == -1:
-			left.append(line)
-		else:
-			left.append(line[:index])
-			right.append(line[index:])
-	return left, right
+# def parseLeftAndRight(txt):
+# 	left,right = [], []
+# 	for line in txt:
+# 		index = line.find('  ')
+# 		if index == -1:
+# 			left.append(line)
+# 		else:
+# 			left.append(line[:index])
+# 			right.append(line[index:])
+# 	return left, right
 
 
-'''
-left, right = parseLeftAndRight(decode(parse_file))
-l = concate(left)
 
-txt = open("parce_sample.txt", "w")
-for a in l:
-    txt.write(a[1:] + "\n")
-txt.close()
-'''
+# left, right = parseLeftAndRight(decode(parse_file))
+# l = concate(left)
+
+# txt = open("parce_sample.txt", "w")
+# for a in l:
+#     txt.write(a[1:] + "\n")
+# txt.close()
+
 
 sample = decode(parse_file)
 citation = parseTxtFile(sample)
