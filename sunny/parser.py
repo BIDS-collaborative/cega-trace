@@ -8,8 +8,8 @@ import random
 import time
 import sys  
 
-reload(sys)  
-sys.setdefaultencoding('utf8')
+#reload(sys)  
+#sys.setdefaultencoding('utf8')
 
 
 try:
@@ -45,7 +45,7 @@ def articleToDict(article):
     return articleToDict
 
 def decode(parse_file):
-    with codecs.open(parse_file, 'r+', encoding='utf-8') as txt_file:
+    with codecs.open(parse_file, 'r+', encoding='utf-8', errors = "ignore") as txt_file:
         txt = txt_file.readlines()
     return txt
 
@@ -80,23 +80,23 @@ def parseTxtFile(lines):
 
 
 
-with open('sources.csv') as csvfile:
+with open('sources.csv', encoding='utf-8', errors = "ignore") as csvfile:
     reader = csv.DictReader(csvfile)
     fulljson = []
 
     for row in reader:
-        try:
-            article = scholarLookup(str(row['citation']))
-            current_dict = articleToDict(article)
-            current_dict['id'] = str(row['id'])
-            cited_lst = parseTxtFile(decode(parse_file))
-            citations = [articleToDict(scholarLookup(i)) for i in cited_lst]
-            current_dict['citations'] = citations
+        #try:
+        article = scholarLookup(str(row['citation']))
+        current_dict = articleToDict(article)
+        current_dict['id'] = str(row['id'])
+        cited_lst = parseTxtFile(decode(parse_file))
+        citations = [articleToDict(scholarLookup(i)) for i in cited_lst]
+        current_dict['citations'] = citations
 
-            fulljson += [current_dict]
+        fulljson += [current_dict]
 
-        except Exception, e:
-            print("Could not find article")
+        #except Exception e:
+         #   print("Could not find article")
 
 with open('output.txt', 'w') as outfile:
     json.dump(data, outfile)

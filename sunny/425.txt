@@ -1,0 +1,76 @@
+Herrera, S. and Pang, G. (2005), “Efficiency of Public Spending in Developing Countries: An Efficiency Frontier Approach,” World Bank Working Paper, May.
+World Bank (2005), “Philippines: Meeting Infrastructure Challenges,” Washington, D.C.
+World Bank (2007) “Philippines: Agriculture Public Expenditure Review.”
+World Bank (2009), “Philippines: Transport for Growth,” (Report No. 47281-PH), February 24.
+World Bank (2009), “Public Expenditure and Financial Accountability Assessment.”
+World Bank (2009), Philippines Quarterly Update, November 2009, Box 3.
+World Bank (2010), Philippines Development Report, forthcoming.
+World Bank (2010), “Philippines: Challenges and Options for 2010 and Beyond,” Discussion Notes, 2010, Draft.
+World Bank (2010), “Philippines: Basic Education Public Expenditure Review,” forthcoming.
+Afonso, A. and Aubyn M., (2004), “Non-parametric Approaches to Education and Health Expenditure Efficiency in OECD Countries.” Manuscript.Asian Development Bank (2009), “Poverty in the Philippines: Causes, Constraints and Opportunities.”Asian Development Bank, Japan Bank for International Cooperation, and The World Bank. (2005), “Connecting East Asia: A New Framework for Infrastructure.”
+Baldacci, E., Gupta. S. Clements, B., and Cui, Q. (2008), “Social Spending, Human Capital and Growth in Developing Countries,” World Development. Vol. 36(8), pp. 1317-1341.
+Banker, R.D., Chares, A. and Cooper, W. (1984), “Some Models for Estimating Technical and Scale Inefficiencies in Data Envelopment Analysis,” Management Science, 30, pp.1078-1092.
+Center for Legislative Development (CLD), the Philippines (2008), “Issues and Problems on Access to Health Services: A Policy Perspective,” http://www.cld.org/admin/images_products/9169study.pdf
+Coelli T. J. (1996), “A Guide to DEAP 2.1: A Data Envelopment Analysis Program,” Department of Econometrics Working Paper, University of New England, Armidales, Australia.
+Charnes, A. Cooper, W., and Rhodes, E. (1978), “Measuring the Efficiency of Decision Making Units,” European Journal of Operational Research, 2 (6), pp.429–444.
+Farrell, M. (1957), “The Measurement of Productive Efficiency,” Journal of the Royal Statistical Society, Series A, 120, Part 3, pp. 253-290.
+Gupta, S. and Verhoeven, M. (2001), “The Efficiency of Government Expenditure – Experiences from Africa,” Journal of Policy Modelling, 23, pp. 433-467.
+Herrera S. and Pang, G. (2005), “Efficiency of Public Spending in Developing Countries: An Efficiency Frontier Approach,” Policy Research Working Paper 3645, World Bank, Washington, D.C.
+Ilagan, K. (2009), “Big Infra Spending Fails to Life Plight of the Poorest,” Philippine Center for Investigative Journalism, May 7.
+Lachler, U. (2005), “The Efficiency of Public Spending on Education and Health in Guatemala,” Guatemala Public Expenditure Review.
+Manasan R., Cuenca J., and Villanueva, E. (2007), “Benefit Incidence of Public Spending on Education in the Philippines,” Philippines Institute for Development Studies Discussion Paper Series No. 2007-09, Makati City.
+Mandl, U., Dierx, A., and Ilzkovitz, F. (2008), “The Effectiveness and Efficiency of Public Spending,” Economic Papers of the Directorate-General for Economic and Financial Affairs, European Commission.
+National Statistics Office of the Philippines. Country in Figures, Various issues.
+Philippine Institute for Development Studies (2009), “Improving Local Service Delivery for the MDGs in Asia: the Case of the Philippines,” Discussion Paper Series No. 2009-34.
+Verhoeven, M., Gunnarsson, V., and Carcillo S. (2007), “Education and Health in G7 Countries: Achieving Better Outcome with Less Spending,” IMF Working Paper 07/263, International Monetary Fund, Washington D.C.
+World Economic Forum (2010), Global Competitiveness Report 2009-10.
+World Bank (2010a), “Philippines: Basic Education Public Expenditure Review,” forthcoming.
+World Bank (2010b), “Philippines: Health Sector Review.”
+World Bank (2005), EAP Infrastructure at a Glance.
+World Bank (2009a), “Reshaping Economic Geography,” World Development Report, Washington, DC: The World Bank. World Bank (2009b), “Transport for Growth: An Institutional Assessment of Transport Infrastructure.”
+World Health Organization (2009), Country Health Information Profiles-the Philippines.
+Acemoglu, D. (2009), Introduction to Modern Economic Growth, Princeton University Press, Princeton.
+Barro, R. and Sala-i-Martin, X. (1995), Economic Growth, McGraw-Hill, New York.
+Balisacan, A., Hill, H., and Piza, S. F. (2008), “Regional Development Dynamics and Decentralization in the Philippines,” ASEAN Economic Bulletin, December, Vol. 25 Issue 3, pp. 293-315.
+Bird, R. and Rodriguez, E. (1999), “Decentralization and Poverty Alleviation: International Experience and the Case of the Philippines,” Public Administration and Development, Vol. 19, Issue 3, pp. 299-319.
+Devarajan, S. and Hossain, S. (1998), “The Combined Incidence of Taxes and Public Expenditures in the Philippines,” World Development, Vol. 26 (6), pp. 963-977.
+Hobijn, B. and Franses, P. H. (2001), “Are living standards converging?” Structural Change and Economic Dynamics Vol. 12, pp. 171-200.
+Kenny, C. (2005), “Why are we worried about income? Nearly everything that matters is converging,” World Development, Vol. 33(1), pp. 1-19.
+Llanto, G. (2009), “Fiscal Decentralization and Local Finance Reforms in the Philippines,” Philippines Institute for Development Studies Discussion Paper Series No. 2009-10, Makati City.
+Manasan, R. (2007), “Decentralization and the Financing of Regional Development,” in Balisacan, A. and Hill, H., (eds.), The Dynamics of Regional Development: The Philippines in East Asia, Ateneo de Manila University Press, Quezon City.
+Manasan, R. and Chaterjee, S. (2003), “Regional Development” in Balisacan, A. and Hill, H. (eds.), The Philippine Economy: Development, Policies, and Challenges, Ateneo de Manila University Press, Quezon City.
+Mapa, D. and Bersales, L.G. (2008), “The Link between Population Dynamics and Household Saving: An Econometric Approach,” Working Paper 2008-01, University of the Philippines School of Statistics, Quezon City.
+Neumayer, E. (2003), “Beyond Income: Convergence in Living Standards, Big Time,” Structural Change and Economic Dynamics, 14, pp. 275-296.
+Ravallion, M. (2001), “Measuring Aggregate Welfare in Developing Countries: How Well Do National Accounts and Surveys Agree?” Policy Research Working Paper No. 2665, World Bank, Washington, DC.
+Sab, R. and Smith, S. (2002), “Human Capital Convergence: A Joint Estimation Approach,” IMF Staff Papers, Vol. 49 (2), pp. 200-211.
+Sala-i-Martin, X. (1996), “The Classical Approach to Convergence Analysis,” Economic Journal, Vol. 106, pp. 1019-26.
+Silva, J. (2005), “Devolution and Regional Disparities in the Philippines: Is here a connection?” Environment and Planning C: Government and Policy 23(3), pp. 399–417.
+Terada-Hagiwara, A. (2009), “Explaining Filipino Households’ Declining Saving Rate,” Asian Development Bank Economics Working Paper No. No. 178, Asian Development Bank, Manila.
+World Bank (2010), “Philippines: Fostering More Inclusive Growth,” Washington, D.C.: The World Bank.
+World Bank (2009), “Reshaping Economic Geography,” 2009 World Development Report, Washington, D.C.: The World Bank.
+World Bank (2004), World Bank EU-8 Quarterly Economic Report, July, Washington, D.C.: The World Bank.
+World Bank (2001), “Philippines Poverty Assessment,” Report No. 20498, Washington, D.C.: The World Bank.
+Davoodi, H., Tiongson, E., andAsawanuchit, E. (2003), “How Useful are Benefit IncidenceAnalysis of Public Education and Health Spending,” IMF Working Paper 03/227, International Monetary Fund, Washington, D.C.
+Demery, L. (2000), “Benefit Incidence: A Practitioner’s Guide,” World Bank, Washington, D.C.
+Manasan, R., Cuenca, J., and Villanueva-Ruiz, E. (2008), “Benefit Incidence of Public Spending on Education in the Philippines.” Philippines Institute for Development Studies Discussion Paper No. 2008-08, Makati City.
+Manasan, R., Cuenca, J. (2009), “Benefit Incidence of Public Spending on Health in the Philippines,” Unpublished. van de Walle, D. (1996), “Assessing the Welfare Impacts of Public Spending,” Policy Research Working Paper No. 1670, World Bank, Washington, D.C.
+van de Walle, D. (1995), “Public Spending and the Poor: What We Know, What We Need to Know,” Policy Research Working Paper No. 1476, June, World Bank. Washington, D.C.
+Manasan, R., Cuenca, J., and Villanueva-Ruiz, E. (2008), Benefit Incidence of Public Spending on Education in the Philippines. Philippines Institute for Development Studies Discussion Paper No. 2008-08, Makati City.
+Botman, D, Klemm, A., and Baqir, R. (2008), “Investment Incentives and Effective Tax Rates in the Philippines: A Comparison with Neighboring Countries,” IMF Working Paper 08/207, International Monetary Fund, Washington, D.C.
+Engel,E.,A. Galetovic,A.,Raddatz,C.(1998), “Taxes and Income Distribution inChile: Some UnpleasantRedistributive Arithmetic,” NBER Working Paper Series 6828.
+Government of the Philippines. “Medium-Term Philippine Development Plan,” Various years (1998-2004, 2001-2004, and 2004-2010).
+Manasan, R. (2008), “Sustainability and Improvement in BIR Tax Effort in 2005-2007,” Working paper.
+Reside, R. (2006), “Fiscal Incentives and Investment in the Philippines,” Discussion Paper.
+World Bank (2005), “The Philippines: Towards a Better Investment Climate for Growth and Productivity.”
+World Bank (200x), “Economic Mechanisms for the Persistence of High Inequality in Latin America,” and “Taxation, Public Expenditures, and Transfers,” in “Inequality in Latin America.”
+World Bank (2006), “Pro-poor Growth in Latin America,” in “Poverty Reduction and Growth: Virtuous and Vicious Circles.”
+World Bank (2007), “The Political Economy of Reformsin the Philippines: The State of Knowledge and Implicationsfor the CAS,” Annex II, Political institutions and tax policymaking in the Philippines: A case study, Working Paper.
+World Bank (2008), “Adjusting Tobacco Excise Taxes,” Policy Note.
+World Bank (2008), “Strengthening Tax Administration,” Policy Note.
+World Bank (2010), “Tax Policy and Administration,” Discussion Note No. 3.
+Gereffi, G. and Fernandez-Stark, K. (2010), “The Offshore Services Value Chain: Developing Countries and the Crisis,” Policy Research Working Paper No. 5262, World Bank, Washington, D.C.
+Habib, B., Narayan, A., Olivieri, S., and Sanchez-Paramo, C. (2010), “Assessing ex ante the employment, poverty and distributional impact of the global crisis in Philippines: A micro-simulation approach,” forthcoming Policy Research Working Paper, World Bank, Washington, D.C.
+World Bank (2007), “Invigorating Growth, Enhancing its Impact,” 2007 Philippines Development Report.
+World Bank (2009), “Battling the Global Recession: Managing the Global Recession and Preparing for the Recovery,” 2009 Philippines Development Report.
+World Bank (2010), Philippines Quarterly Update, February 2010.
+World Bank (2010), “Philippines: Fostering More Inclusive Growth,” Washington, D.C.: The World Bank.

@@ -1,0 +1,101 @@
+Cotton, J. (1988) “On the Decomposition of Wage Differentials.” The Review of Economics and Statistics, 70: pp. 236-243.
+Deaton, Angus (1997) “The Analysis of Households Surveys. A Microeconometric Approach to development policy. The World Bank. Washington, DC
+Jann, Ben (2008). “The Blinder-Oaxaca decomposition for linear regression models.” The Stata Journal 8(4): 453-479.
+Neumark, D. (1988) “Employers’ Discriminatory Behavior and the Estimation of Wage Discrimination” The Journal of Human Resources 23: pp. 279-295.
+Machado, Jose A. F. and Mata, Jose (2005) “Counterfactual Decomposition of changes in wage distributions using quantile regression.” Journal of Applied Econometrics. 20:445-465.
+Melly B. 2006, Estimation of counterfactual distributions using quantile regression, Review of Labor Economics 68, 543-572.
+Oaxaca, Ronald, L. (1973) “Male-Female Wage Differentials in Urban Labor Markets,” International Economic Review, vol. 14, pp. 693-709.
+Oaxaca Ronald, and Michael Ransom 1994) “On Discrimination and the Decomposition of Wage Differentials,” Journal of Econometrics, vol. 61. pp. 2-21.
+Ravallion, Martin, and Quentin Wodon (1999) “Poor Areas, or Only Poor People?” Journal of Regional Science, vol. 39, no. 4, pp. 689-711.
+Reimers, C. W. (1993) “Labor Market Discrimination Against Hispanic and Black Men.” The Review of Economics and Statistics, 65(4), pp. 570-579.
+World Bank (2002) “Poverty Reduction in Egypt: Diagnosis and Strategy” Social and Economic development Group. Middle East and North Africa Region.
+_____ (2010) “Poverty in Egypt 2008-2009: Withstanding the Global Economic crisis”.
+Albers, R., and M. Peters. 2011. “Food and Energy Prices, Government Subsidies and Fiscal Balances in South Mediterranean Countries.” European Commission. Economic Papers #437.
+Azevedo J.P. , S. Franco, E. Rubiano, A. Hoyos, 2010. "HOI: Stata module to compute Human Opportunity Index," Statistical Software Components S457191, Boston College Department of Economics.
+Barros, R., F. Ferreira, J. Molinas and J. Saavedra. 2008. Measuring Inequality of Opportunities in Latin America and the Caribbean. Washington D.C.: The World Bank.
+Bourguignon, François, Francisco H.G. Ferreira, and Marta Menéndez. 2007a. “Inequality of Opportunity in Brazil.” Review of Income Wealth 53(4): 585-618.
+Bourguignon, F., F.H.G. Ferreira, and M. Walton. 2007b. “Equity, Efficiency and Inequality Traps: A research agenda.” Journal of Economic Inequality 5: 235-56.
+The Egyptian Center for Economic Studies (ECES). 2010. “The Subsidy System in Egypt: Alternatives for Reform.” Policy Viewpoint 25.
+Cameron, S.V., and J.J. Heckman. 1998. "Life Cycle Schooling and Dynamic Selection Bias: Models and Evidence for Five Cohorts of American Males." Journal of Political Economy 106(2).
+Carneiro, P., and J. Heckman. 2003. “Human capital policy.” NBER Working Paper No. 9495. February.
+Federal Interagency Forum on Child and Family Statistics. 2007. America’s Children: Key National Indicators of Well-Being. Washington, D.C.
+Ferreira, F.H.G., and J. Gignoux. 2008. ”The Measurement of Inequality of Opportunity: Theory and an application to Latin America.” Policy Research Working Paper 4659, World Bank, Washington, D.C.
+Grantham-Mcgregor, Burn, Cueto, Glewwe, Richter, and Strupp. 2007. “Child development in developing countries 1: Developmental potential in the first 5 years for children in developing countries.” Lancet 369: 60-70.
+Hassine, N.B. 2009. “Inequality of Opportunity in Egypt.” Economic Research Forum, Working Paper 549.
+Heckman, J. 2006. Interview with J. Macey. Economist argues for early childhood programs. ABC Local Radio, Australia. http://www.abc.net.au/am/content/2006/s1563997.htm.
+_____. 2008. “School, Skills, and Synapses.” Working Paper 14064, National Bureau of Economic Research.
+_____. 2011. “The American Family in Black and White: A Post-Racial Strategy for Improving Skills to Promote Equality.” IZA Discussion Paper No. 5495.
+Heckman, J., and Masterov. 2007. “The Productivity Argument for Investing in Young Children.” Working Paper 13016, National Bureau of Economic Research.
+Hoyos, Alejandro, and Ambar Narayan. 2011. “Inequalities of Opportunities among Children: How Much Does Gender Matter?”. World Bank: WDR background paper.
+Kilburn, R., and L. Karoly. 2008. “The Economy of Early Childhood Policy: What the Dismal Science has to Say About Investing in Children.” Occasional Paper of Labor and Population, RAND.
+Martinez-Vasquez, J., and Timoneef. 2011. “Decentralizing Egypt.” In J. Martinez-Vasquez and F. Vaillancourt (eds). Fiscal Decentralization in Developing Countries. United Kingdon: Edward Elgar Publishing Ltd., pp. 389-430.
+Ministry of Economic Development. 2010. Statistics of Public Investment by sector, from GDP data, and by region. Cairo, Egypt. Unpublished data.
+Molinas, J. R., Paes de Barros, R., Saavedra, J. and Guigale, M. (2010). Do Our Children Have A Chance? The 2010 Human Opportunity Report for Latin America and the Caribbean. Washington, D.C.: The World Bank.
+O’Donnell, O., E. Doorslaer, A. Wagstaff and M. Lindelow. 2008. “Analyzing Health Equity Using Household Survey Data: A Guide to Techniques and Their implementation”. The World Bank, Washington.
+Ravallion, M. 2010. “Mashup Indices of Development.” Policy Research Working Paper No. 5432, World Bank, Washington, D.C.
+Rocco L., K. Tanabe, M. Suhrcke, and E. Fumagalli. 2011. “Chronic Diseases and Labor Market Outcomes in Egypt.” Policy Research Working Paper No. 5575, World Bank, Washington, D.C.
+Roemer, John E. 1998. Equality of Opportunity. Cambridge, MA: Harvard University Press.
+Schweinhart, L.J. 2004. “The High/Scope Perry preschool study through age 40: summary, conclusions, and frequently asked questions.” Ypsilanti: High/Scope Educational Research Foundation.
+United Nations Children’s Fund (UNICEF). 2010a. Child Poverty and disparities in Egypt: Building the Social Infrastructure for Egypt’s Future. UNICEF Egypt, February.
+_____. 2010b. Trends of Child Poverty and Disparities in Egypt Between 2000 and 2008. UNICEF Egypt, November.
+United Nations Development Programme (UNDP). 2001. Egypt Human Development Report. United Nations Development Programme.
+_____. 2010. Egypt Human Development Report: Youth in Egypt: Building Our Future. United Nations Development Programme.
+World Bank. 2007. Egypt Poverty Assessment Update, World Bank, Washington, D.C.
+_________. 2009. Economic growth, inequality and poverty: Social mobility in Egypt between 2005 and 2008. World Bank, Washington, D.C.
+_____. 2010. Egypt’s Food Subsidies: Benefit Incidence and Leakages. World Bank, Washington, D.C.
+_____. 2011. Poverty in Egypt 2008-09: Withstanding the Global Economic Crisis. World Bank, Washington, D.C.
+World Health Organization Commission (WHO). 2007. Early child development: A powerful equalizer.
+Aldy, Joseph, Alan J. Krupnick, Richard G. Newell, Ian W.H. Parry and William A. Pizer, 2010. "Designing Climate Mitigation Policy." Journal of Economic Literature 48: 903-34.
+Anas, Alex and Govinda R Timilsina, 2009a. "Lock-in Effects of Road Expansion on CO2 Emissions: Results from a Core-Periphery Model of Beijing." Policy Research Working Paper: WPS5071. The World Bank, Washington, DC.
+Anas, Alex and Govinda R Timilsina, 2009b. "Impacts of Policy Instruments to Reduce Congestion and Emissions from Urban Transportation: The Case of Sao Paulo, Brazil." Policy Research Working Paper: WPS5099. The World Bank, Washington, DC.
+Anas, Alex, Govinda R Timilsina and Siqi Zheng, 2009. An Analysis of Various Policy Instruments to Reduce Congestion, Fuel Consumption and CO2 Emissions in Beijing. Policy Research Working Paper: WPS5068. The World Bank, Washington, DC.
+CAPMAS, 2010. Electronic Database, Central Agency for Public Mobilization and Statistics, www.capmas.gov.eg.
+Cifuentes, Luis A., Alan J. Krupnick, Raúl O‘Ryan and Michael Toman, 2005. "Urban Air Quality and Human Health in Latin America and the Caribbean." Working paper, Inter- American Development Bank, Washington, DC.
+Duranton G., and M. Turner, 2009. "The Fundamental Law of Road Congestion: Evidence from U.S. Cities." Working paper 15,376, National Bureau of Economic Research, Cambridge, MA.
+Eskeland, G.S. and Feyzioglu, T.N., 1994. "Is Demand for Polluting Goods Manageable? An Econometric Study of Car Ownership and Use in Mexico." Policy Research Working Paper Series 1309, The World Bank.
+Galindo, L.M., 2005. "Short- and Long-run Demand for Energy in Mexico: A Cointegration Approach." Energy Policy 33: 1179–1185.
+Glaister, Stephen and Dan Graham, 2002. "The Demand for Automobile Fuel: A Survey of Elasticities." Journal of Transport Economics and Policy 36: 1-25.
+Goodwin, Phil B., Joyce Dargay and Mark Hanly, 2004. "Elasticities of Road Traffic and Fuel Consumption With Respect to Price and Income: A Review." Transport Reviews 24: 275-292.
+Greene, David L., 2010. How Consumers Value Fuel Economy: A Literature Review. United States Environmental Protection Agency, EPA-420-R-10-008, Washington, DC.
+Gurjar, B.R., T.M. Butler, M.G. Lawrence and J. Lelieveld, 2008. "Evaluation of Emissions and Air Quality in Megacities." Atmospheric Environment 42 :1593-1606.
+Harrington, Winston (1997). "Fuel Economy and Motor Vehicle Emissions." Journal of Environmental Economics and Management 33 (3): 240-52.
+IAPT. 2007. Millennium Cities Database for Sustainable Transport. International Association of Public Transport, Brussels.
+IEA, 2008. Energy Prices and Taxes Fourth Quarter 2006. International Energy Agency, Paris, France.
+IMF, 2009. World Economic Outlook Database-October 2009. International Monetary Fund, Washington, DC.
+IWG, 2010. Social Cost of Carbon for Regulatory Impact Analysis Under Executive order 12866. Interagency Working Group on Social Cost of Carbon, Washington, DC.
+Nippon Koei Company Limited (NKCL) and Katharia Engineers International (KEI). 2008. The Strategic Urban Development Master Plan Study for Sustainable Development of the Greater Cairo Region in the Arab Republic of Egypt. Unpublished Draft Report, Ministry of Housing, Utilities and Urban Development, Cairo. Egypt.
+Kenworthy, Jeff, and Felix, Laube. 2001. The Millennium Cities Database for Sustainable Transport. International Union of Public Transport, Brussels.
+Miller, Ted R., 2000. "Variations Between Countries in Values of Statistical Life." Journal of Transport Economics and Policy 34: 169-188.
+Newbold, Stephen C., Charles Griffiths, Chris Moore and Ann Wolverton, 2009. "The "Social Cost of Carbon" Made Simple." Discussion paper, National Center for Environmental Economics, US Environmental Protection Agency, Washington, DC.
+Nippon Koei Co., Ltd and Katharia & Engineers International, 2008. The Strategic Urban Development Master Plan Study for Sustainable Development of the Greater Cairo Region in the Arab Republic of Egypt, Draft Final Report, Ministry of Housing, Utilities & Urban Development/Japan International Cooperation Agency.
+Parry, Ian W.H. and Jon Strand, 2010. "International Fuel Tax Assessment: An Application to Chile." Environment and Development Economics, forthcoming.
+Parry, Ian W.H. and Govinda R. Timilsina, 2010. "How Should Passenger Travel in Mexico City be Priced?" Journal of Urban Economics 68: 167-182.
+Parry, Ian W.H. and Kenneth A. Small, 2009. "Should Urban Transit Subsidies Be Reduced?" American Economic Review 99: 700–724.
+Parry, Ian W.H., David Evans, and Wallace E. Oates, 2010. "Are Energy Efficiency Standards Justified?" Discussion paper, Resources for the Future, Washington, DC.
+Pope, C. A., 3rd, R. T. Burnett, et al., 2004. "Cardiovascular Mortality and Long-Term Exposure to Particulate Air Pollution: Epidemiological Evidence of General Pathophysiological Pathways of Disease." Circulation 109: 71-77.
+Pope, C. A., 3rd and D. W. Dockery (2006). "Health Effects of Fine Particulate Air Pollution: Lines that Connect." Journal of the Air & Waste Management Association 56: 709-42.
+Santos, G. and Rojey, L., (2004). Distributional impacts of road pricing: the truth behind the myth. Transportation, 31, 21–42.
+Small, Kenneth A., and Erik Verhoef. 2007. The Economics of Urban Transportation. New York: Routledge.
+Small, Kenneth A. and Kurt Van Dender, 2006. "Fuel Efficiency and Motor Vehicle Travel: The Declining Rebound Effect." Energy Journal 28: 25-52.
+Timilsina, Govinda R. and Hari B. Dulal, 2008, Fiscal Policy Instruments for Reducing Congestion and Atmospheric Emissions in the Transport Sector: A Review. Policy Research Working Paper: WPS4652. The World Bank, Washington, DC.
+Tol, Richard, S.J., 2009. "The Economic Effects of Climate Change." Journal of Economic Perspectives 23 (2):29-51.
+US DOE, 1996. Policies and Measures for Reducing Energy Related Greenhouse Gas Emissions: Lessons from Recent Literature. Report No. DOE/PO-0047. U.S. Department of Energy. Washington, DC: DOE Office of Policy and International Affairs.
+Viscusi, Kip and Jospeh E. Aldy, 2003. "The Value of a Statistical Life: A Critical Review of Market estimates Throughout the World." Journal of Risk and Uncertainty 27: 5-76.
+Weitzman, Martin, L., 2009. "On Modeling and Interpreting the Economics of Catastrophic Climate Change." Review of Economics and Statistics XCI(1): 1-19.
+World Bank, 2008. World Development Indicators Database. Washington, DC.
+World Bank, 2002. "Improving Air Quality in Metropolitan Mexico City: An Economic Valuation." Policy research working paper WPS 2785, Washington, DC.
+Bayat Asef and Denis Eric, (October 2000). "Who is Afraid of Ashwaiyyat? Urban Change and Politics in Egypt" Environment and Urbanization. Vol. 12, # 2.
+Bertaud, Alain. (2010) "Land markets, government interventions, and housing affordability" Wolfensohn Center for Development at Brooking,. Working Paper 18. May, 2010
+El-Zanaty, Fatma. and Way, Ann A. (2004). Greater Cairo Slums: A Profile Based on the 2003 Egypt Demographic and Health Survey. Cairo Egypt: Ministry of Health and Population [Egypt], National Population Council, El-Zanaty and Associates, ORC Macro and Carolina Population Center, University of North Carolina.
+World Bank (2007). Towards an daffordable and effective housing strategy in Egypt. Policy Note 1: Affordability and Targeting. Prepared by David Sims.
+World Bank (2008) "Arab Republic of Egypt, Urban Sector Update" Sustainable Development Department Middle East & North Africa Region. Volumes I and II. June, 2008
+World Bank (2008b) "The Dynamics of Peri-urban Areas Around Greater Cairo Region" Urban Sector Update, Urban Note, MNSSD. March, 2008.
+World Bank (2009) "World Development Report 2009. Reshaping Economic Geography".
+World Bank (2009b) "Draft Project Concept Note for Potential Engagement in the Municipal Solid Waste Management Sector in Egypt." By Jaafar Friaa and Madhu Raghunath.
+UNDP (2010) "Human Development Report 2010. Youth in Egypt: Building our Future" United Nations Development Programme and the Institute of National Planning.
+Sims, David (2008) "Towards appropriate planning and building standards for urban Egypt: Guidelines for Tahzim residential areas on agricultural land" Policy Note World Bank.
+Wahba, Jackline. 2007. An Overview of Internal and International Migration in Egypt. ERF Working Paper Series.
+Zohry, Aymen. 2009. The Development Impact of Internal Migration: Findings from Egypt. International Union for the Scientific Study of Population.
+World Development Report. 2010. The World Bank.
+Bhagat, Ram B. 2009. Internal migration in India: are the underclass more mobile?. The 26th IUSSP General Population Conference.
+Gollin, Douglas & Parente, Stephen & Rogerson, Richard. 2004. The Food Problem and the Evolution of International Income Levels. Working Papers 899, Economic Growth Center, Yale University

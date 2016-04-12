@@ -1,0 +1,56 @@
+Angrist, Joshua, and Victor Lavy. 2009. “The Effects of High Stakes High School Achievement Awards: Evidence from a Randomized Trial.” American Economic Review, 99 (4): 301–331.
+Angrist, Joshua, Eric Bettinger, Erik Bloom, Elizabeth King, and Michael Kremer. 2002. "Vouchers for Private Schooling in Colombia: Evidence from a Randomized Natural Experiment." American Economic Review, 92(5): 1535–1558.
+Banerjee, A., Cole, S., Duflo, E. and Linden, L. 2007. “Remedying Education: Evidence from Two Randomized Experiments in India,” Quarterly Journal of Economics, 122(3): 1235–1264.
+Barrera-Osorio, Felipe, and Leigh L. Linden. 2009. "The use and misuse of computers in education: evidence from a randomized experiment in Colombia." World Bank Policy Research Working Paper No. 4836.
+Baumeister, Roy, and Todd Heatherton. 1996. “Self-Regulation Failure: An Overview,” Psychological Inquiry, 7(1): 1–15.
+Baumeister, Roy F., Ellen Bratslavsky, Mark Muraven, and Dianne M. Tice. 1998. “Ego Depletion: Is the Active Self a Limited Resource,” Journal of Personality and Social Psychology, 74(5), 1252–1265.
+Baumeister, Roy F., Kathleen D. Vohs, and Dianne M. Tice. 2007. “The Strength Model of SelfControl,” Current Directions in Psychological Science 16(6), 351–355.
+Beal, Diana, and Sarath Delpachitra. 2003. “Financial literacy among Australian university students.” Economic Papers, 22 (1): 65–78.
+Becchetti, L., S. Caiazza and D. Coviello, 2011. “Financial education and investment attitudes in high schools: Evidence from a randomized experiment.” CEIS Research Paper No. 210, Tor Vergata University.
+Becchetti, L. and F. Pisani, 2012. “Financial education on secondary school students: The randomized experiment revisited.” Aiccon Working Paper No. 98.
+Becker, G., and C. Mulligan. 1997. “The Endogenous Determination of Time Preference.” The Quarterly Journal of Economics, 112(3): 729–758.
+Berndt, Thomas J. 1979. “Developmental Changes in conformity to peers and parents,” US: American Psychological Association, November 1979.
+Bernheim, B.Douglas, Daniel M. Garrett, and Dean M. Maki. 2001. “Education and saving: The long-term effects of high school financial curriculum mandates.” Journal of Public Economics 80 (3): 435–465.
+Berry, James, Dean Karlan, and Menno Pradhan. 2012. "Evaluating the Efficacy of School Based Financial Education Programs with Children in Ghana.” The Abdul Latif Jameel Poverty Action Lab, Poverty Action Lab. 17 Oct. 2012.
+Bruhn, Miriam, Gabriel Lara Ibarra, and David McKenzie. 2013. “Why Is Voluntary Financial Education So Unpopular? Experimental Evidence from Mexico.” World Bank Policy Research Working Paper No. 6439.
+Bruhn, Miriam, and David McKenzie. 2009. "In Pursuit of Balance: Randomization in Practice in Development Field Experiments." American Economic Journal: Applied Economics, 1(4): 200–232.
+Cabezas, Victor, Ricardo Paredes, and C. Quezada. 2011. “Peer effects, segregation and school performance in Chile.” Working Paper, Department of Industrial Engineering, PUC.
+Carlin, Bruce Ian, and David T. Robinson. 2010. “What Does Financial Literacy Training Teach Us?” National Bureau of Economic Research Working Paper Series No. 16271 (August).
+Carvalho, Leandro, Silvia Prina, and Justin Sydnor, “The Effects of Savings on Risk-Taking and Intertemporal Choice Behavior: Evidence From a Randomized Experiment,” Working Paper, Case Western University.
+Cole, Shawn. A, and Gauri K Shastry. 2009. “Smart Money: The Effect of Education, Cognitive Ability, and Financial Literacy on Financial Market Participation." Harvard Business School Finance Working Paper Series. Harvard Business School, February 17.
+Cole, Shawn A., Thomas Sampson, and Bilal Zia. 2011. “Prices or Knowledge? What Drives Demand for Financial Services in Emerging Markets?” Journal of Finance, 66(6): 1933–1967.
+Consumer Financial Protection Bureau. 2013. “Transforming the Financial Lives of a Generation of Young Americans: Policy Recommendations for Advancing K-12 Financial Education,” CFPB Office of Financial Education Policy White Paper, April 2013.
+Duckworth, AL, and MEP Seligman. 2005. “Self-Discipline Outdoes IQ in Predicting Academic Performance of Adolescents,” Psychological Science, Vol. 16, 939–44.
+Duckworth, Angela, Patrick Quinn, and Eli Tsukayama. 2012. “What No Child Left Behind Leaves Behind: The Roles of IQ and Self-Control in Predicting Standardized Achievement Test Scores and Report Card Grades,” Journal of Educational Psychology, Vol. 104(2), May 2012, 439-451.
+Fernandes, Daniel, John G. Lynch Jr., and Richard G. Netemeyer. 2013. “Financial Literacy, Financial Education and Downstream Financial Behaviors.” Forthcoming in Management Science.
+Frederick, Shane, George Loewenstein, and Ted O'Donoghue. 2002. “Time Discounting and Time Preference: A Critical Review,” Journal of Economic Literature, 40(2), 351–401.
+He, F., Linden, L. and MacLeod, M. 2008. “How to Teach English in India: Testing the Relative Productivity of Instruction Methods within the Pratham English Language Education Program,” mimeo Columbia University. Instituto Data Popular. 2008. Annual Report. Brazil, 2008.
+Kocher, Martin G., Daniela Rützler, Matthias Sutter, and Stefan T. Trautmann. 2012. “Cognitive Skills, Self-Control, and Life Outcomes: The Early Detection of At-Risk Youth,” Vox (April 16), www.voxeu.org
+Linden, L. 2008. “Complement or Substitute? The Effect of Technology on Student Achievement in India,” mimeo Columbia University.
+Lührmann, Melanie, Marta Serra-Garcia, and Joachim Winter. 2012. "The effects of financial literacy training: Evidence from a field experiment with German high-school
+children." Discussion Papers in Economics 14101, University of Munich, Department of Economics.
+Lusardi, Annamaria, and Olivia S. Mitchell. 2007. “Financial Literacy and Retirement Preparedness: Evidence and Implications for Financial Education,” Business Economics, 42(1): 35–44.
+Lusardi, Annamaria, and Olivia S. Mitchell. 2008. “Planning and Financial Literacy: How Do Women Fare?” Center for Research on Pensions and Welfare Policies, Turin (Italy), January. 
+Lusardi, Annamaria, Olivia S. Mitchell, and Vilsa Curto. 2010. "Financial Literacy among the Young: Evidence and Implications for Consumer Policy."
+Lusardi, Annamaria, and Olivia S. Mitchell. 2011a. “Financial Literacy Around the World: An Overview.” Journal of Pension Economics and Finance, October 2011.
+Lusardi, Annamaria, and Olivia S. Mitchell. 2011b. “Financial Literacy and Retirement Planning in the United States.” CeRP Working Papers. Center for Research on Pensions and Welfare Policies, Turin (Italy), February.
+Lusardi, Annamaria, Olivia S. Mitchell, and Vilsa Curto. 2009. “Financial Literacy Among the Young: Evidence and Implications for Consumer Policy.” National Bureau of Economic Research Working Paper Series No. 15352 (September).
+Lusardi, Annamaria, Peter Tufano, and S. Field. 2009. “Debt Literacy, Financial Experiences, and Overindebtedness.” National Bureau of Economic Research Working Paper Series No.14808 (March).
+Mandell, Lewis. 2006. “Financial Literacy: If It’s so Important, Why Isn’t It Improving?” Networks Financial Institute Policy Brief 2006-PB-08 (April).
+McKenzie, David. 2012. “Beyond baseline and follow-up: the case for more T in experiments,” Journal of Development Economics, 99(2): 210–221.
+McKenzie, David, and Bilal Zia. 2012. “Who you Train Matters: Identifying Complementary Effects of Financial Education on Migrant Households,” World Bank Policy Research Working Paper No. 6157.
+Micarelli, Hilda, Manuel Palacios and Marcelo Burgos. 2012. “Application of the CAEd autonomy scale to assess the impact of financial education”, CAEd academic publications online. 
+Mischel, W. 1974. “Process in Delay of Gratification,” in L. Berkowitz (Ed.), “Advances in Experimental Social Psychology,” Vol 7, 249-292, San Diego: Academic.
+Mischel, W., Y. Shoda, and P. K. Peake. 1988. “The Nature of Adolescent Competencies Predicted by Preschool Delay of Gratification,” Journal of Personality and Social Psychology, 54: 687–696.
+Mischel, W, S Yuichi, and ML Rodriguez. 1989. “Delay of gratification in children”, Science, 244:933–38.
+Mullianathan, Sendhil, and Eldar Shafir. 2013. “Scarcity: Why Having too Little Means so Much,” Times Books, New York.
+Muralidharan, K. and Sundararaman, V. 2011. “Teacher Performance Pay: Experimental Evidence from India,” Journal of Political Economy, 119(1): 39–77.
+Muraven, Mark and Roy Baumeister. 2000. “Self-Regulation and Depletion of Limited Resources,” Psychological Bulletin, 126(2): 247–259.
+Noom, M. J., Dekovic, M., and Meeus, W. 2001. “Conceptual analysis and Measurement of Adolescent Autonomy,” Journal of Youth and Adolescence, 30(5): 577–595.
+Reichert, C. B., and A. Wagner. 2007. “Considerations Regarding Autonomy in the Contemporaneity,” Estudos e Pesquisas em Psicologia (Online), 7(3): 46–59.
+Steiberg, Laurence, and Susan Silverberg. 1986. “The Vicissitudes of Autonomy in Early Adolescence,” Child Development, 57: 841–851.
+Sutter, Matthias, Martin G. Kocher, Daniela Glätzle-Rüetzler, and Stefan T. Trautmann. 2013. "Impatience and Uncertainty: Experimental Decisions Predict Adolescents' Field Behavior."American Economic Review, 103(1): 510-31.
+U.S. Bankruptcy Abuse Prevention and Consumer Protection Act Report, 2011
+Varcoe, Karen P., Allen Martin, Zana Devitto, and Charles Go. 2005. “Using A Financial Education Curriculum For Teens.” Journal of Financial Counseling and Planning, 16(1): 63–71.
+Walstad, William B., Ken Rebeck, and Richard A. MacDonald. 2010. “The Effects of Financial Education on the Financial Knowledge of High School Students.” Journal of Consumer Affairs, 44(2): 336–357.
+Xu, Lisa, and Bilal Zia. 2012. “Financial Literacy Around the World: Overview of the Evidence and Practical Suggestions for the Way Forward,” World Bank Policy Research Working Paper #6107, July 2012.

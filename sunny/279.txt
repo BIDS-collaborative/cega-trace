@@ -1,0 +1,60 @@
+Alderman, Harold, John Hoddinott, and Bill Kinsey. 2006. “Long-term Consequences of Early Childhood Malnutrition.” Oxford Economic Papers 58 (3): 450–74.
+Backstrand, Jeffrey R., Lindsay H. Allen, Gretel H. Pelto, and Adolfo Chávez. 1997. “Examining the Gender Gap in Nutrition: An Example from Rural Mexico.” Social Science & Medicine 44 (11): 1751–9.
+Behrman, Jere R., and John Hoddinott. 2005. “Programme Evaluation with Unobserved Heterogeneity and Selective Implementation: The Mexican PROGRESA Impact on Child Nutrition.” Oxford Bulletin of Economics and Statistics 67 (4): 547–69.
+Behrman, Jere R., Susan W. Parker, and Petra E. Todd. 2011. “Do Conditional Cash Transfers for Schooling Generate Lasting Benefits? A Five Year Follow-up of ROGRESA/Oportunidades.” Journal of Human Resources 46: 93-122.
+Behrman, Jere R., Susan W. Parker, and Petra E. Todd. 2009a. “Medium-Term Impact of the Oportunidades Conditional Cash Transfer Program on Rural Youth in Mexico.” In Poverty, Inequality and Policy in Latin America, ed. S. Klasen and F. Nowak-Lehmann, 219–70. Cambridge: MIT Press.
+Behrman, Jere R., Susan W. Parker, and Petra E. Todd. 2009b. “Schooling Impacts of Conditional Cash Transfers on Young Children: Evidence from Mexico.” Economic Development and Cultural Change 57 (3): 439–77.
+Behrman, Jere R., Piyali Sengupta, and Petra E. Todd. 2005. “Progressing through PROGRESA: an Impact Assessment of a School Subsidy Experiment in Rural Mexico.” Economic Development and Cultural Change 54 (1): 237–75. 
+Behrman, Jere R., and Petra E. Todd. 1999. Randomness in the experimental samples of PROGRESA –Education, Health, and Nutrition Program. International Food Policy Research Institute.
+Behrman, Jere R., Petra E. Todd, Bernardo Hernández, José Urquieta, Orazio Attanasio, Manuela Angelucci, and Mauricio Hernández. 2006. Evaluación externa de impacto del programa Oportunidades 2006. Instituto Nacional de Salud Pública.
+Black, Sandra E., Paul Devereux, and Kjell Salvanes. 2007. “From the cradle to the labor market? The Effect of Birth Weight on Adult Outcomes.” The Quarterly Journal of Economics 122 (1): 409 –39.
+Bossert, Walter. 1995. “Redistribution Mechanisms Based on Individual Characteristics.” Mathematical Social Sciences 29 (1): 1–17.
+Bourguignon, François, Francisco H.G. Ferreira, and Marta Menéndez. 2007. “Inequality of Opportunity in Brazil.” Review of Income and Wealth 53 (4): 585–618.
+Branca, Francesco, and Marika Ferrari. 2002. “Impact of Micronutrient Deficiencies on Growth: The Stunting Syndrome.” Annals of Nutrition and Metabolism 46 (Suppl. 1): 8–17.
+Case, Anne, and Christina Paxson. 2008. “Stature and Status: Height, Ability and Labor Market Outcomes.” Journal of Political Economy 116 (3): 499–532.
+Cawley, John. 2004. “The Impact of Obesity on Wages.” Journal of Human Resources 39 (2): 451–74.
+Cawley, John, and C. Katharina Spiess. 2008. “Obesity and Skill Attainment in Early Childhood.” Economics and Human Biology 6: 388–97.
+Chen, Wen-Hao, and Jean-Yves Duclos. 2008. Testing for Poverty Dominance: An Application to Canada. IZA Discussion Paper N 2829.
+Davidson, Russell. 2009. “Testing for Restricted Stochastic Dominance: Some Further Results.” Review of Economic Analysis 1 (1): 34–59.
+Davidson, Russell, and Jean-Yves Duclos. 2009. Testing for Restricted Stochastic Dominance. GREQAM Document de Travail 2009-38 (06-09).
+Diaz, Juan José, and Sudhanshu Handa. 2006. “An assessment of Propensity Score Matching as a Nonexperimental Impact Estimator: Evidence from Mexico’s PROGRESA Program.” Journal of Human Resources 41 (2): 319–45.
+Fernald, Lia C.H., Paul J. Gertler, and Lynnette M. Neufeld. 2008. “Role of Cash in Conditional Cash Transfer Programmes for Child Health, Growth, and Development: An Analysis of Mexico’s Oportunidades.” The Lancet 371 (9615): 828–37.
+Fernald, Lia C.H., and Lynnette M. Neufeld. 2006. “Overweight with Concurrent Stunting in Very Young Children from Rural Mexico: Prevalence and Associated Factors.” European Journal of Clinical Nutrition 61 (5): 623–32.
+Ferreira, Francisco. H. G., and Jérémie Gignoux. 2011. “The Measurement of Inequality of Opportunity: Theory and an Application to Latin America.” Review of Income and Wealth 57(4): 622-54.
+Fiszbein, Ariel, Norbert Schady, Francisco H.G. Ferreira, Margaret Grosh, Nial Kelleher, Pedro Olinto, and Emmanuel Skoufias. 2009. Conditional Cash Transfers: Reducing Present and Future Poverty, a World Bank policy research report. The World Bank, Washington.
+Fleurbaey, Marc. 1995. “The Requisites of Equal Opportunity.” In Social Choice, Welfare and Ethics, ed. M. Salles and N. Schofield, 37–53. Cambridge University Press.
+Fleurbaey, Marc. 1998. “Equality among responsible individuals.” In Freedom in Economics: New Perspectives in Normative Economics, ed. J. Laslier, M. Fleurbaey, N. Gravel, and A. Trannoy, 206–234. London: Routledge.
+Fleurbaey, Marc. 2008. Fainess, Responsibility and Welfare. Oxford: Oxford University Press.
+Foster, James, Joel Greer, and Erik Thorbeke. 1984. “A Class of Decomposable Poverty Measures.” Econometrica 52 (3): 761–66.
+Gertler, Paul J. 2004. “Do Conditional Cash Transfers Improve Child Health? Evidence from PROGRESA’s Control Randomized Experiment.” American Economic Review 94 (2): 336–41.
+González de Cossío, Teresa, Juan A. Rivera, Dinorah González Castell, Mishel Unar Munguía, and Eric A. Monterrubio. 2009. “Child Malnutrition in Mexico in the Last Two Decades: Prevalence using the New WHO 2006 Growth Standards.” Salud Pública de México 51 (Supp 4): S494-S506.
+Grantham-McGregor, Sally, and Cornelius Ani. 2001. “A Review of Studies on the Effect of Iron Deficiency on Cognitive Development in Children.” The Journal of Nutrition 131 (2): 649S –68S.
+Heckman, James J. 1992. “Randomization and social policy evaluation.” In Evaluating Welfare and Training Programs, ed. C. Manski and I. Garfinkel, 201–230. Cambridge: Harvard University Press.
+Heckman, James J., Jeffrey Smith, and Nancy Clements. 1997. “Making the Most out of Programme Evaluations and Social Experiments: Accounting for Heterogeneity in Programme Impacts.” Review of Economic Studies 64 (4): 487–535.
+INSP. 2005. General Rural Methodology Note. Instituto Nacional de Salud Pública. Cuernavaca, Mexico. INSP2005.
+Lefranc, Arnaud, Nicolas Pistolesi, and Alain Trannoy. 2008. “Inequality of Opportunities vs. Inequality of Outcomes: Are Western Societies All Alike?” Review of Income and Wealth 54 (4): 513–46.
+Lefranc, Arnaud, Nicolas Pistolesi, and Alain Trannoy. 2009. “Equality of Opportunity and Luck: Definitions and Testable Conditions, with an Application to Income in France.” Journal of Public Economics 93 (11-12): 1189–1207.
+Naschold, Felix, and Christopher B. Barrett. 2010. A Stochastic Dominance Approach to Program Evaluation with an Application to Child Nutritional Status in Kenya. Working Paper.
+Olaiz, Gustavo, Juan A. Rivera, Teresa Shamah, Rosalba Rojas, Salvador Villalpando, Mauricio Hernández, and Jaime Sepúlveda. 2006. Encuesta Nacional de Salud y Nutrición 2006 [National Health and Nutrition Survey 2006]. Instituto Nacional de Salud Pública.
+O’Neill, Donal, Olive Sweetman, and Dirk Van de gaer. 2000. “Equality of Opportunity and Kernel Density Estimation: An Application to Intergenerational Mobility.” In Advances in Econometrics, Volume 14, ed. T. Fomby and R. C. Hill, 259–274. Stanford: JAI Press.
+Parker, Susan W., Luis Rubalcava, and Graciela Teruel. 2008. “Evaluating Conditional Schooling and Health Programs.” In Handbook of Development Economics, Volume 4, ed. T. Schultz and J. Strauss, 3963–4035. Elsevier.
+Paes de Barros, Ricardo, Francisco H.G. Ferreira, José R. Molinas Vega, and Jaime Saavedra Chanduvi. 2009. Measuring Inequality of Opportunities in Latin America and the Caribbean. The World Bank.
+Peragine, Vito, and Laura Serlenga. 2008. “Higher education and equality of opportunity in Italy.” In Inequality of opportunity: papers from the Second ECINEQ Society Meeting, Research on Economic Inequality, Volume 16, ed. J. Bishop and B. Zheng, 67–97. Bingley: Emerald Group Publishing.
+Psacharopoulos, George, and Harry A. Patrinos. 1994. Indigenous People and Poverty in Latin America: An Empirical Analysis. Washington DC: The World Bank.
+Ramos, Xavi, and Dirk Van de gaer. 2012. Empirical Approaches to Inequality of Opportunity: Principles, Measures and Evidence. FEB Working Paper 12/792. Ghent: Faculty of Economics and Business Administration, Ghent University.
+Reilly, John J., E. Methven, Zoe C. McDowell, Belinda Hacking, D. Alexander, Laura Stewart, and Christopher J.H. Kelnar. 2003. “Health Consequences of Obesity.” Archives of Disease in Childhood 88 (9): 748–52.
+Rivera, Juan A., Eric Monterrubio, Teresa González-Cossío, Raquel García-Feregrino, Armando García-Guerra, and Jaime Sepúlveda. 2003. “Nutritional Status of Indigenous Children Younger than Five Years of Age in Mexico: Results of a National Probabilistic Survey.” Salud Pública de México 45: S466–76.
+Rivera, Juan A., and Jaime Sepúlveda. 2003. “Conclusions from the Mexican National Nutrition Survey 1999: Translating Results into Nutrition Policy.” Salud Pública de México 45: S565–75.
+Rivera, Juan A., Daniela Sotres-Alvarez, Jean-Pierre Habicht, Teresa Shamah, and Salvador Villalpando. 2004. “Impact of the Mexican Program for Education, Health, and Nutrition (PROGRESA) on Rates of Growth and Anemia in Infants and Young Children.” The Journal of the American Medical Association 291 (21): 2563–70.
+Roemer, John. 1993. “A Pragmatic Theory of Responsibility for the Egalitarian Planner.” Philosophy & Public Affairs 22 (2): 146–66.
+Roemer, John. 1998. Equality of Opportunity. Cambridge MA: Harvard University Press.
+Rosa Dias, Pedro. 2009. “Inequality of Opportunity in Health: Evidence from a UK Cohort Study.” Health Economics 18 (9): 1057–74.
+Schick, Andreas, and Richard H. Steckel. 2010. Height as a Proxy for Cognitive and NonCognitive Ability. NBER Working Paper N 16570 .
+Schultz, T. Paul. 2004. “School Subsidies for the Poor: Evaluating the Mexican Progresa Poverty Program.” Journal of Development Economics 74 (1): 199–250.
+SEDESOL. 2008. Evaluación externa del Programa Oportunidades 2008. A diez años de intervención en zonas rurales (1997-2007). Ministry of Social Development of Mexico (SEDESOL).
+Serdula, Mary K., Donna Ivery, Ralph J. Coates, David S. Freedman, David F. Williamson, and Tim Byers. 1993. “Do Obese Children become obese Adults? A Review of the Literature.” Preventive Medicine 22: 167–77.
+Silverman, Bernard. W. 1986. Density Estimation for Statistics and Data Analysis. London: Chapman & Hall/CRH.
+Swift, Adam. 2005. “Justice, Luck, and the Family: The Intergenerational Transmission of Economic Advantage from a Normative Perspective.” In Unequal chances: family background and economic success, ed. S. Bowles, H.Gintis, and M. Osborne Groves, 256–76. Princeton University Press.
+Todd, Petra E. 2004. Design of the Evaluation and Method used to Select Comparison Group Localities for the Six Year Follow-Up Evaluation of Oportunidades in Rural Areas. Technical report, International Food Policy Research Institute.
+Trannoy, Alain, Sandy Tubeuf, Florence Jusot, and Marion Devaux. 2010. “Inequality of Opportunities in Health in France: A First Pass.” Health Economics 19 (8): 921–38. 
+Verme, Paolo. 2010. “Stochastic Dominance, Poverty and the Treatment Effect Curve.” Economics Bulletin 30 (1): 365–73.

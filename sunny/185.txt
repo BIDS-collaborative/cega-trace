@@ -1,0 +1,35 @@
+Banerjee, Abhijit V., Shawn Cole, Esther Duflo, and Leigh Linden. 2007. "Remedying Education: Evidence from Two Randomized Experiments in India." The Quarterly Journal of Economics, no. August: 1235â€“65.
+Boardman, Anthony, David Greenberg, Aidan Vining, and David Weimer. 2011. Cost-Benefit Analysis: Concepts and Practice. The Pearso. New Jersey: Pearson Education, Inc.
+Briggs, Andrew H, Bernie J Oâ€™Brien, and Gordon Blackhouse. 2002. "Thinking Outside the Box: Recent Advances in the Analysis and Presentation of Uncertainty in Cost-Effectiveness Studies." Annual Review of Public Health 23 (January): 377â€“401. doi:10.1146/annurev.publhealth.23.100901.140534.
+Das, Jishnu, Jeffrey Hammer, and Carolina SÃ¡nchez-Paramo. 2012. "The Impact of Recall Periods on Reported Morbidity and Health Seeking Behavior." Journal of Development Economics 98(1) (August): 76â€“88.
+Deaton, Angus. 2001. "Counting the Worldâ€™s Poor: Problems and Possible Solutions." The World Bank Research Observer 16 (2): 125â€“47. doi:10.1093/wbro/16.2.125.
+Deaton, Angus, and Margaret Grosh. 1998. "Chapter 17: Consumption." In Designing Household Survey Questionnaires for Developing Countries: Lessons from Ten Years of LSMS Experience.
+Deaton, Angus, and Valerie Kozel. 2005. "Data and Dogma: The Great Indian Poverty Debate." The World Bank Research Observer 20 (2): 177â€“99. doi:10.1093/wbro/lki009.
+Dhaliwal, Iqbal, Esther Duflo, Rachel Glennerster, and Caitlin Tulloch. 2013. "Comparative Cost-Effectiveness Analysis to Inform Policy in Developing Countries." In Education Policy in Developing Countries, edited by Paul Glewwe. University of Chicago Press.
+Duflo, Esther, Pascaline Dupas, and Michael Kremer. 2012. "School Governance, Teacher Incentives, and Pupil-Teacher Ratios: Experimental Evidence from Kenyan Primary Schools."
+Evans, David K, and Arkadipta Ghosh. 2008. Prioritizing Educational Investments in Children in the Developing World Prioritizing Educational Investments in Children in the Developing World.
+Evans, David, Michael Kremer, and Muthoni Ngatia. 2008. The Impact of Distributing School Uniforms on Childrenâ€™s Education in Kenya. Mimeo.
+Flores, CA, and OA Mitnik. 2013. "Comparing Treatments across Labor Markets: An Assessment of Nonexperimental Multiple-Treatment Strategies." Review Of Economics And Statistics, no. 4451.
+Glazerman, S, A Protik, B Teh, J Bruch, and J Max. 2013. Transfer Incentives for High- Performing Teachers: Final Results from a Multisite Randomized Experiment.
+Glennerster, Rachel, and Kudzai Takavarasha. 2013. Running Randomized Evaluations: A Practical Guide. Edited by Princetone University Press.
+Glewwe, Paul, Michael Kremer, and Sylvie Moulin. 2009. "Many Children Left behind? Textbooks and Test Scores in Kenya." American Economic Journal: Applied Economics 1 (1): 112â€“35.
+Hollands, Fiona, M., Yilin Pan, Robert Shand, M. Levin, Henry, R. Belfield, Clive, Michael Kieffer, Brooks Bowden, A., and Barbara Hanisch-cerda. 2013. Improving Early Literacy: Cost-Effectiveness Analysis of Effective Reading Programs.
+Hotz, V. Joseph, Guido W. Imbens, and Julie H. Mortimer. 2005. "Predicting the Efficacy of Future Training Programs Using Past Experiences at Other Locations." Journal of Econometrics 125 (1-2): 241â€“70. doi:10.1016/j.jeconom.2004.04.009.
+Jain, Rahul, Michael Grabner, and Eberechukwu Onukwugha. 2011. "Sensitivity Analysis in Cost-Effectiveness Studies: From Guidelines to Practice." PharmacoEconomics 29 (4): 297â€“314. doi:10.2165/11584630-000000000-00000.
+J-PAL. 2014a. "Student_Learning_cea-Data-Full-Workbook-1". Jameel Abdul Poverty Action Lab.
+———. 2014b. Learning: What Works. Policy Bulletin.
+Kremer, Michael, Conner Brannen, and Rachel Glennerster. 2013. "The Challenge of Education and Learning in the Developing World." Science (New York, N.Y.) 340 (6130): 297â€“300. doi:10.1126/science.1235350.
+Levin, Henry, M., Clive Belfied, Fiona Hollands, Brooks Bowden, A., Henan Chang, Robert Shand, Yilin Pan, and Barbara Hanisch-cerda. 2012. Cost-Effectiveness Analysis of Interventions That Improve High School Completion.
+Levin, Henry, M., and J. McEwan, Patrick. 2001. Cost-Effectiveness Analysis: Methods and Applications. Vol. 21. Thousand Oaks, CA: Sage.
+McEwan, Patrick J. 2012. "Cost-Effectiveness Analysis of Education and Health Interventions in Developing Countries." Journal of Development Effectiveness 4 (2): 189â€“213. doi:10.1080/19439342.2011.649044.
+———. 2014. Improving Learning in Primary Schools of Developing Countries: A Meta-Analysis of Randomized Experiments.
+Nguyen, Trang. 2008. Information, Role Models and Perceived Returns to Education: Experimental Evidence from Madagascar. Job Market Paper.
+NICE International. 2014. Methods for Economic Evaluation Project (MEEP): Final Report.
+OANDA. 2014. "Average Exchange Rates. fxAverage: Weekly, Monthly, Quarterly, or Yearly Averages, for Any Time Period since 1990." http://www.oanda.com/currency/average.
+Pradhan, Menno, Daniel Suryadarma, Amanda Beatty, Maisy Wong, Armida Alisjahbana, Arya Gaduh, and Rima Prama Artha. 2012. Improving Educational Quality through Enhancing Community Participation: Results from a Randomized Field Experiment in Indonesia.
+Pritchett, Lant, and Justin Sandefur. 2013. Context Matters for Sizeâ€¯: Why External Validity Claims and Development Practice Donâ€™t Mix. 336. Working Paper.
+Scott, Chris, and Ben Amenuvegbe. 1990. Effect of Recall Duration on Reporting of Household Expenditures: An Experimental Study in Ghana. Washington DC.
+Vivalt, Eva. 2014. "How Much Can We Generalize from Impact Evaluation Resultsâ€¯?" New York University.
+World Bank. 2012. Evaluation Study of Malawiâ€™s Open Distance Learning Teacher Training Program: Year 1 Baseline Report.
+———. 2013. International Development Association Project Appraisal Document on a Proposed Grant in the Amount of SDR 10 Million (US$15 Million Equivalent) to the Republic of Chad for an Education Sector Reform Project Phase II. Washington DC.
+———. 2014. "Data for Community, Contract, and Civil Service Teachers Extracted from World Bank Public Expenditure Reviews". Washington DC.

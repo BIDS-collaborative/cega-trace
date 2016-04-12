@@ -1,0 +1,33 @@
+Alatas, Vivi, Abhijit Banerjee, Rema Hanna, Benjamin A. Olken, and Julia Tobias. 2012. “Targeting the Poor: Evidence from a Field Experiment in Indonesia.” American Economic Review 102 (4): 1206–40.
+Almond, Douglas, and Bhashkar Mazumder. 2011. “Health Capital and the Prenatal Environment: The Effect of Ramadan Observance during Pregnancy.” American Economic Journal: Applied Economics 3 (4): 56–85.
+Baicker, Katherine, Jeffrey Clemens, and Monica Singhal. 2012. “The Rise of the States: U.S. Fiscal Decentralization in the Postwar Period.” Journal of Public Economics 96 (11–12): 1079–91.
+Baird, Sarah, Craig McIntosh, and Berk Özler. 2011. “Cash or Condition? Evidence from a Cash Transfer Experiment.” Quarterly Journal of Economics 126 (4): 1709–53.
+Banerjee, Abhijit Vinayak, Esther Duflo, Rachel Glennerster, and Dhruva Kothari. 2008. “Improving Immunization Coverage in Rural India: A Clustered Randomized Controlled Evaluation of Immunization Campaigns with and without Incentives.” Unpublished.
+Basinga, Paulin, Paul J. Gertler, Agnes Binagwaho, Agnes L. B. Soucat, Jennifer Sturdy, and Christel M. J. Vermeersch. 2011. “Effect on Maternal and Child Health Services in Rwanda of Payment to Primary Health-Care Providers for Performance: An Impact Evaluation.” Lancet 377 (9775): 1421–28.
+Birdsall, Nancy, and William D. Savedoff. 2009. Cash on Delivery: A New Approach to Foreign Aid. Washington, DC: Center for Global Development.
+Bozzoli, Carlos, Angus Deaton, and Climent Quintana-Domeque. 2009. “Adult Height and Childhood Disease.” Demography 46 (4): 647–69.
+Casey, Katherine, Rachel Glennerster, and Edward Miguel. 2012. “Reshaping Institutions: Evidence on Aid Impacts Using a Preanalysis Plan.” Quarterly Journal of Economics 127 (4): 1755–1812.
+Das, Jishnu, Stefan Dercon, James Habyarimana, Pramila Krishnan, Karthik Muralidharan, and Venkatesh Sundararaman. 2013. “School Inputs, Household Substitution, and Test Scores.” American Economic Journal: Applied Economics 5 (2): 29–57.
+Duflo, Esther, Rema Hanna, and Stephen P. Ryan. 2012. “Incentives Work: Getting Teachers to Come to School.” American Economic Review 102 (4): 1241–78.
+Express India News Service. 2008. “Biometric Attendance to Keep Track of Students, Teachers in Primary Schools.” http://expressindia.indianexpress.com/story_print.php?storyId=340201.
+Finkelstein, Amy, Sarah Taubman, Bill Wright, Mira Bernstein, Jonathan Gruber, Joseph P. Newhouse, Heidi Allen, and Katherine Baicker. 2012. “The Oregon Health Insurance Experiment: Evidence from the First Year.” Quarterly Journal of Economics 127 (3): 1057–1106.
+Gertler, Paul. 2004. “Do Conditional Cash Transfers Improve Child Health? Evidence from PROGRESA’s Control Randomized Experiment.” American Economic Review 94 (2): 336–41.
+Gibbons, Robert, and Kevin J. Murphy. 1990. “Relative Performance Evaluation for Chief Executive Officers.” Industrial and Labor Relations Review 43 (3): 30–51.
+Gørgens, Tue, Xin Meng, and Rhema Vaithianathan. 2012. “Stunting and Selection Effects of Famine: A Case Study of the Great Chinese Famine.” Journal of Development Economics 97 (1): 99–111.
+Holmstrom, Bengt. 1979. “Moral Hazard and Observability.” Bell Journal of Economics 10 (1): 74–91.
+Holmstrom, Bengt, and Paul Milgrom. 1991. “Multitask Principal-Agent Analyses: Incentive Contracts, Asset Ownership, and Job Design.” Journal of Law, Economics and Organization 7 (Special Issue): 24–52.
+Huang, Cheng, Michael R. Phillips, Yali Zhang, Jingxuan Zhang, Qichang Shi, Zhiqiang Song, Zhijie Ding, Shutao Pang, and Reynaldo Martorell. 2013. “Malnutrition in Early Life and Adult Mental Health: Evidence from a Natural Experiment.” Social Science & Medicine 97: 259–66.
+Imbens, Guido W., and Joshua D. Angrist. 1994. “Identification and Estimation of Local Average Treatment Effects.” Econometrica 62 (2): 467–75.
+Kling, Jeffrey R., Jeffrey B. Liebman, and Lawrence F. Katz. 2007. “Experimental Analysis of Neighborhood Effects.” Econometrica 75 (1): 83–119.
+Lazear, Edward P., and Sherwin Rosen. 1981. “Rank-Order Tournaments as Optimum Labor Contracts.” Journal of Political Economy 89 (5): 841–64.
+Levy, Santiago. 2006. Progress Against Poverty: Sustaining Mexico’s Progresa-Oportunidades Program. Washington, DC: Brookings Institution Press.
+Linden, Leigh L., and Gauri Kartini Shastry. 2012. “Grain Inflation: Identifying Agent Discretion in Response to a Conditional School Nutrition Program.” Journal of Development Economics 99 (1): 128–38.
+Mookherjee, Dilip. 1984. “Optimal Incentive Schemes with Many Agents.” Review of Economic Studies 51 (3): 433–46.
+Muralidharan, Karthik, and Venkatesh Sundararaman. 2011. “Teacher Performance Pay: Experimental Evidence from India.” Journal of Political Economy 119 (1): 39–77.
+Musgrave, Richard A. 1997. “Devolution, Grants, and Fiscal Competition.” Journal of Economic Perspectives 11 (4): 65–72.
+Oates, Wallace E. 1999. “An Essay on Fiscal Federalism.” Journal of Economic Literature 37 (3): 1120–49.
+Olken, Benjamin A., Junko Onishi, and Susan Wong. 2011. Indonesia’s PNPM Generasi Program: Final Impact Evaluation Report. World Bank. Jakarta, March.
+Olken, Benjamin A., Junko Onishi, and Susan Wong. 2014. “Should Aid Reward Performance? Evidence from a Field Experiment on Health and Education in Indonesia: Dataset.” American Economic Journal: Applied Economics. http://dx.doi.org/10.1257/app.6.4.1.
+Romano, Joseph P., and Michael Wolf. 2005. “Stepwise Multiple Testing as Formalized Data Snooping.” Econometrica 73 (4): 1237–82.
+Schultz, T. Paul. 2004. “School Subsidies for the Poor: Evaluating the Mexican Progresa Poverty Program.” Journal of Development Economics 74 (1): 199–250.
+Valente, Christine. 2013. “Civil Conflict, Gender-Specific Fetal Loss, and Selection: A New Test of the Trivers-Willard Hypothesis.” Unpublished.

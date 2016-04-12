@@ -1,0 +1,21 @@
+Angrist J. (1997). ※Conditional Independence in Sample Selection Models.§ Economic Letters. 54(2), pp. 103-112. 
+Angrist, J., G. Imbens, and D. Rubin. 1996. ※Identification of Casual Effects Using Instrumental Variables.§ Journal of the American Statistical Association 91(434): 444-55. 
+Attanasio, O., E. Fitzsimons, A. Gomez, D. Lopez, C. Meghir and A. Mesnard (2006). ※Child Education and Work Choices in the presence of a Conditional Cash Transfer Programme in Rural Colombia§ The Institute of Fiscal Studies. WP 06/01 
+Attanasio, O., C. Meghir and A. Santiago (2005). ※Education Choices in Mexico: Using a Structural Model and a Randomized Experiment to Evaluate Progresa§. Unpublished manuscript, University College London. 
+Bourguignon, F., F. Ferreira, and P. Leite (2003). ※Conditional Cash Transfer, Schooling, and Child Labor: Micro-Simulating Brazil＊s Bolsa Escola Program§. The World Bank Economic Review 17(2). Pp: 229-254. 
+Cald谷s, N., D. Coady and J. Maluccio (2004). ※The Cost of Poverty Alleviation Transfer Programs: A Comparative Analysis of Three Programs in Latin America.§ IFPRI, Washington. 
+De Brauw, A. and J. Hoddinott (2007). ※Must Conditional Cash Transfer Programs be Conditioned to be Effective? The Impact of Conditioning Transfers on School Enrollments in Mexico§, Working paper. 
+De Janvry, A. and E. Sadoulet (2006). ※Making Conditional Cash Transfer Programs More Efficient: Designing for Maximum Effect of Conditionalty§. World Bank Economic Review 20.(1): pp. 1-30. 
+Duflo, E. and R. Hanna (2006). ※Monitoring works: Getting teachers to come to school§, mimeo. 
+Duryea, S. and A. Morrison (2004). ※The Effect of Conditional Transfers on School Performance and Child Labor: Evidence from an Ex-Post Impact Evaluation in Costa Rica.§ InterAmerican Development Bank, Washington. pp. 1 每 27. 
+Le車n, M. and S. Younger (2004). Transfer Payments, Mother＊s Income, and Child Health in Ecuador. Mimeo. 
+Maluccio, J. and R. Flores (2004). ※Impact Evaluation of A Conditional Cash Transfer Program: The Nicaraguan Red de Protecci車n Social,§ FCND Discussion. No. 184, pp. 1 每 74. 
+Paxson, C., and N. Schady. 2008. ※Does Money Matter? The Effects of Cash Transfers on Child Development in Rural Ecuador.§ Unpublished manuscript, Princeton University and the World Bank. 
+Rawlings, L. and G. Rubio (2003). ※Evaluating the Impact of Conditional Cash Transfer Programs: Lesson from Latin America.§ Policy Research Working Paper. No. 3119, pp. 1 每 25. 
+Schady, N. and M. Araujo (2006). ※Cash Transfers, Conditions, and School Enrollment in Ecuador.§ Econom赤a. Forthcoming. 
+Schultz, P. (2004). ※School Subsidies for the Poor: Evaluating the Mexican Progresa Poverty Program.§ Journal of Development Economics. 74, pp. 199-250. 
+Thistlewaite, D. and D. Campbell (1960). ※Regression-discontinuity Analysis: An Alternative to the Ex Post Facto Evaluation.§ Journal of Education Psychology, 51, pp. 309-317. 
+Todd, P., and K. Wolpin. (2003). ※Using a Social Experiment to Validate a Dynamic Behavioral Model of Child Schooling and Fertility: Assesing the Impact of a School Subsidy Program in Mexico§. Unpublished manuscript, University of Pennsylvania. 
+Vos R., and J. Ponce (2004). Meeting the Millennium Development Goal in Education: a costeffectiveness analysis for Ecuador?. ISS Working Paper Series. No. 402. 
+Vos R., M. Le車n, and W. Brborich (2001). ※Are Cash Transfer Programs Effective to Reduce Poverty?§ Mimeo. 
+The World Bank. 2008. Conditional Cash Transfers for Attacking Present and Future Poverty. Forthcoming, World Bank, Washington D.C.

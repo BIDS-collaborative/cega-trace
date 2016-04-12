@@ -1,0 +1,39 @@
+Banks, J. R. Blundell, and A. Lewbel (1997) ¡°Quadratic Engel Curves and Consumer Demand,¡± The Review of Economics and Statistics, Vol. LXXIX no. 4, (November), pp. 527-39.
+Behrman, J., (1995). ¡°Micronutrients and Household Behavior: What we Know and What we Don¡¯t Know.¡± Working Papers Series on Agricultural Strategies for Micronutrients, Number 2, International Food Policy Research Institute, Washington DC.
+Behrman, J. (1988). ¡°Nutrition and Incomes: Tightly Wedded or loosely Meshed?¡± Pew/Cornell Lecture Series on Food and Nutrition Policy. Ithaca: Cornell University.
+Behrman, J., and A. Deolalikar. (1989). ¡°Is Variety the Spice of Life? Implications for Calorie Intake.¡± The Review of Economics and Statistics, vol. 71, no. 4, pp. 666-672.
+Behrman, J., and A. Deolalikar. (1987). ¡°Will Developing Country Nutrition Improve With Income? A Case Study for Rural South India.¡± Journal of Political Economy, vol. 95, pp. 492-507.
+Behrman, J., A. Foster, and M. R. Rosenzweig (1997). ¡°The Dynamics of Agricultural Production and the Calorie-Income Relationship: Evidence from Pakistan,¡± Journal of Econometrics, vol. 77, pp. 187-207.
+Behrman, J. and B.L. Wolfe (1984) ¡°More Evidence on Nutrition Demand: Income Seems Overrated and Women¡¯s Schooling Underemphasized,¡± Journal of Development Economics, vol. 14 (1-2), pp. 105-126.
+Bouis, H., (1991). ¡°The Determinants of Household-level Demand for Micronutrients: An Analysis for Philippine Farm Households.¡± International Food Policy Research Institute. Washington, D.C. Mimeo.
+Bouis, H., and L. Haddad. (1992). ¡°Are Estimates of Calorie-Income Elasticities too high? A Recalibration of the Plausible Range.¡± Journal of Development Economics, vol. 39, no. 2, pp.333-364.
+Chernichovsky, D., and O. Meesook. (1984). ¡°Urban-rural food and nutrition consumption patterns in Indonesia.¡± World Bank Staff Working Paper No. 670. Washington D.C.: World Bank.
+Cramer J. C. (1973) ¡°Interaction of Income and Price in Consumer Demand,¡± International Economic Review, Vol 14, (June), pp. 351-363
+Deaton, A. (1995). ¡°Data and Econometric Tools for Development Analysis,¡± chapter 33 in Handbook of Development Economics vol. 3, eds. J. Behrman and T.N. Srinivasan. Amsterdam: North-Holland.
+Deaton, A. 1997. The Analysis of Household Survey Data. Baltimore: Johns Hopkins University Press.
+Deaton, A., and S. Zaidi. (1999). Guidelines for Constructing Consumption Aggregates for Welfare Analysis. Princeton University. Mimeo
+Direktorat Gizi, Departemen Kesehatan (1988) Daftar Komposisi Bahan Makanan. Jakarta: Penerbit Bhratava karya Aksra.
+Efron, B., and Tibshirani, R.J. (1993). An introduction to the bootstrap. London: Chapman and Hall.
+Fan, J. (1993). ¡°Local Linear Regression Smoothers and their Minimax efficiencies.¡± Annals of Statistics, vol. 21 (March), pp. 998-1004.
+Hausman, J. A. (1978). Specification tests in econometrics. Econometrica, 46: 1251-1271.
+Holly, A. (1982). A Remark on Hausman¡¯s Specification Test,¡± Econometrica, vol. 50, pp. 749-759.
+Ivanic, M and W. Martin (2008) ¡°Implications of higher global food prices for poverty in low-income countries" Agricultural Economics, International Association of Agricultural Economists, vol. 39(s1), pages 405-416, November.
+Jensen, Robert T., and Nolan H. Miller. 2008. "Giffen Behavior and Subsistence Consumption."American Economic Review, 98(4): 1553¨C77.
+Levinsohn, J., S. Berry, and J. Friedman (1999), ¡°Impacts of the Indonesian Economic Crisis: Price changes and the Poor,¡± NBER Working Paper No. 7194, June, National Bureau of Economic Research, Cambridge, MA.
+Molyneaux J. (2002) ¡°Starchy Staple Consumption and Household Welfare: A Fresh look at Indonesian Welfare,¡± DAI-Food Policy Support Activities/MOA-Food Security Agency.
+Pitt, M. M. (1983) ¡°Food Preferences and Nutrition in Rural Bangladesh,¡± The Review of Economics and Statistics, vol. 65, no. 1, pp. 105-114.
+Pitt, M. M. and M. R. Rosenzweig (1985) ¡°Health and Nutrient Consumption Across and Within Farm Households.¡± The Review of Economics and Statistics, vol. 67 (2), pp. 212-223.
+Ravallion, M. (1990). ¡°Income Effects on Undernutrition.¡± Economic Development and Cultural Change, vol. 38 pp. 489-515.
+Skoufias, Emmanuel (2003) ¡°Is the Calorie-Income Elasticity Sensitive to Price Changes? Evidence from Indonesia,¡± World Development, (July) Vol. 31, no. 7.
+Skoufias, Emmanuel (2001) ¡°Changes in Regional Inequality and Social Welfare in Indonesia from 1996 to 1999.¡± Journal of International Development, Vol. 13, No. 1, (January), pp. 73- 91.
+Strauss, J., and D. Thomas. (1995). ¡°Human Resources: Empirical Modeling of Household and Family Decisions.¡± Chapter 34 in Handbook of Development Economics vol. 3, eds. J. Behrman and T.N. Srinivasan. Amsterdam: North-Holland.
+Studdert, L. E. Frongillo, and P. Valois (2001) ¡°Household Food Insecurity was Prevalent in Java during Indonesia¡¯s Economic Crisis,¡± Journal of Nutrition, vol. 131, no. 10, pp. 2685-2691 Subramanian, S. and A. Deaton. (1996). ¡°The Demand for Food and Calories.¡± Journal of Political Economy, vol. 104, pp. 133-162.
+Suryahadi, A., S. Sumarto., Y. Suharso, and L. Pritchett (2000), ¡°The Evolution of Poverty During the Crisis in Indonesia, 1996 to 1999 (Using Full SUSENAS Sample).¡± SMERU Working Paper, March, Social Monitoring & Early Response Unit, Jakarta.
+Thomas, D., E. Frankenberg, K. Beegle, and G. Teruel (1999), ¡°Household Budgets, Household Composition and the Crisis in Indonesia: Evidence from Longitudinal Household Survey Data,¡± Paper prepared for presentation at the 1999 Population Association of America Meetings, RAND, Santa Monica, CA.
+Timmer P. (1981) ¡°Is There Curvature in the Slutsky Matrix?¡± The Review of Economics and Statistics, Vol. 62, no. 3, (August), pp. 395-402
+Timmer, P., and H. Alderman. (1979). ¡°Estimating Consumption Parameters for Food Policy Analysis.¡± American Journal of Agricultural Economics. vol. 61, pp. 982-994.
+Timmer P., W.P. Falcon, S. Pearson (1983) Food Policy Analysis Published for the World Bank. Johns Hopkins University Press
+Tiwari S., and H. Zaman (2010), ¡°The Impact of Economic Shocks on Global Undernourishment¡± Policy Research Working Paper 5215, The World Bank
+Van de Walle, Dominique (1988), ¡°On the Use of the SUSENAS for Modeling Consumer
+Behavior,¡± Bulletin of Indonesian Economic Studies, Vol. 24, No. 2, (August):, pp. 107-122.
+Wodon, Q., and H. Zaman (2010), ¡°Higher Food Prices in Sub-Saharan Africa: Poverty Impact and Policy Responses¡±, World Bank Research Observer Vol. 25 (1)

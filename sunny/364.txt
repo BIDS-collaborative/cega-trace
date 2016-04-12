@@ -1,0 +1,28 @@
+Abadie, A., & Imbens, G.(2006a)."Large sample properties of matching estimators for average treatment effects." Econometrica, 74(1), 235–267.
+Abadie, A., & Imbens, G.(2006b)."On the failure of the bootstrap for matching estimators." Berkeley: mimeo, University of California.
+Afridi, F., A.Mukhopadhyay, and S.Sahoo.2012."Female Labor Force Participation and Child Education in India: The Effect of the National Rural Employment Guarantee Scheme." Young Lives Working Paper 95.http://www.younglives.org.uk/publications/WP/female-labour-force-participation-and-child-education-in-india.
+Aiyar, Y., and S.Samji.2009."Transparency and Accountability in NREGA: A Case Study of Andhra Pradesh." AI Working Paper 1.New Delhi, India: Accountability Initiative.
+Azam, M.2012."The Impact of Indian Job Guarantee Scheme on Labor Market Outcomes: Evidence from a Natural Experiment." IZA Discussion Paper 6548.Bonn, Germany: Institute for the Study of Labor (IZA).
+Berg, E., S.Bhattacharyya, R.Durgam, and M.Ramachandra.2012."Can Rural Public Works Affect Agricultural Wages? Evidence from India." Working Paper 2012-05.Oxford, UK: Centre for the Study of African Economies.
+Coffey, D., J.Papp, and D.Spears.2011."Dual Economies or Dual Livelihoods? Short-Term Migration from Rural India and Non-agricultural Employment." World Bank Policy Research Paper 5765.Washington, DC: World Bank.
+Comptroller and Auditor General of India.2008.Performance Audit of Implementation of National Rural Employment Guarantee Act 2005 (NREGA).New Delhi, India: Comptroller and Auditor General of India.
+Crump, R.K., Hotz, V.J., Imbens, G.W., & Mitnik, O.A.(2009)."Dealing with limited overlap in estimation of average treatment effects." Biometrika, 96, 187–199.
+Deininger, K., and Y.Liu.2013.“Evaluating Program Impacts on Mature Self-Help Groups in India."? World Bank Economic Review, forthcoming.
+Deininger, K., S.Jin, and H.K.Nagarajan.2013.“Wage Discrimination in India’s Informal Labor Markets: Exploring the Impacts of Caste and Gender."? Review of Development Economics 17 (1): 130–147.Deshingkar, P., and C.Johnson.2003.State Transfers to the Poor and Back: The Case of the Food for Work Programme in Andhra Pradesh.ODI Working Paper 222.London: Overseas Development Institute.Dev, M.S.2011."NREGS and Child Wellbeing." Working Paper 2011-004.Mumbai, India: Indira Gandhi Institute of Development Research.
+Dreze, J., and R.Khera.2011.The Battle for Employment Guarantee.New Delhi, India: Oxford University Press.
+Dutta, P.V., R.Murgai, M.Ravallion, and D.van de Walle.2012a.“Does India’s Employment Guarantee Scheme Guarantee Employment?"? Economic and Political Weekly 47 (16): 55–64.
+________.2012b.Rozgar Guarantee? Evaluating India’s Biggest Anti-poverty Program in India’s Poorest State.Washington, DC: World Bank.
+Gopalan, G., B.V.Rama Shastri, and B.C.Balasubramanian.2004.Nutritive Value of Indian Food.Hyderabad, India: National Institute of Nutrition, Indian Council of Medical Research.
+Imbert, C., and J.Papp.2011."Government Hiring and Labor Market Equilibrium: Evidence from India’s Employment Guarantee." Working Paper.Paris: Paris School of Economics.
+Jha, R., S.Bhattacharyya, and R.Gaiha.2011a.“Social Safety Nets and Nutrient Deprivation: An Analysis of the National Rural Employment Guarantee Program and the Public Distribution System in India."? Journal of Asian Economics 22 (2): 189–201.
+________.2011b.“Temporal Variation of Capture of Anti-poverty Programs: Rural Public Works and Food for Work Programs in Rural India."? International Review of Applied Economics 25 (3): 349–362.
+Jha, R., S.Bhattacharyya, R.Gaiha, and S.Shankar.2009.“Capture of Anti-poverty Programs: An Analysis of the National Rural Employment Guarantee Program in India."? Journal of Asian Economics 20 (4): 456–464.
+Johnson, D.2008."Case Study of the Use of Smartcards to Deliver Government Benefits in Andhra Pradesh, India." Centre for Micro-Finance Working Paper.Bangalore, India: Institute for Financial Management and Research.
+________.2009."Can Workfare Serve as a Substitute for Weather Insurance? The Case of NREGA in Andhra Pradesh." Centre for Micro-Finance Working Paper 32.Bangalore, India: Institute for Financial Management and Research.Khera, R., and N.Nayak.2009.“Women Workers and Perceptions of the National Rural Employment Guarantee Act, India."? Economic and Political Weekly 47 (34): 49–57.
+Klonner, S., and C.Oldiges.2012."Employment Guarantee and Its Welfare Effect in India." Working Paper.Heidelberg, Germany: University of Heidelberg.
+Liu, Y., and C.B.Barrett.2013."Heterogeneous Pro-poor Targeting in India’s National Rural Employment Guarantee Scheme."Economic and Political Weekly XLVIII(10).
+Niehaus, P., and S.Sukhtankar.2012."Corruption Dynamics: The Golden Goose Effect." Working Paper.San Diego: University of California.
+Ravi, S., and M.Engler.2012."Workfare as an Effective Way to Fight Poverty: The Case of India’s NREGS." Working Paper.Delhi, India: Indian School of Business.
+Shankar, S., R.Gaiha, and R.Jha.2011.“Information, Access and Targeting: The National Rural Employment Guarantee Scheme in India."? Oxford Development Studies 39 (1): 69–95.
+Subbarao, K.1997.“Public Works as an Anti-poverty Program: An Overview of Cross-Country Experience."? American Journal of Agricultural Economics 79 (4): 678–683.
+Zimmermann, L.2012."Labor Market Impacts of a Large-Scale Public Works Program: Evidence from the Indian Employment Guarantee Scheme." IZA Discussion Paper 6858.Bonn, Germany: Institute for the Study of Labor (IZA).

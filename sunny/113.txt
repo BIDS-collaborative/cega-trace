@@ -1,0 +1,35 @@
+Baird, S., R.S. Garfein, C. McIntosh and B. Ozler. 2012. "Effect of a cash transfer pro- gramme for schooling on prevalence of HIV and herpes simplex type 2 in Malawi: a cluster randomized trial". The Lancet 379, 1320-1329.
+Barberis, N.C. 2013. "Thirty Years of Prospect Theory in Economics: A Review and Assessment". Journal of Economic Perspectives 27(1): 173–196.
+Baeten, J.M., C. Celum, and T.J. Coates. 2009. "Male circumcision and HIV risks and benefits for women". The Lancet 374 (9685): 182-184.
+Bertrand JR, O’Reilly K, Denison J, Anhang R, Sweat M. 2006. "Systematic review of the effectiveness of mass communication programs to change HIV/AIDS-related behaviors in developing countries", Health Education and Research; 21:567-97.
+Boily MC, Baggaley RF, Wang L., Richard M., White G., Hayes R.J., Alary M. 2009."Heterosexual risk of HIV-1 infection per sexual act: systematic review and meta-analysis of observational studies", Lancet Infect Dis. 9(2):118–29.
+Crosby R.A., R.J. DiClemente, G.M. Wingood, D. Lang, K.F. Harrington. 2003. "Value of Consistent Condom Use: A Study of Sexually Transmitted Disease Prevention Among African American Adolescent Females". American Journal of Public Health 93: 901–902.
+de Walque, D., W.H. Dow, R. Nathan, R. Abdul, F. Abilahi, E. Gong, Z. Isdahl, J. Jamison, B. Jullu, S. Krishnan, A. Majura, E. Miguel, J. Moncada, S. Mtenga , M.A. Mwanyangala, L. Packel, J. Schachter, K. Shirima, and C.A. Medlin. 2012. "Incen- tivising safe sex: A randomised trial of conditional cash transfers for HIV and sexu- ally transmitted infection prevention in rural Tanzania". British Medical Journal Open doi:10.1136/bmjopen-2011-000747.
+de Walque, D., W.H. Dow, R. Nathan. 2014. "Rewarding safer sex : conditional cash transfers for HIV/STI prevention", Policy Research Working Paper #7099, The World Bank.
+Duflo E., Dupas P., Kremer M. 2014. "Education, HIV, and Early Fertility: Experi- mental Evidence from Kenya", working paper.
+Duflo, E., R. Glennerster, and Michael Kremer. 2008. "Using Randomization In De- velopment Economics Research: A Toolkit." In T. Schultz and John Strauss (eds.) Handbook of Development Economics. Vol. 4. Amsterdam and New York: North Hol- land.
+FishbeinM.andW.Pequegnat.2000."EvaluatingAIDSPreventionInterventionsUs- ing Behavioral and Biological Outcome Measures". Sexually Transmitted Diseases 27: 101–110.
+Galárraga, O., M.A. Colchero, R. Wamai and S. Bertozzi. 2009. "HIV prevention cost- effectiveness: A systematic review". BMC Public Health 9 (Suppl 1): S5. doi:10.1186/ 1471-2458-9-S1-S5.
+Geffen N. 2011. "What does science show about incentives for HIV testing?", in Quackdown, helping you make informed choices on health care, blog post at http://www.quackdown.info/article/what-does-science-show-about-incentives- hiv-testing/
+Hira SK, Feldblum PJ, Kamanga J, Mukelabai G, Weir SS, Weir JC. 1997. "Condom and Nonoxynol-9 use and the incidence of HIV infection in serodiscordant couples in Zambia", International Journal of STD & AIDS. 1997;8(4):243–250.
+Holt,CharlesA.andSusanK.Laury.2002."RiskAversionandIncentiveEffects".The American Economic Review, Vol. 92(5): 1644-1655.
+Hu M.C., M. Pavlicova, and E.V. Nunes. 2011. "Zero-inflated and hurdle models of count data with extra zeros: examples from an HIV-risk reduction intervention trial", Am J Drug Alcohol Abuse 37(5): 367-75
+JohnsonLF,LewisDA.2008."TheeffectofgenitaltractinfectionsonHIV-1shedding in the genital tract: a systematic review and meta-analysis". Sexually Transmitted Dis- eases.35(11):946-59
+Kahneman, D. and A. Tversky. 1979. "Prospect Theory: An Analysis of Decision un- der Risk". Econometrica 47(2): 63-91.
+Kahneman, D. 2011. Thinking, Fast and Slow. New York: Farrar, Straus, and Giroux.
+Kalichman S. T., Pellowski J., and Turner C. 2011. "Prevalence of sexually transmit- ted co-infections in people living with HIV/AIDS: systematic review with impli- cations for using HIV treatments for prevention", Sexually Transmitted Infections doi:10.1136/sti.2010.047514
+Keating J. 2013. "The Nudgy State". Foreign Policy: The Global Magazine of News and Ideas, http://www.foreignpolicy.com/articles/2013/01/02/the_nudgy_state.
+Kling, JR.,JB. Liebman, LF. Katz, and L. Sanbonmatsu. 2004. "Moving To Opportu- nity and Tranquility: Neighborhood Effects on Adult Economic Self-Sufficiency and Health from a Randomized Housing Voucher Experiment," KSG Working Paper No. RWP04-035.
+Lammers, J., and S. van Wijnbergen. 2007. "HIV/AIDS, Risk Aversion and Intertem- poral Choice". Tinbergen Institute Discussion paper, 2007-098/1.
+Lesotho Labour Force Survey. 2008. Lesotho Integrated Labour Force Survey, Ministry of Finance and Development Planning, Bureau of Statistics, Maseru, Lesotho
+Ministry of Health and Social Welfare and ICF Macro. 2010. Lesotho Demographic and Health Survey 2009, Maseru, Lesotho: MOHSW and ICF Macro
+Napierala Mavedzenge S, Doyle A, Ross D. 2010. "HIV preven- tion in young people in sub-Saharan Africa: a systematic view" http://zunia.org/uploads/media/knowledge/SRGreview1268137879.pdf
+Norton, E.C., M.M. Miller, L.C. Kleinman. 2013. Computing adjusted risk ratios and risk differences in Stata, The Stata Journal 13(3): 492-509.
+Oster E. 2012. "HIV and Sexual Behavior Change: Why Not Africa?", Journal of Health Economics, Volume 31, Issue 1, January 2012, Pages 35–49
+Padian, N.S., McCoy, S.I., Balkus, J.E., Wasserheit, J.N. 2010. "Weighing the gold in the gold standard: challenges in HIV prevention research" AIDS 2010; 24: 621–635.
+Pettifor A., MacPhail C., Nguyen N., Rosenberg M. 2012. "Can Money Prevent the Spread of HIV? A Review of Cash Payments for HIV Prevention". AIDS Behavior 16(7):1729-38.
+Powers KA, Poole C. Pettifor AE, Cohen MS. 2008 "Rethinking the Heterosexual Infectivity of HIV-1: A Systemic Review and Meta-analysis", Lancet Infect Dis 2008;8(9):553–63.
+Strauss, J., and D. Thomas. 1998. "Health, Nutrition, and Economic Development", Journal of Economic Literature, 36: 766-817.
+Thornton R. 2008. The Demand for and Impact of Learning HIV Status. American Economic Review 98: 1829–63.
+World Bank. 2014. Data retrieved December 2, 2014, from World Development Indi- cators Online (WDI) database.
+UNAIDS. 2013. "AIDS epidemic update: November 2013", Geneva, Switzerland.
