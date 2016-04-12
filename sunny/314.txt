@@ -1,0 +1,36 @@
+Banks, J., R. Blundell, and A. Lewbel. 1997. “Quadratic Engel Curves and Consumer Demand.” The Review of Economics and Statistics 79 (4): 527–39.
+Behrman, J. 1988. “Nutrition and Incomes: Tightly Wedded or Loosely Meshed?” Pew/Cornell Lecture Series on Food and Nutrition Policy. Cornell University, Ithaca, NY.
+———. 1995. “Micronutrients and Household Behavior: What We Know and What We Don’t Know.” Working Paper 2 on Agricultural Strategies for Micronutrients. International Food Policy Research Institute, Washington DC.
+Behrman, J., and A. Deolalikar. 1987. “Will Developing Country Nutrition Improve With Income? A Case Study for Rural South India.” Journal of Political Economy 95 (3): 492–507. 
+———. 1989. “Is Variety the Spice of Life? Implications for Calorie Intake.” The Review of Economics and Statistics 71 (4): 666–72. 
+Behrman, J., and B. L. Wolfe. 1984. “More Evidence on Nutrition Demand: Income Seems Overrated and Women’s Schooling Underemphasized.” Journal of Development Economics 14 (1–2): 105–26. 
+Behrman, J., A. Foster, and M. R. Rosenzweig. 1997. “The Dynamics of Agricultural Production and the Calorie-Income Relationship: Evidence from Pakistan.” Journal of Econometrics 77 (1): 187–207. 
+Bouis, H. 1991. “The Determinants of Household-level Demand for Micronutrients: An Analysis for Philippine Farm Households.” International Food Policy Research Institute, Washington, DC. 
+Bouis, H., and L. Haddad. 1992. “Are Estimates of Calorie-Income Elasticities Too High? A Recalibration of the Plausible Range.” Journal of Development Economics 39 (2): 333–64. 
+Chernichovsky, D., and O. Meesook. 1984. “Urban-Rural Food and Nutrition Consumption Patterns in Indonesia.” World Bank Staff Working Paper 670. World Bank, Washington DC. 
+Deaton, A. 1988. “Quantity, Quality, and the Spatial Variation of Price.” American Economic Review 78 (3): 418–30. 
+———. 1997. The Analysis of Household Survey Data. Baltimore, Md.: The Johns Hopkins University Press. 
+Deaton, A., and J. Muellbauer. 1980. “An Almost Ideal Demand System.” American Economic Review 70 (3): 312–26. 
+Deaton, A., and S. Zaidi. 1999. “Guidelines for Constructing Consumption Aggregates for Welfare Analysis.” Princeton University, Princeton, NJ. 
+Skoufias, Tiwari, and Zaman 441 at International Monetary Fund on January 30, 2013 http://wber.oxfordjournals.org/ Downloaded from Gizi, Direktorat, and Departemen Kesehatan. 1988. Daftar Komposisi Bahan Makanan. Jakarta: Penerbit Bhratava karya Aksra. 
+Fan, J. 1993. “Local Linear Regression Smoothers and Their Minimax Efficiencies.” Annals of Statistics 21 (March): 998–1004. 
+FAO (Food and Agriculture Organization). 2008. “Food Outlook.” Rome. http://www.fao.org/docrep/ 011/ai474e16htm. 
+Hausman, J. A. 1978. “Specification Tests in Econometrics.” Econometrica 46 (6): 1251–71. Holly, A. 1982. A Remark on Hausman’s Specification Test.” Econometrica 50: 749–59. 
+Ivanic, M., and W. Martin. 2008. “Implications of Higher Global Food Prices for Poverty in Low-income Countries.” Agricultural Economics 39 (s1): 405–16. 
+Levinsohn, J., S. Berry, and J. Friedman. 1999. Impacts of the Indonesian Economic Crisis: Price Changes and the Poor. NBER Working Paper 7194. Cambridge, MA: National Bureau of Economic Research . 
+Pitt, M. M. 1983. “Food Preferences and Nutrition in Rural Bangladesh.” The Review of Economics and Statistics 65 (1): 105–14. 
+Pitt, M. M., and M. R. Rosenzweig. 1985. “Health and Nutrient Consumption across and within Farm Households.” The Review of Economics and Statistics 67 (2): 212–23. 
+Ravallion, M. 1990. “Income Effects on Undernutrition.” Economic Development and Cultural Change 38 (3): 489–515. 
+Sari, M., S. de Pee, M.W. Bloem, K. Sun, A. L. Thorne-Lyman, R. Moench-Pfanner, N. Akhter, K. Kraemer, and R. D. Semba. 2010. “Higher Household Expenditure on Animal-Source and Nongrain Foods Lowers the Risk of Stunting among Children 0-59 Months Old in Indonesia: Implications of Rising Food Prices.” Journal of Nutrition 140 (1): 195–200. 
+——. 2003. “Is the Calorie-Income Elasticity Sensitive to Price Changes? Evidence from Indonesia.” World Development 31 (7): 1291–1307. 
+Strauss, J., and D. Thomas. 1995. “Human Resources: Empirical Modeling of Household and Family Decisions.” In Handbook of Development Economics vol. 3, ed. J. Behrman, and T. N. Srinivasan. Amsterdam: North-Holland. 
+Studdert, L., E. Frongillo, and P. Valois. 2001. “Household Food Insecurity Was Prevalent in Java during Indonesia’s Economic Crisis.” Journal of Nutrition 131 (10): 2685–91. 
+Subramanian, S., and A. Deaton. 1996. “The Demand for Food and Calories.” Journal of Political Economy 104 (1): 133–62. 
+Suryahadi, A., S. Sumarto., Y. Suharso, and L. Pritchett. 2000. “The Evolution of Poverty during the Crisis in Indonesia, 1996 to 1999 (Using Full SUSENAS Sample).” SMERU Working Paper. Social Monitoring and Early Response Unit, Jakarta. 
+Thomas, D., E. Frankenberg, K. Beegle, and G. Teruel. 1999. “Household Budgets, Household Composition, and the Crisis in Indonesia: Evidence from Longitudinal Household Survey Data.” Paper presented at the 1999 Population Association of America Meetings, RAND, Santa Monica, CA. 
+Timmer, P. 1981. “Is There Curvature in the Slutsky Matrix?” The Review of Economics and Statistics 62 (3): 395–402. 
+Timmer, P., and H. Alderman. 1979. “Estimating Consumption Parameters for Food Policy Analysis.” American Journal of Agricultural Economics 61 (S): 982–94. 
+Timmer, P., W. P. Falcon, and S. Pearson. 1983. Food Policy Analysis. Published for the World Bank. Baltimore, Md.: The Johns Hopkins University Press. 
+Tiwari, S., and H. Zaman. 2010. “The Impact of Economic Shocks on Global Undernourishment.” Policy Research Working Paper 5215. World Bank, Washington, DC. 
+Van de Walle, and Dominique. 1988. “On the Use of the SUSENAS for Modeling Consumer Behavior.” Bulletin of Indonesian Economic Studies 24 (2): 107–22. 
+Wodon, Q., and H. Zaman. 2010. “Higher Food Prices in Sub-Saharan Africa: Poverty Impact and Policy Responses.” The World Bank Research Observer 25 (1): 157–76.

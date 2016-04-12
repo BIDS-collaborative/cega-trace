@@ -1,0 +1,35 @@
+Andrabi, Tahir, Jishnu Das, and Asim Khwaja, 2007. Students Today, Teachers Tomorrow? Identifying constraints on the provision of education. Working Paper. 
+Angelucci, Manuela and Orazio Attanasio, 2006. Estimating ATT Effects with Non- Experimental Data and Low Compliance. IZA Discussion Paper No. 2368. 
+Angelucci, Manuela, Giacomo de Giorgi, Marcos Rangel and Imran Rasul, 2008. Family Network and School Enrollment: Evidence from a randomized social experiment. University of Chicago: Working Paper. 
+Behrman, Jere, Piyali Sengupta and Petra Todd, 2001. Progressing through Progresa: An Impact Assessment of a School Subsidy Experiment. Washington, DC: International Food Policy Research Institute 
+Black, Dan, Jose Galdo and Jeffrey Smith. 2007. Evaluating the Worker Profiling and Reemployment Services Program using a Regression Discontinuity Approach. American Economic Review Papers and Proceedings, 97(2): 104-7. 
+Bobonis, Gustavo J., and Frederico Finan, 2006. Endogenous Peer Effects in School Participation. Working Paper. 
+Bourguignon, Fran?ois, Francisco H. G. Ferreira and Phillipe G. Leite, 2002. Ex-Ante Evaluation of Conditional Cash Transfer Programs: the Case of Bolsa Escola. Working Paper. 
+Chaudhury, Nazmul and Dilip Parajuli, 2006. Conditional Cash Transfer and Female Schooling: The Impact of the Female School Stipend Program on Public School Enrollments in Punjab, Pakistan. World Bank Policy Research Working Paper 4102. 
+Das, Jishnu, Quy-Toan Do and Berk ?zler, 2005. Reassessing Conditional Cash Transfer Programs. World Bank Research Observer, 20(1), 29 ? 57-80 
+de Janvry, Alain and Elisabeth Sadoulet, 2006. Making Conditional Cash Transfer Programs More Efficient: Designing for Maximum Effect of the Conditionality. World Bank Economic Review, 20(1), 1 ? 29. 
+de Janvry, Alain, Frederico Finan, Elisabeth Sadoulet, and Renos Vakis, 2006. Can conditional cash transfer programs serve as safety nets in keeping children at school and from working when exposed to shocks? Journal of Development Economics, 79, 349 ? 373. 
+de la Bri?re, B?n?dicte and Laura B. Rawlings, 2006. Examining Conditional Cash Transfer Programs: A Role for Increased Social Inclusion? Washington DC: Social Protection Discussion Paper No. 0603. 
+Ferreira, Francisco H. G, Deon Filmer and Norbert Schady, 2009. Own and Sibling Effects of Conditional Cash Transfer Programs: Theory and Evidence from Cambodia. World Bank Policy Research Working Paper 5001. 
+Filmer, Deon and Norbert Schady, 2009a. Are There Diminishing Returns to Transfer Size in Conditional Cash Transfers? World Bank Policy Research Working Paper 4999. 
+Filmer, Deon and Norbert Schady, 2009b. School Enrollment, Selection and Test Scores. World Bank Policy Research Working Paper 4999. 
+Filmer, Deon and Norbert Schady, 2006. Getting Girls into School: Evidence from a Scholarship Program in Cambodia. World Bank Policy Research Working Paper 3910. 
+Gertler, Paul, Sebastian Martinez and Marta Rubio-Codina, 2006. Investing Cash Transfers to Raise Long-Term Living Standards. Washington, DC: World Bank Policy Research Working Paper 3994. 
+Gertler, Paul, 2004. Do Conditional Cash Transfers Improve Child Health? Evidence from PROGRESA's Control Randomized Experiment. AER Papers and Proceedings, May 2004, 94(2), 336 ? 341. 
+Hasan, Amer, 2009. Time allocation in rural households: The indirect effects of conditional cash transfer programs. The University of Chicago: Unpublished manuscript. 
+Heckman, James J., Robert LaLonde and Jeffrey Smith, 1999. The Economics and Econometrics of Active Labor Market Programs. Handbook of Labor Economics, Volume 3, Ashenfelter, A. and D. Card, eds., Amsterdam: Elsevier Science. 
+Hoddinnott, John and Emmanuel Skoufias, 2004. The Impact of Progresa on Food Consumption. Economic Development and Cultural Change, 53(1), 37 ? 61. 
+Imbens, Guido and Thomas Lemieux, 2007. Regression Discontinuity Designs: A Guide to Practice. Cambridge, MA: NBER Working Paper 13039. 
+Judge, George, and Laura Schechter. 2009. "Detecting Problems in Survey Data Using Benford's Law." Journal of Human Resources 44(1), 1?24.
+Khandker, Shahidur R., Mark M. Pitt and Nobuhiko Fuwa, 2003. Subsidy to Promote Girls'Secondary Education: The Female Stipend Program in Bangladesh. 
+Lalive, Rafael, 2007. How do Extended Benefits affect Unemployment Duration? A Regression Discontinuity Approach. Journal of Econometrics, 142 (2): 785-806. 
+Maluccio, John A, and Rafael Flores, 2004. Impact Evaluation of a conditional cash transfer program: The Nicaraguan Red de Protecci?n Social. FCND Discussion Paper No. 184, Washington, DC: International Food Policy Research Institute. 
+Martinelli, C?sar and Susan W. Parker, 2006. Do School Subsides Promote Human Capital Investments among the Poor? The Scandinavian Journal of Economics 110(2): 261 ? 278. 
+Parker, Susan W, Luis Rubalcava, Graciela Teruel, 2008. Evaluating Conditional Schooling and Health Programs. Handbook of Development Economics, Volume 4. 
+Parker, Susan W., and Emmanuel Skoufias, 2000. The impact of PROGRESA on work, leisure, and time allocation. Washington, DC: International Food Policy Research Institute. 
+Parker, Susan W., Petra E. Todd, and Kenneth Wolpin, 2005. Within-Family Treatment Effect Estimators the Impact of Oportunidades on Schooling in Mexico. University of Pennsylvania: Working Paper. 
+Rawlings, Laura B. and Gloria M. Rubio, 2005. Evaluating the Impact of Conditional Cash Transfer Programs. World Bank Research Observer, 20(1), 29 ? 55. 
+Schultz, T. Paul, 2000. Impact of Progresa on School Attendance Rates in the Sampled Population. Washington, DC: International Food Policy Research Institute. 
+Schultz, T. Paul, 2001. Why Governments Should Invest More to Educate Girls. Yale University: Economic Growth Center Discussion Paper No. 836. 
+Skoufias, Emmanuel and Susan W. Parker, 2001. Conditional Cash Transfers and their impact on child work and schooling: Evidence from the PROGRESA program in Mexico. Economia. 
+Todd, Petra E, 2008. Evaluating Social Program with Endogenous Program Placement and Selection of the Treated. Handbook of Development Economics, Volume 4.

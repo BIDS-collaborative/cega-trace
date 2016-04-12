@@ -1,0 +1,41 @@
+Acci車n Social. 2010a. Familias en Acci車n: Corbetura Geografica. Accion Social: http://www.accionsocial.gov.co/contenido/contenido.aspx?catID=204&conID=157&pagID=275
+Acci車n Social. 2010b. Familias en Acci車n: Subsidios. Accion Social: http://www.accionsocial.gov.co /contenido /contenido.aspx?catID=204&conID=157&pagID=282
+Alam, A., J. Baez, and X. del Carpio. 2011. 求Does Cash for School Influence Young Women's Behavior in the Longer Term? Evidence from Pakistan.′ IZA Discussion Papers N. 5703, Bonn, Germany.
+Angrist, Joshua, Eric Bettinger, Erik Bloom, Elizabeth King and Michael Kremer. 2002. 求Vouchers for Private Schooling in Colombia: Evidence from a Randomized Natural Experiment′ American Economic Review 92(5): 1535-58. 
+Angrist, Joshua, Eric Bettinger, and Michael Kremer. 2006. 求Long-Term Educational Consequences of Secondary School Vouchers: Evidence from Administrative Records in Colombia.′ American Economic Review 96(3): 847-72.
+Angrist, J., E., Bettinger, and M. Kremer. 2004. "Long-Term Consequences of Secondary School Vouchers: Evidence from Administrative Records in Colombia," NBER Working Papers 10713.
+Attanasio, O., E. Battistin, and A. Mesnard. 2009. 求Food and Cash Transfers: Evidence from Colombia.′ Discussion Paper No. 7326. London, UK: Center for Economic Policy Research.
+Attanasio, O., E. Fitzsimmons, A. G車mez, D. L車pez, C. Meghir, and A. Mesnard. 2006. 求Child Education and Work Choices in the Presence of a Conditional Cash Transfer Programme in Rural Colombia.′ Working Paper W06/01. London, UK: IFS.
+Attanasio, O., E. Fitzsimmons, and A. G車mez. 2005. 求The Impact of a Conditional Education Subsidy on School Enrollment in Colombia.′ Report Summary: Familias 01. London, UK: IFS.
+Attanasio, O. and A. Mesnard. 2005. 求The Impact of a Conditional Cash Transfer Programme on Consumption in Colombia.′ Report Summary: Familias 02. London, UK: Institute for Fiscal Studies.
+Attanasio, O., L. C. G車mez, P. Heredia, and M. Vera-Hern芍ndez. 2005. 求The Short-Term Impact of a Conditional Cash Subsidy on Child Health and Nutrition in Colombia.′ Report Summary: Familias 03. London, UK: Institute for Fiscal Studies.
+Barrera-Osorio, F., M. L. Bertrand, L. Linden, and F. Perez-Calle. 2008. 求Conditional Cash Transfers in Education: Design Features, Peer and Sibling Effects Evidence from a Randomized Experiment in Colombia.′ Policy Research Working Paper 4580. Washington, DC: The World Bank.
+Barrera-Osario, F., L. L. Linden, and M. Urquiola. 2007. 求The Effects of User Fee Reductions on Enrollment: Evidence form a Quasi-Experiment,′ Columbia University, Department of Economics, Mimeo.
+Camacho, A. and E. Conover. 2011. "Manipulation of a Targeting System". American Economic Journal: Economic Policy (forthcoming).
+Crump, R., V. J. Hotz, G. Imbens and O. Mitnik, 求Dealing with Limited Overlap in Estimation of Average Treatment Effects′, Biometrika, Vol. 96, Number 1, 187-199, March 2009
+Behrman, Jere R., S. W. Parker, and P. E. Todd. 2005. 求Long-Term Impacts of the Oportunidades Conditional Cash Transfer Program on Rural Youth in Mexico.′ Discussion Paper 122. G?ttingen, Germany: Ibero-America Institute for Economic Research.
+Behrman, J. R., P. Sengupta, and P. Todd. 2000. 求The Impact of PROGRESA on Achievement Test Scores in the First Year.′ Final Report. Washington, DC: IFPRI.
+Behrman, Jere R., P. Sengupta, and P. E. Todd. 2005. 求Progressing through PROGRESA: An Impact Assessment of a School Subsidy Experiment in Rural Mexico.′ Economic Development and Cultural Change 54 (1): 237每75.
+Bhargava, A. 2007. The Impact of Conditional Cash Transfers on the Educational Performance of Children: Evidence from Colombia＆s Familias en Acci車n Program. University of British Colombia.
+Dubois, P. and M. Rubio-Codina. 2009. 求Child Care Provision: Semiparametric Evidence from a Randomized Experiment in Mexico.′ CEPR Discussion Paper No. DP7203.
+Fan, Jiangqing and Irene Gijbels. 1996. Local Polynomial Modelling and Its Applications. New York: Chapman and Hall.
+Ferreira, F. H. G., D. Filmer, and S. Norbert. 2009. "Own and Sibling Effects of Conditional Cash Transfer Programs: Theory and Evidence from Cambodia," Policy Research Working Paper Series 5001. Washington, DC: World Bank.
+Filmer, D. and N. Schady. 2009. "School Enrollment, Selection and Test Scores." Policy Research Working Paper Series 4998. Washington, DC: The World Bank.
+Filmer, D., L. Pritchett, and A. Hasan. 2006. 求A Millennium Learning Goal: Measuring Real Progress in Education.′ Working Paper No. 97. Center for Global Development.
+Fiszbein, Ariel, and Norbert Schady. 2009. Conditional Cash Transfers: Reducing Present and Future Poverty. Washington, D.C., The World Bank.
+Fernando Gamboa, L. and N. Forero Ram赤rez. 2008. "Fertility and Schooling: How this Relation Changed between 1995 and 2005 in Colombia." Working Paper 004711, Universidad del Rosario.
+Garc赤a, S. and J. Hill. 2009. 求The Impact of Conditional Cash Transfers on Children＆s School Achievement: Evidence from Colombia.′ Universidad de los Andes, CEDE Working Paper Series. Available at SSRN: http://ssrn.com/abstract=1485841
+Garc赤a-Suaza, A.F.; J.C. Guataqu赤; J.A. Guerra; and D. Maldonado. 2009. 求Beyond the Mincer Equation: The Internal Rate of Return to Higher Education in Colombia.′ Working Paper Series No. 68. Department of Economics, University del Rosario.
+Glewwe, P. and P. Olinto. 2004. 求Evaluating the Impact of Conditional Cash Transfers on Schooling: An Experimental Analysis of Honduras.′ Mimeo. Minneapolis, MN: University of Minnesota.
+Heinrich, C. J. 2007. "Demand and Supply-Side Determinants of Conditional Cash Transfer Program Effectiveness." World Development, Elsevier, 35(1): 121-43.
+Imbens, Guido W., and Karthik Kalyanaraman. 2010. 求Optimal Bandwidth Choice for the Regression Discontinuity Estimator.′ CeMMAP working papers CWP05/10, Centre for Microdata Methods and Practice, Institute for Fiscal Studies.
+Imbens, Guido W., and Thomas Lemieux. 2008. 求Regression Discontinuity: A Guide to Practice.′ Journal of Econometrics 142(2): 615-35.
+Imbens, Guido W., and Jeffrey M. Wooldridge. 2009. 求Recent Developments in the Econometrics of Program Evaluation.′ Journal of Economic Literature 47(1): 5-86.
+Institute for Fiscal Studies, Econometr赤a, and Sistemas Especializados de Informaci車n. 2006. 求Evaluaci車n del Impacto del Programa Familias en Acci車n每Subsidios Condicionados de la Red de Apoyo Social.′ Bogot芍, Colombia: National Planning Department.
+Lee, David S., and Thomas Lemieux. 2009. 求Regression Discontinuity Designs in Economics.′ NBER Working Paper 14723, Cambridge, MA.
+Prada, C.F. 2006. 求Is the Decision of Study in Colombia Profitable?′ Essays on Political Economy No. 51. Prepared for Degree in Economics, Javeriana University.
+Rawlings, L. 2002. 求Response to a Crisis and Beyond.′ In Spectrum 23878: Protecting People with Social Safety Nets. Washington, DC: The World Bank.
+S芍nchez Torres, F.; N迆?ez M谷ndez, J. 2003 求A Dynamic Analysis of Human Capital, Female Work-force Participation, Returns to Education and Changes in Household Structure in Urban Colombia, 1976-1998.′ Colombian Economic Journal, 1(1): 109-49.
+World Bank. 2010. 求Evidence and Lessons Learned from Impact Evaluations in Social Safety Nets.′ Manuscript. Washington, DC: The World Bank.
+World Bank. 2008. Project Appraisal Document on a Proposed Loan in the Amount of $636.5 million to the Republic of Colombia for a Support for the Second Phase of the Expansion of the Program of Conditional Cash Transfers-Familias en Acci車n Project. Washington, DC: The World Bank.
+World Bank. 2005. Project Appraisal Document on a Proposed Loan in the Amount of $86.4 million to the Republic of Colombia for a Social Safety Net Project. Washington, DC: The World Bank.

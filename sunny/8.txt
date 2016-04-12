@@ -1,0 +1,15 @@
+Behrman, Jere R., Piyali Sengupta, and Petra Todd. 2005. "Progressing through PROGRESA: An Impact Assessment of a School Subsidy Experiment in Mexico." Economic Development and Cultural Change 54(1): 237-276. 
+Bourguignon, Fran?ois, Francisco H. G. Ferreira, and Phillippe G. Leite. 2003. "Conditional Cash Transfers, Schooling, and Child Labor: Micro-Simulating Brazil's Bolsa Escola Program." World Bank Economic Review 17(2): 229?54. 
+Chaudhury, Nazmul, and Dilip Parajuli. 2008. "Conditional Cash Transfers and Female Schooling: The Impact of the Female School Stipend Program on Public School Enrollments in Punjab, Pakistan." Forthcoming, Journal of Applied Economics. 
+De Janvry, Alain, Frederico Finan, and Elisabeth Sadoulet. 2008. "Local Electoral Accountability and Decentralized Program Performance." Unpublished manuscript, University of California at Berkeley. 
+De Janvry, Alain, and Elisabeth Sadoulet. 2006. "Making Conditional Cash Transfer Programs More Efficient: Designing for Maximum Effect of the Conditionality." World Bank Economic Review 20(1): 1?29. 
+Edmonds, Eric V. 2006. "Child labor and schooling responses to anticipated income in South Africa."Journal of Development Economics 81(2):386-414. 
+Filmer, Deon, and Norbert Schady. 2008. "Getting Girls into School: Evidence from a Scholarship Program in Cambodia." Economic Development and Cultural Change 56(2): 581?617. 
+------. 2009a. "Targeting, Implementation, and Evaluation of the CSP Scholarship Program in Cambodia."Unpublished manuscript, World Bank, Washington, DC. 
+------. 2009b. "School Enrollment, Selection and Test Scores." Unpublished manuscript, World Bank, Washington, DC. 
+Fiszbein, Ariel, and Norert Schady. 2009. Conditional Cash Transfers: Reducing Present and Future Poverty. The World Bank, Washington, DC. 
+Imbens, Guido W., and Thomas Lemieux. 2008. "Regression Discontinuity Designs: A Guide to Practice." Journal of Econometrics 142(2): 615-35. 
+Maluccio, John A., and Rafael Flores. 2005. "Impact Evaluation of a Conditional Cash Transfer Program: The Nicaraguan Red de Protecci?n Social." Research Report 141, International Food Policy Research Institute, Washington, DC. 
+Schady, Norbert, and Mar?a Caridad Araujo. 2008. "Cash Transfers, Conditions, and School Enrollment in Ecuador." Econom?a 8(2): 43?70. 
+Schultz, T. Paul. 2004. "School Subsidies for the Poor: Evaluating the Mexican PROGRESA Poverty Program." Journal of Development Economics 74(1): 199?250. 
+Todd, Petra E., and Kenneth I. Wolpin. 2006. "Assessing the Impact of a School Subsidy Program in Mexico: Using a Social Experiment to Validate a Dynamic Behavioral Model of Child Schooling and Fertility." American Economic Review 96(5): 1384?417.

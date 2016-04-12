@@ -1,0 +1,44 @@
+Abadie, Alberto, D. Drukker, J. Herr and Guido Imbens. 2004. “Implementing Matching Estimators for Average Treatment Effects in Stata.” The Stata Journal, 4, 290-311.
+Abadie, Albeto and Guido Imbens. 2006. “Large Sample Properties of Matching Estimators for Average Treatment Effects.” Econometrica 74, 235-267.
+Alkire, Sabina, 2008. “Concepts and Measurement of Agency”. OPHI working paper.
+Alsop, R., Bertelsen, M. and Holland, J. (2006) Empowerment in Practice From Analysis to Implementation (Washington, D.C., World Bank).
+Altonji, Joseph G., Todd E. Elder and Christopher R. Taber. 2005. “Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools.” Journal of Political Economy 113(1): 151-184.
+Appadurai, Arjun, 2004. “The Capacity to Aspire”. In Rao, V., and M. Walton (eds.) 2004. Culture and Public Action. Palo Alto, CA: Stanford University Press.
+Acemoglu, D., S. Johnson, and J. A. Robinson. 2002. “Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution,” Quarterly Journal of Economics, 117: 1231-1294.
+Banerjee, A. and L. Iyer (2005). “History, Institutions, and Economic Performance: The Legacy of Colonial Land Tenure Systems in India,” American Economic Review, 95: 1190-1213.
+Bellows, John and Edward Miguel. 2009. “War and Local Collective Action in Sierra Leone.” Journal of Public Economics 93(11-12): 1144-1157.
+Bendor, Jonathan, Dilip Mookherjee, and Debrj Ray. 2001. “Aspiration-Based Reinforcement Learning in Repeated Games: An Overview.” International Game Theory Review 3: 159-174.
+Bobonis, Gustavo, Melissa González-Brenes, and Roberto Castro (2012). Public Transfers and Domestic Violence: The Roles of Private Information and Spousal Control. American Economic Journal: Economic Policy (forthcoming).
+Bobonis, Gustavo, Roberto Castro, and Juan S. Morales (2010). Conditional Cash Transfers and Spousal Abuse: Short-Term and Long-Term Effects. Under revision.
+Borgers, Tilman, and Rajiv Sarin. 2000. “Naïve Reinforcement Learning with Endogenous Aspirations.” International Economic Review 41, 921-950.
+Dell, Melissa. 2010. “The Persistent Effects of Peruvian Mining Mita”. Econometrica.
+Deneulin, Séverine and Shahani, Lila. 2009. An Introduction to the Human Development and Capability Approach: Freedom and Agency. Sterling, VA: Earthscan. Access online at: http:// www.idrc.ca/openebooks/470-3/.
+Diecidue, Enrico, and Jeroen van de Ven, 2008. “Aspiration Level, Probability of Success and Failure, and Expected Utility”, International Economic Review, 49(2): 683-700.
+Fredrickson, B.L. “Why Positive Emotions Matter in Organizations: Lessons from the Broadenand-Build Model”. Psychologist-Manager Journal 4, no. 2 (2000): 131-42. 
+Glaeser, E. and A. Shleifer. 2002. “Legal Origins,” Quarterly Journal of Economics, 117: 1191- 1230.
+Helliwell, J. F. 2006. “Well-Being, Social Capital and Public Policy: What’s New?” The Economic Journal116(510): C34-C45.
+Helliwell, J. F. and R. D. Putnam. 1995. “Economic Growth and Social Capital in Italy.” Eastern Economic Journal21(3): 295-307.
+Hidrobo, Melissa and Lia Fernald. 2013. Cash Transfers and Domestic Violence. Journal of Health Economics, 32(1): 304-319.
+Iberico MM, Zevallos K, Boccia D, Tovar MA, Gavino B Valiente A, Montoya R, Rivero M, Curatola A, C Rocha, Evans CA. Uptake and equity of TB preventive therapy was increased by a socio-economic intervention. Oral presentation published in the conference proceedings, the Global Health Conference, Montreal, November 13-15th, 2011. Open access http://www. xcdtech.com/ghc2011/18.003.html.
+Imbens, Guido. 2004. “Nonparametric Estimation of Average Treatment Effects under Exogeneiry: A Survey.” Review of Economics and Statistics, 86, 4-30.
+Karlin DM, Fernandez F, K Zevallos K, C Loiselle C, R Montoya R, Allen NR, Boccia D, Evans CA. Depression is common in TB patients and predicts treatment abandonment. International Journal of TB & Lung Disease 2011:15(11);S70. Open access http://www.theunion.
+org/images/stories/journal/AbstractBook2011_Web.pdf page 70. Oral presentation OP-432- 28 in session 02. The spectrum of TB management issues at the International Union Against TB & Lung Disease annual conference in Lille Oct. 2011. A recording of this presentation with the projected slides has open access at http://uwclh.conference2web.com/content/1286.
+Knack, S. and P. Keefer. 1997. “Does Social Capital Have an Economic Payoff? A Cross-Country Investigation.” The Quarterly Journal of Economics112(4): pp. 1251-1288.
+Macours, Karen and Renos Vakis, 2009, “Changing Households’ Investments and Aspirations through Social Interactions: Evidence from a Randomized Transfer Program”, (2009). World Bank Policy Research Working Paper #5137.
+Maritz M, Bayer AM, Zevallos K, Acosta CD, Montoya R, Rivero M, Ford CM, Evans CA. 2011. “Tuberculosis treatment adherence and mortality are predicted by low social capital”, International Journal of Tuberculosis and Lung Disease, 15(11).
+Narayan, D. (2005) Measuring Empowerment: Cross-Disciplinary Perspectives (Washington, The World Bank).
+Nunn, N. (2008). “The Long-Term Effects of Africa’s Slave Trades”. Quarterly Journal of Economics, 123: 139-176.
+Onifade D, Bayer A, Montoya R, Haro M, Alva J, Franco J, Sosa R, Valiente B, Ford C, Acosta C, Evans CA. A study of obstacles and opportunities for gender equity in TB control. BMC Public Health 2010 Jun 29;10:381. [Journal Open Access] [Pubmed Open Access] Open access http://www.ncbi.nlm.nih.gov/pubmed/20587044.
+Perova, Elizaveta, 2010. “Buying out of Abuse – how Changes in Women’s Income Affect Domestic Violence”, working paper.
+Perova, Elizaveta and RenosVakis, 2009. “Welfare Impact of the Juntos Program in Peru: Evidence from a Non-Experimental Evaluation”, Mimeo, World Bank.
+Phipps, S. 2003. Social Cohesion and the Well-Being of Canadian Children. The Economic Implications of Social Cohesion. L. Osberg, University of Toronto Press.
+Ray, Debraj, 2006. “Aspirations, Poverty and Economic Change”, in Banerjee, Abhijit V., Roland Benabou, and Dilip Mookherjee (eds.), Understanding Poverty, Oxford University Press, Oxford.
+Robeyns, Ingrid. 2005. “Sen’s Capability Approach and Gender Inequality: Selecting Relevant Capabilities”. In “Amartya Sen’s Work and Ideas. A Gender Perspective”, edited by Bina Agarwal, Jane Humphries and Ingrid Robeyns, Routledge, New York.
+Rocha, C., R. Montoya, K. Zevallos, A. Curatola, W. Ynga, J. Franco, F. Fernandez, N. Becerra, M. Sabaduche, M. A. Tovar, E. Ramos, Tapley, N. R. Allen, D. A. Onifade, C. D. Acosta, M. Maritz, D. F. Concha, S. G. Schumacher, C. A. Evans, 2011. “The Innovative Socio-economic Interventions Against Tuberculosis (ISIAT) project: an operational assessment”. International Journal of Tuberculosis and Lung Disease, 15(5):S50–S57. [Journal Open Access] & [Pubmed]. Open access http://www.ncbi.nlm.nih.gov/pubmed/21740659.
+Ryan, Richard M. and Deci, Edward L. “Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being”. American Psychologist, Vol 55(1), Jan 2000, 68-78.
+Samman E. and Santos, M. E. 2009: Agency and Empowerment: A review of concepts, indicators and empirical evidence. Background paper for the LAC-Regional HD Report 2010. Access online: http://www.ophi.org.uk/wp-content/uploads/OPHI-RP-10a.pdf?cda6c1. Sen, Amartya. Development as Freedom. Anchor, 2000.
+Sen, Amartya. 1985: Well-being, Agency and Freedom. The Journal of Philosophy LXXXII, pp. 169-221.
+Sen, Amartya. 1992: Inequality Reexamined, Oxford.
+Stanley, D. and S. Smeltzer. 2003. Many Happy Returns: How Social Cohesion Attracts Investment. The Economic Implications of Social Cohesion. L. Osberg, University of Toronto Press.
+Trivelli, Carolina y Johanna Yancari. “¿Inclusión a través de una cuenta de ahorros? El caso de las mujeres indígenas y rurales y el sistema financiero”. En Revista Argumentos, año 2, n° 3, setiembre 2008. World Development Report, 2012.
+Zhuang, Juzhong, Herath Gunatilake, Yoko Niimi, Muhammad Ehsan Khan, Yi Jiang, Rana Hasan, Niny Khor, Anneli S. Lagman-Martin, Pamela Bracey, and Biao Huang, 2009. “Financial Sector Development, Economic Growth, and Poverty Reduction: A Literature Review”. ADB Economics Working Paper Series.

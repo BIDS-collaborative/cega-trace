@@ -1,0 +1,55 @@
+Besley, Timothy and Ravi Kanbur, 1993, ¡°Principles of Targeting,¡± in Lipton, Michael and
+Jacques van der Gaag (eds.) Including the Poor. Washington D.C.: World Bank.
+Coady, David, Margaret Grosh and John Hoddinott, 2004a, ¡°Targeting Outcomes Redux,¡±
+WorldBank Research Observer, 19(1): 61-86.
+___________, _____________ and ____________, 2004b, Targeting Transfers in Developing
+Countries: Review of Lessons and Experience, Washington DC: World Bank.
+Cornia, G.A., and F. Stewart, 1995, ¡°Two Errors of Targeting,¡± in Dominique van de Walle
+and Kimberly Nead (eds) Public Spending and the Poor, Johns Hopkins University
+Press for the World Bank.
+Daoshun, Ge and Yang Tuan, 2004, ¡°Minimum Income Schemes for the Unemployed: A Case
+Study from Dalian, China,¡± International Social Science Journal 56(179): 47-56.
+Foster, James, J. Greer, and Erik Thorbecke, 1984, ¡°A Class of Decomposable Poverty
+Measures,¡± Econometrica 52: 761-765.
+Galasso, Emanuela and Martin Ravallion, 2005, ¡°Decentralized Targeting of an Anti-Poverty
+Program,¡± Journal of Public Economics 85: 705-727.
+Hussain, Athar, 2002, ¡°Urban Poverty in China: Incidence and Policy Responses,¡± in
+Townsend, P. and Gordon, D. (eds) World Poverty: New Policies to Defeat and Old
+Enemy, Bristol, England: The Policy Press.
+Jalan, Jyotsna and Martin Ravallion, 2003, ¡°Estimating the Benefit Incidence of an
+Anti-Poverty Program by Propensity-Score Matching,¡± Journal of Business and
+Economic Statistics. 21(1): 19-30.
+Jenkins, Stephen, 1988, ¡°Calculating Income Distribution Indices from Micro-Data,¡± National
+ Tax Journal 41(1): 139-42.
+Kakwani, Nanak, 1980, Income Inequality and Poverty: Methods of Estimation and Policy
+Applications, Washington DC: Oxford University Press for the World Bank.
+Kanbur, Ravi , Michael Keen and Matti Tuomala, 1995, ¡°Labor Supply and Targeting in
+Poverty-Alleviation Programs,¡± in Dominique van de Walle and Kimberly Nead
+(eds) Public Spending and the Poor, Johns Hopkins University Press for the
+World Bank.
+Lambert, Peter, 1993, The Distribution and Redistribution of Income: A Mathematical Analysis, 
+28
+Manchester: Manchester University Press.
+Murgai, Rinku and Martin Ravallion, 2005, ¡°Is a Guaranteed Living Wage a Good Anti-Poverty
+Policy?¡± Policy Research Working Paper 3640, World Bank, Washington DC.
+O¡¯Keefe, Philip, 2004, ¡°Social Assistance in China: An Evolving System,¡± mimeo,
+ World Bank, Washington DC.
+Ravallion, Martin, 2000, ¡°Monitoring Targeting Performance when Decentralized Allocations to
+the Poor are Unobserved,¡± World Bank Economic Review 14(2): 331-45.
+______________, 2004, ¡°Who is Protected from Budget Cuts?¡± Journal of Policy Reform 7(2):
+109-22.
+_______________, 2005, ¡°Poverty Alleviation Programs,¡± in New Palgrave Dictionary
+of Economics, 2nd edition, Larry Blume and Steven Durlauf (eds) London:
+Palgrave Macmillan.
+Ravallion, Martin and Shaohua Chen, 2005, ¡°China¡¯s (Uneven) Progress Against Poverty,¡±
+Journal of Development Economics, in press.
+Ravallion, Martin and Gaurav Datt, 1995, ¡°Is Targeting through a Work Requirement Efficient?
+ Some Evidence for Rural India,¡± in D. van de Walle and K. Nead (eds) Public Spending
+ and the Poor: Theory and Evidence, Baltimore: Johns Hopkins University Press.
+Ravallion, Martin, Emanuela Galasso, Teodoro Lazo and Ernesto Philipp, 2005, ¡°What
+Can Ex-Participants Reveal About a Program¡¯s Impact?¡± Journal of Human
+Resources, 40(Winter): 208-230.
+Rosenbaum, Paul and Donald Rubin, 1983, ¡°The Central Role of the Propensity Score in
+ Observational Studies for Causal Effects,¡± Biometrika, 70, 41-55.
+van de Walle, Dominique. 1998. ¡°Targeting Revisited,¡± World Bank Research Observer,
+13(2): 231-48.

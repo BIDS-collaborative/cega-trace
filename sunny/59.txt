@@ -1,0 +1,29 @@
+Attanasio, O., E. Battistin, E. Fitzsimons, A. Mesnard, and M. Vera-Hern¨¢ndez. 2005. ¡°How Effective are Conditional Cash Transfers? Evidence from Colombia.¡± Unpublished manuscript, The Institute for Fiscal Studies, London, UK.
+Baland, J.-M. and J. A. Robinson. 2000. ¡°Is Child Labor Inefficient?¡± Journal of Political Economy 108(4): 663-679.
+Barrera-Osorio, F., M. Bertrand, L. L. Linden and F. Perez-Calle. 2008. ¡°Conditional Cash Transfers in Education: Design Features, Peer and Sibling Effects Evidence from a Randomized Experiment in Colombia.¡± World Bank Policy Research Working Paper No. 4580. The World Bank, Washington DC.
+Basu, K. and P. H. Van. 1998. ¡°The Economics of Child Labor.¡± The American Economic Review 88(3): 412-427.
+Becker, G. 1991. A Treatise on the Family. Cambridge, Mass. Harvard University Press. Behrman, J., P. Sengupta, and P. Todd. 2005. ¡°Progressing thorough Progresa: An Impact Assessment of a School Subsidy in Mexico.¡± Economic Development and Cultural Change 54(1) 237-75.
+Ben-Porath, Y. 1967. ¡°The Production of Human Capital and the Life Cycle of Earnings.¡± Journal of Political Economy 75(4): 352-365.
+Black, D A., J. Galdo and J. Smith (2007). ¡°Evaluating the Worker Profiling and Employment Services System Using a Regression Discontinuity Approach.¡± American Economic Review. 97(2): 104- 107.
+Bourguignon, F., F. Ferreira, and P. Leite. 2003. ¡°Conditional Cash Transfers, Schooling, and Child Labor: Micro-Simulating Brazil's Bolsa Escola Program.¡± The World Bank Economic Review 17(2):229-254.
+Chaudhury, N. and D. Parajuli. 2008. ¡°Conditional Cash Transfers and Female Schooling: The Impact of the Female School Stipend Programme on Public School Enrolments in Punjab, Pakistan.¡± Applied Economics. http://www.informaworld.com/10.1080/00036840802167376.
+de Brauw, A., and J. Hoddinott. 2007. Must Conditional Cash Transfer Programs be Conditioned to be Effective? The Impact of Conditioning Transfers on School Enrollment in Mexico. Unpublished manuscript, International Food Policy Research Institute, Washington, DC.
+de Janvry, A. and E. Sadoulet. 2006. ¡°Making Conditional Cash Transfer Programs More Efficient: Designing for Maximum Effect of the Conditionality.¡± The World Bank Economic Review 20(1): 1-29.
+Edmonds, E. 2006. ¡°Understanding Sibling Differences in Child Labor.¡± Journal of Population Economics 19(4): 795¨C821.
+Edmonds, E. 2007. "Child Labor," in T.P. Schultz and J. Strauss, eds., Handbook of Development Economics. Amsterdam: Elsevier Science, North-Holland. 3607-3710.
+Edmonds, E, and N. Schady. 2008. ¡°Poverty Alleviation and Child Labor.¡± World Bank Policy Research Working Paper No. 4702. The World Bank, Washington DC.
+Emerson, P. and A Portela Souza. 2008. ¡°Birth Order, Child Labor, and School Attendance in Brazil.¡± World Development 36(9): 1647-1664.
+Fan, J. and I. Gijbels. 1996. Local Polynomial Modelling and Its Applications. New York: Chapman & Hall.
+Filmer, D, and N. Schady. 2008. ¡°Getting Girls into School: Evidence from a Scholarship Program in Cambodia.¡± Economic Development and Cultural Change 56(3): 581-617.
+Filmer, D, and N. Schady. 2009a. ¡°School Enrollment, Selection and Test Scores.¡± Unpublished Manuscript, The World Bank, Washington, DC.
+Filmer, D, and N. Schady. 2009b. ¡°Targeting, Implementation, and Evaluation of the CSP Scholarship Program in Cambodia.¡± Unpublished manuscript, World Bank, Washington, DC.
+Filmer, D, and N. Schady. 2009c. ¡°Are There Diminishing Returns to Transfer Size in Conditional Cash Transfers?¡± Unpublished Manuscript, The World Bank, Washington, DC.
+Fiszbein, A., and N. Schady. 2008. Conditional Cash Transfers: Reducing Present and Future Poverty. Forthcoming, World Bank.
+Glewwe, P., and P. Olinto. 2004. ¡°Evaluating the Impact of Conditional Cash Transfers on Schooling: An Experimental Analysis of Honduras. PRAF Program.¡± Unpublished manuscript, University of Minnesota.
+Imbens, Guido, and Thomas Lemieux. 2008. ¡°Regression Discontinuity: A Guide to Practice.¡± Journal of Econometrics 142(2): 615-35.
+Maluccio, J., and R. Flores. 2004. ¡°Impact Evaluation of a Conditional Cash Transfer Program: The Nicaraguan Red de Protecci¨®n Social.¡± Unpublished manuscript, Food and Nutrition Division, International Food Policy Research Institute, Washington, D.C.
+Manacorda, M. 2006. ¡°Child labor and the labor supply of other household members: Evidence from 1920 America.¡± American Economic Review 96(5):1788-1800.
+Parish, W, and R. Willis. 1993. ¡°Daughters, education, and family budgets: Taiwan experiences.¡± Journal of Human Resources 28(4): 862¨C898.
+Schady, N. and M. C. Araujo. 2008. "Cash Transfers, Conditions, and School Enrollment , and Child Work: Evidence from a Randomized Experiment in Ecuador." Econom¨ªa 8(2): 43-70.
+Schultz, T. P. 2004. ¡°School Subsidies for the Poor: Evaluating the Mexican Progresa Poverty Program.¡± Journal of Development Economics 74(1): 199-250.
+Todd, P., and K. Wolpin. 2006a. ¡°Assessing the Impact of a School Subsidy Program in Mexico: Using a Social Experiment to Validate a Dynamic Behavioral Model of Child Schooling and Fertility.¡± American Economic Review 96(5):1384-1417.
