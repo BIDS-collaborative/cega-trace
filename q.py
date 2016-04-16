@@ -47,37 +47,28 @@ def convert_string(s):
 # 		htmlfile_title = urllib.urlopen(url_citation)
 # 		htmltext_citation = htmlfile_citation.read()
 # 		htmltext_titel = htmlfile_title.read()
-# 		regex = '"title":["'+ '(.*)' + '."]'
-def check_matching(doi_citation, citation):
-	url_citation = "http://api.crossref.org/works/" + doi_citation
-	htmlfile_citation = urllib.urlopen(url_citation)
-	htmltext_citation = htmlfile_citation.read()
-	regex = '"title":["'+ '(.*)' + '."]'
-	pattern = rre.compile(regex)
-	match = re.search(pattern, htmltext_citation)
-	if match:
-		title = match.group(1)
-	else:
-		print('wrong.....')
-		return False
-	if title in citation:
-		return True
-	return False
+
+
+def decode(parse_file):
+    with codecs.open(parse_file, 'r+', encoding='utf-8', errors='ignore') as txt_file:
+        txt = txt_file.readlines()
+    return txt
 	
+def main():
+	for i in range(2, 8): #range of files to run
+		name = (str(i) + '.txt')
+		data = decode(name) #decode if necessary
+		# data = open(name, 'r')
+		if data:
+			my_list = data
+			out = (str(i) + 'doi.txt')
+			outfile = open(out, 'w')
+			for line in my_list:
+				print(line)
+				doi = search_doi(line)
+				outfile.write(doi + '\n')
+			outfile.close()
 
-def main(argv):
-	infile = open(sys.argv[1], 'r')
-	print(infile)
-	data = infile.read()
-	my_list = data.splitlines()
-	print(my_list)
-	outfile = open(sys.argv[2], 'w')
-	for line in my_list:
-		print(line)
-		doi = search_doi(line)
-		outfile.write(doi+"\n")
-	outfile.close()
-	infile.close()
 
-
-main(sys.argv[1:])
+if __name__ == '__main__':
+	main()
