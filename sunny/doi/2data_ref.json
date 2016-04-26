@@ -1,0 +1,495 @@
+[{
+    'message': {
+        'source': 'CrossRef',
+        'indexed': {
+            'timestamp': 1450990590067,
+            'date-time': '2015-12-24T20:56:30Z',
+            'date-parts': [
+                [2015, 12, 24]
+            ]
+        },
+        'DOI': '10.1596/1813-9450-5259',
+        'subtitle': [],
+        'issued': {
+            'date-parts': [
+                [2010, 6, 2]
+            ]
+        },
+        'reference-count': 0,
+        'created': {
+            'timestamp': 1333596212000,
+            'date-time': '2012-04-05T03:23:32Z',
+            'date-parts': [
+                [2012, 4, 5]
+            ]
+        },
+        'publisher': 'The World Bank',
+        'score': 1.0,
+        'type': 'book',
+        'member': None,
+        'title': ['Cash Or Condition ? Evidence From A Randomized Cash Transfer Program'],
+        'alternative-id': ['10.1596/1813-9450-5259', '10.1596/prwp'],
+        'published-print': {
+            'date-parts': [
+                [2010, 6, 2]
+            ]
+        },
+        'ISSN': ['1813-9450'],
+        'deposited': {
+            'timestamp': 1390948984000,
+            'date-time': '2014-01-28T22:43:04Z',
+            'date-parts': [
+                [2014, 1, 28]
+            ]
+        },
+        'URL': 'http://dx.doi.org/10.1596/1813-9450-5259',
+        'author': [{ 'family': 'Ozler', 'affiliation': [], 'given': 'Berk' }, { 'family': 'Mcintosh', 'affiliation': [], 'given': 'Craig' }, { 'family': 'Baird', 'affiliation': [], 'given': 'Sarah' }],
+        'container-title': ['Policy Research Working Papers'],
+        'prefix': 'none'
+    },
+    'message-type': 'work',
+    'status': 'ok',
+    'message-version': '1.0.0'
+}, {
+    'message': {
+        'ISBN': ['http://id.crossref.org/isbn/978-0-8213-7352-1', 'http://id.crossref.org/isbn/978-0-8213-7353-8'],
+        'source': 'CrossRef',
+        'indexed': {
+            'timestamp': 1450990494122,
+            'date-time': '2015-12-24T20:54:54Z',
+            'date-parts': [
+                [2015, 12, 24]
+            ]
+        },
+        'DOI': '10.1596/978-0-8213-7352-1',
+        'subtitle': ['Reducing Present and Future Poverty'],
+        'issued': {
+            'date-parts': [
+                [2009, 2, 9]
+            ]
+        },
+        'reference-count': 0,
+        'created': {
+            'timestamp': 1238002163000,
+            'date-time': '2009-03-25T17:29:23Z',
+            'date-parts': [
+                [2009, 3, 25]
+            ]
+        },
+        'publisher': 'World Bank',
+        'score': 1.0,
+        'type': 'book',
+        'member': 'http://id.crossref.org/member/558',
+        'title': ['Conditional Cash Transfers'],
+        'alternative-id': ['10.1596/978-0-8213-7352-1'],
+        'published-print': {
+            'date-parts': [
+                [2009, 2, 9]
+            ]
+        },
+        'deposited': {
+            'timestamp': 1390941036000,
+            'date-time': '2014-01-28T20:30:36Z',
+            'date-parts': [
+                [2014, 1, 28]
+            ]
+        },
+        'URL': 'http://dx.doi.org/10.1596/978-0-8213-7352-1',
+        'author': [{ 'family': 'Fiszbein', 'affiliation': [], 'given': 'Ariel' }, { 'family': 'Schady', 'affiliation': [], 'given': 'Norbert R.' }],
+        'container-title': [],
+        'prefix': 'http://id.crossref.org/prefix/10.1596'
+    },
+    'message-type': 'work',
+    'status': 'ok',
+    'message-version': '1.0.0'
+}, {
+    'message': {
+        'indexed': {
+            'timestamp': 1450670287537,
+            'date-time': '2015-12-21T03:58:07Z',
+            'date-parts': [
+                [2015, 12, 21]
+            ]
+        },
+        'page': '840-843',
+        'published-online': {
+            'date-parts': [
+                [2015, 10, 30]
+            ]
+        },
+        'created': {
+            'timestamp': 1446200273000,
+            'date-time': '2015-10-30T10:17:53Z',
+            'date-parts': [
+                [2015, 10, 30]
+            ]
+        },
+        'score': 1.0,
+        'type': 'journal-article',
+        'member': 'http://id.crossref.org/member/179',
+        'title': ['Universal social protection: The World Bank Group and ILO join forces in launching the Universal Social Protection Initiative'],
+        'URL': 'http://dx.doi.org/10.1177/0020872815604814',
+        'author': [{ 'family': 'Zelenev', 'affiliation': [], 'given': 'S.' }],
+        'container-title': ['International Social Work'],
+        'source': 'CrossRef',
+        'issue': '6',
+        'volume': '58',
+        'subject': ['Social Sciences (miscellaneous)', 'Sociology and Political Science'],
+        'DOI': '10.1177/0020872815604814',
+        'ISSN': ['0020-8728', '1461-7234'],
+        'reference-count': 0,
+        'publisher': 'SAGE Publications',
+        'published-print': {
+            'date-parts': [
+                [2015, 11, 1]
+            ]
+        },
+        'deposited': {
+            'timestamp': 1446200275000,
+            'date-time': '2015-10-30T10:17:55Z',
+            'date-parts': [
+                [2015, 10, 30]
+            ]
+        },
+        'subtitle': [],
+        'issued': {
+            'date-parts': [
+                [2015, 10, 30]
+            ]
+        },
+        'prefix': 'http://id.crossref.org/prefix/10.1177'
+    },
+    'message-type': 'work',
+    'status': 'ok',
+    'message-version': '1.0.0'
+}, {
+    'message': {
+        'indexed': {
+            'timestamp': 1451016332095,
+            'date-time': '2015-12-25T04:05:32Z',
+            'date-parts': [
+                [2015, 12, 25]
+            ]
+        },
+        'page': '1125-1156',
+        'published-online': {
+            'date-parts': [
+                [2013, 6, 20]
+            ]
+        },
+        'created': {
+            'timestamp': 1371728615000,
+            'date-time': '2013-06-20T11:43:35Z',
+            'date-parts': [
+                [2013, 6, 20]
+            ]
+        },
+        'editor': [{ 'family': 'Faff', 'affiliation': [], 'given': 'Robert' }],
+        'score': 1.0,
+        'type': 'journal-article',
+        'member': 'http://id.crossref.org/member/311',
+        'title': ['Why do firms save cash from cash flows? Evidence from firm-level estimation of cash-cash flow sensitivities'],
+        'URL': 'http://dx.doi.org/10.1111/acfi.12027',
+        'author': [{ 'family': "D'Espallier", 'affiliation': [{ 'name': 'Hogeschool-Universiteit Brussel and KU Leuven; Brussel Belgium' }], 'given': 'Bert' }, { 'family': 'Huybrechts', 'affiliation': [{ 'name': 'Hasselt University; Hasselt Belgium' }], 'given': 'Jolien' }, { 'family': 'Schoubben', 'affiliation': [{ 'name': 'Lessius University College and KU Leuven; Leuven Belgium' }], 'given': 'Frederiek' }],
+        'container-title': ['Accounting & Finance', 'Account Finance'],
+        'source': 'CrossRef',
+        'issue': '4',
+        'volume': '54',
+        'subject': ['Accounting', 'Economics, Econometrics and Finance (miscellaneous)', 'Finance'],
+        'DOI': '10.1111/acfi.12027',
+        'ISSN': ['0810-5391'],
+        'reference-count': 66,
+        'license': [{
+            'URL': 'http://doi.wiley.com/10.1002/tdm_license_1',
+            'start': {
+                'timestamp': 1441065600000,
+                'date-time': '2015-09-01T00:00:00Z',
+                'date-parts': [
+                    [2015, 9, 1]
+                ]
+            },
+            'delay-in-days': 803,
+            'content-version': 'tdm'
+        }],
+        'publisher': 'Wiley-Blackwell',
+        'link': [{ 'content-type': 'unspecified', 'intended-application': 'text-mining', 'URL': 'http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Facfi.12027', 'content-version': 'vor' }],
+        'published-print': {
+            'date-parts': [
+                [2014, 12]
+            ]
+        },
+        'deposited': {
+            'timestamp': 1445320604000,
+            'date-time': '2015-10-20T05:56:44Z',
+            'date-parts': [
+                [2015, 10, 20]
+            ]
+        },
+        'subtitle': [],
+        'issued': {
+            'date-parts': [
+                [2013, 6, 20]
+            ]
+        },
+        'prefix': 'http://id.crossref.org/prefix/10.1111'
+    },
+    'message-type': 'work',
+    'status': 'ok',
+    'message-version': '1.0.0'
+}, {
+    'message': {
+        'indexed': {
+            'timestamp': 1452941346332,
+            'date-time': '2016-01-16T10:49:06Z',
+            'date-parts': [
+                [2016, 1, 16]
+            ]
+        },
+        'page': '142-154',
+        'issued': {
+            'date-parts': [
+                [2012, 6]
+            ]
+        },
+        'created': {
+            'timestamp': 1341827157000,
+            'date-time': '2012-07-09T09:45:57Z',
+            'date-parts': [
+                [2012, 7, 9]
+            ]
+        },
+        'score': 1.0,
+        'type': 'journal-article',
+        'member': 'http://id.crossref.org/member/78',
+        'title': ['Improving access to maternity services: an overview of cash transfer and voucher schemes in South Asia'],
+        'URL': 'http://dx.doi.org/10.1016/s0968-8080(12)39609-2',
+        'author': [{ 'family': 'Jehan', 'affiliation': [], 'given': 'Kate' }, { 'family': 'Sidney', 'affiliation': [], 'given': 'Kristi' }, { 'family': 'Smith', 'affiliation': [], 'given': 'Helen' }, { 'family': 'de Costa', 'affiliation': [], 'given': 'Ayesha' }],
+        'container-title': ['Reproductive Health Matters'],
+        'source': 'CrossRef',
+        'issue': '39',
+        'volume': '20',
+        'subject': ['Obstetrics and Gynaecology', 'Reproductive Medicine'],
+        'DOI': '10.1016/s0968-8080(12)39609-2',
+        'ISSN': ['0968-8080'],
+        'reference-count': 46,
+        'license': [{
+            'URL': 'http://www.elsevier.com/tdm/userlicense/1.0/',
+            'start': {
+                'timestamp': 1338508800000,
+                'date-time': '2012-06-01T00:00:00Z',
+                'date-parts': [
+                    [2012, 6, 1]
+                ]
+            },
+            'delay-in-days': 0,
+            'content-version': 'tdm'
+        }],
+        'publisher': 'Elsevier BV',
+        'link': [{ 'content-type': 'text/xml', 'intended-application': 'text-mining', 'URL': 'http://api.elsevier.com/content/article/PII:S0968808012396092?httpAccept=text/xml', 'content-version': 'vor' }, { 'content-type': 'text/plain', 'intended-application': 'text-mining', 'URL': 'http://api.elsevier.com/content/article/PII:S0968808012396092?httpAccept=text/plain', 'content-version': 'vor' }],
+        'alternative-id': ['S0968808012396092'],
+        'published-print': {
+            'date-parts': [
+                [2012, 6]
+            ]
+        },
+        'deposited': {
+            'timestamp': 1452663929000,
+            'date-time': '2016-01-13T05:45:29Z',
+            'date-parts': [
+                [2016, 1, 13]
+            ]
+        },
+        'subtitle': [],
+        'prefix': 'http://id.crossref.org/prefix/10.1016'
+    },
+    'message-type': 'work',
+    'status': 'ok',
+    'message-version': '1.0.0'
+}, {
+    'message': {
+        'source': 'CrossRef',
+        'indexed': {
+            'timestamp': 1451004414185,
+            'date-time': '2015-12-25T00:46:54Z',
+            'date-parts': [
+                [2015, 12, 25]
+            ]
+        },
+        'DOI': '10.2458/azu_acku_pamphlet_rj103_a34_e375_2003',
+        'issued': {
+            'date-parts': [
+                [2003]
+            ]
+        },
+        'reference-count': 0,
+        'created': {
+            'timestamp': 1364601013000,
+            'date-time': '2013-03-29T23:50:13Z',
+            'date-parts': [
+                [2013, 3, 29]
+            ]
+        },
+        'publisher': 'University of Arizona',
+        'score': 1.0,
+        'type': 'monograph',
+        'member': 'http://id.crossref.org/member/1290',
+        'title': ['Early childhood development project : Kabul, Shomali and Mazar-i-Sharif, December 6 2003-January 6, 2004 / Save the Children Federation, Inc. (SC/US).'],
+        'published-print': {
+            'date-parts': [
+                [2003]
+            ]
+        },
+        'deposited': {
+            'timestamp': 1405455752000,
+            'date-time': '2014-07-15T20:22:32Z',
+            'date-parts': [
+                [2014, 7, 15]
+            ]
+        },
+        'URL': 'http://dx.doi.org/10.2458/azu_acku_pamphlet_rj103_a34_e375_2003',
+        'subtitle': [],
+        'container-title': [],
+        'prefix': 'http://id.crossref.org/prefix/10.2458'
+    },
+    'message-type': 'work',
+    'status': 'ok',
+    'message-version': '1.0.0'
+}, {
+    'message': {
+        'ISBN': ['http://id.crossref.org/isbn/9789004180048', 'http://id.crossref.org/isbn/9789047444541'],
+        'source': 'CrossRef',
+        'indexed': {
+            'timestamp': 1450849399470,
+            'date-time': '2015-12-23T05:43:19Z',
+            'date-parts': [
+                [2015, 12, 23]
+            ]
+        },
+        'page': '854-855',
+        'subtitle': [],
+        'issued': {
+            'date-parts': [
+                [None]
+            ]
+        },
+        'DOI': '10.1163/ej.9789004180048.i-962.762',
+        'created': {
+            'timestamp': 1289306772000,
+            'date-time': '2010-11-09T12:46:12Z',
+            'date-parts': [
+                [2010, 11, 9]
+            ]
+        },
+        'publisher': 'Brill Academic Publishers',
+        'score': 1.0,
+        'type': 'book-chapter',
+        'member': 'http://id.crossref.org/member/50',
+        'title': ['WFP – World Food Programme'],
+        'reference-count': 0,
+        'prefix': 'http://id.crossref.org/prefix/10.1163',
+        'deposited': {
+            'timestamp': 1442434628000,
+            'date-time': '2015-09-16T20:17:08Z',
+            'date-parts': [
+                [2015, 9, 16]
+            ]
+        },
+        'URL': 'http://dx.doi.org/10.1163/ej.9789004180048.i-962.762',
+        'author': [{ 'family': 'Hofner', 'affiliation': [], 'given': 'Barbara' }],
+        'container-title': ['A Concise Encyclopedia of the United Nations']
+    },
+    'message-type': 'work',
+    'status': 'ok',
+    'message-version': '1.0.0'
+}, {
+    'message': {
+        'ISBN': ['http://id.crossref.org/isbn/9789004180048', 'http://id.crossref.org/isbn/9789047444541'],
+        'source': 'CrossRef',
+        'indexed': {
+            'timestamp': 1450849399470,
+            'date-time': '2015-12-23T05:43:19Z',
+            'date-parts': [
+                [2015, 12, 23]
+            ]
+        },
+        'page': '854-855',
+        'subtitle': [],
+        'issued': {
+            'date-parts': [
+                [None]
+            ]
+        },
+        'DOI': '10.1163/ej.9789004180048.i-962.762',
+        'created': {
+            'timestamp': 1289306772000,
+            'date-time': '2010-11-09T12:46:12Z',
+            'date-parts': [
+                [2010, 11, 9]
+            ]
+        },
+        'publisher': 'Brill Academic Publishers',
+        'score': 1.0,
+        'type': 'book-chapter',
+        'member': 'http://id.crossref.org/member/50',
+        'title': ['WFP – World Food Programme'],
+        'reference-count': 0,
+        'prefix': 'http://id.crossref.org/prefix/10.1163',
+        'deposited': {
+            'timestamp': 1442434628000,
+            'date-time': '2015-09-16T20:17:08Z',
+            'date-parts': [
+                [2015, 9, 16]
+            ]
+        },
+        'URL': 'http://dx.doi.org/10.1163/ej.9789004180048.i-962.762',
+        'author': [{ 'family': 'Hofner', 'affiliation': [], 'given': 'Barbara' }],
+        'container-title': ['A Concise Encyclopedia of the United Nations']
+    },
+    'message-type': 'work',
+    'status': 'ok',
+    'message-version': '1.0.0'
+}, {
+    'message': {
+        'source': 'CrossRef',
+        'indexed': {
+            'timestamp': 1450943233690,
+            'date-time': '2015-12-24T07:47:13Z',
+            'date-parts': [
+                [2015, 12, 24]
+            ]
+        },
+        'DOI': '10.1007/springerreference_70205',
+        'issued': {
+            'date-parts': [
+                [None]
+            ]
+        },
+        'reference-count': 0,
+        'created': {
+            'timestamp': 1327065042000,
+            'date-time': '2012-01-20T13:10:42Z',
+            'date-parts': [
+                [2012, 1, 20]
+            ]
+        },
+        'publisher': 'Springer Science + Business Media',
+        'score': 1.0,
+        'type': 'reference-entry',
+        'member': 'http://id.crossref.org/member/297',
+        'title': ['World Health Organization (WHO)'],
+        'prefix': 'http://id.crossref.org/prefix/10.1007',
+        'deposited': {
+            'timestamp': 1327065540000,
+            'date-time': '2012-01-20T13:19:00Z',
+            'date-parts': [
+                [2012, 1, 20]
+            ]
+        },
+        'URL': 'http://dx.doi.org/10.1007/springerreference_70205',
+        'subtitle': [],
+        'container-title': ['SpringerReference']
+    },
+    'message-type': 'work',
+    'status': 'ok',
+    'message-version': '1.0.0'
+}]
