@@ -268,7 +268,7 @@ class ScholarArticle(object):
             'excerpt':       [None, 'Excerpt',       10],
         }
 
-        # The citation data in one of the standard export formats,
+        # The citation data in one of the standarcdd export formats,
         # e.g. BibTeX.
         self.citation_data = None
 
