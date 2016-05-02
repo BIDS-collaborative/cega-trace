@@ -36,8 +36,7 @@ def scholarLookup(str):
 
 def scholarURLLookup(str):
     time.sleep(random.random())
-    query.set_words(str)
-    querier.send_url(query)
+    querier.send_url(str)
     return querier.articles
 
 def articleToDict(article):
@@ -74,7 +73,6 @@ with open('proquest_journals.csv', encoding='utf-8', errors = "ignore") as csvfi
         fulljson += [current_dict]
 
         print(fulljson)
-
-        
-with open('output.txt', 'w') as outfile:
-    json.dump(fulljson, outfile)
+        with open('output.txt', 'w') as outfile:
+            json.dump(fulljson, outfile)
+        #outfile.close()
