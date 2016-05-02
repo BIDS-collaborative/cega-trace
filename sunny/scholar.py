@@ -7,6 +7,9 @@ page. It is not a recursive crawler.
 # ChangeLog
 # ---------
 #
+# 2.10  Merged a fix for the "TypError: quote_from_bytes()" problem on
+#       Python 3.x from hinnefe2.
+#
 # 2.9   Fixed Unicode problem in certain queries. Thanks to smidm for
 #       this contribution.
 #
@@ -183,7 +186,7 @@ except ImportError:
 # Support unicode in both Python 2 and 3. In Python 3, unicode is str.
 if sys.version_info[0] == 3:
     unicode = str # pylint: disable-msg=W0622
-    encode = lambda s: s # pylint: disable-msg=C0103
+    encode = lambda s: unicode(s) # pylint: disable-msg=C0103
 else:
     def encode(s):
         if isinstance(s, basestring):
@@ -207,7 +210,7 @@ class QueryArgumentError(Error):
 class ScholarConf(object):
     """Helper class for global settings."""
 
-    VERSION = '2.9'
+    VERSION = '2.10'
     LOG_LEVEL = 1
     MAX_PAGE_RESULTS = 20 # Current maximum for per-page results
     SCHOLAR_SITE = 'http://scholar.google.com'
@@ -732,7 +735,7 @@ class SearchScholarQuery(ScholarQuery):
         self.words_none = None # None of these words
         self.phrase = None
         self.scope_title = False # If True, search in title only
-        self.author = None 
+        self.author = None
         self.pub = None
         self.timeframe = [None, None]
         self.include_patents = True
@@ -785,6 +788,7 @@ class SearchScholarQuery(ScholarQuery):
 
     def set_include_patents(self, yesorno):
         self.include_patents = yesorno
+
 
     def get_url(self):
         if self.words is None and self.words_some is None \
@@ -988,6 +992,21 @@ class ScholarQuerier(object):
 
         self.parse(html)
 
+    def send_url(self, search_url):
+        """
+        This method initiates a search query (a ScholarQuery instance)
+        with subsequent parsing of the response.
+        """
+        self.clear_articles()
+
+        html = self._get_http_response(url=search_url,
+                                       log_msg='dump of query response HTML',
+                                       err_msg='results retrieval failed')
+        if html is None:
+            return
+
+        self.parse(html)
+
     def get_citation_data(self, article):
         """
         Given an article, retrieves citation link. Note, this requires that
@@ -1096,20 +1115,15 @@ def txt(querier, with_globals):
 
 def csv(querier, header=False, sep='|'):
     articles = querier.articles
-    lst = []
     for art in articles:
         result = art.as_csv(header=header, sep=sep)
         print(encode(result))
-        lst.append(encode(result))
         header = False
-    return lst
 
 def citation_export(querier):
-    string = ''
     articles = querier.articles
     for art in articles:
-        string += art.as_citation()
-    return string
+        print(art.as_citation() + '\n')
 
 
 def main():
