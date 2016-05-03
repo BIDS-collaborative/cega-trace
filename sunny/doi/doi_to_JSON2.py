@@ -37,12 +37,10 @@ def decode(parse_file):
     return txt
 
 def main():
-
-    master_dictionary = {}
-
-    for i in range(8, 20):
+    # master_dictionary = {}
+    data_ref = []
+    for i in range(0, 568):
         try:
-            data_ref = []
             name = (str(i) + 'doi.txt')
             data = open(name, 'r')
             if data:
@@ -50,24 +48,21 @@ def main():
                 #out = (str(i) + 'data_ref.json')
                 #outfile = open(out, 'w')
                 for line in my_list:
-                    print(line)
+                    print('reading:' + str(i) + 'doi.txt')
                     cur_data = search_doi(line)
+                    cur_data["ID"] = str(i)
                     data_ref.append(cur_data)
-
-            master_dictionary[i] = data_ref
-
             data.close()
-
-            with open("master_data_ref", "w") as outfile:
-                outfile.write(str(master_dictionary))
-            outfile.close()
-            
+            # master_dictionary["ID" + str(i)] = data_ref
+            with open("master_data_ref.json", "w") as outfile:
+                json.dump(data_ref, outfile)
+                # outfile.close()
+            print(str(i) + 'finish searching '+'doi.txt')
         except IOError:
             pass
         except ValueError:
             pass
-        
-
+    # outfile.close()
 
 if __name__ == '__main__':
     main()
