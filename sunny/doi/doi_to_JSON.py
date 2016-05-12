@@ -37,20 +37,24 @@ def decode(parse_file):
     return txt
 
 def main():
-    for i in range(2, 3):
-        data_ref = []
-        name = (str(i) + 'doi.txt')
-        data = open(name, 'r')
-        if data:
-            my_list = data
-            out = (str(i) + 'data_ref.json')
-            outfile = open(out, 'w')
-            for line in my_list:
-                print(line)
-                cur_data = search_doi(line)
-                data_ref.append(cur_data)
-        outfile.write(str(data_ref))
-        outfile.close()
+    for i in range(2, 576):
+        try:
+            data_ref = []
+            name = (str(i) + 'doi.txt')
+            data = open(name, 'r')
+            if data:
+                my_list = data
+                out = (str(i) + 'data_ref.json')
+                outfile = open(out, 'w')
+                for line in my_list:
+                    print(line)
+                    cur_data = search_doi(line)
+                    data_ref.append(cur_data)
+            outfile.write(str(data_ref))
+            outfile.close()
+        except Exception, e:
+            pass
+        
 
 
 if __name__ == '__main__':
