@@ -1,0 +1,26 @@
+Angrist. J. 1997. ¡°Conditional Independence in Sample Selection Models.¡± Economic Letters 54(2): 103-12.
+Angrist, J., G. Imbens, and D. Rubin. 1996. ¡°Identification of Casual Effects Using Instrumental Variables.¡± Journal of the American Statistical Association 91(434): 444-55.
+Angrist, J. and A. Krueger. 1999. ¡°Empirical Strategies in Labor Economics.¡± In O. Ashenfelter and D. Card, eds., Handbook of Labor Economics, Vol. 3. London: Elsevier Science.
+Angrist, J., E. Bettinger, E. Bloom, E. King, and M. Kremer. 2002. ¡°Vouchers for Private Schooling in Colombia: Evidence from a Randomized Natural Experiment.¡± American Economic Review 92(5): 1535-58.
+Behrman, J. and J. Knowles. 1997. ¡°How Strongly is Child Schooling Associated with Household Income?¡± PIER Working Paper 97-022, University of Pennsylvania.
+Behrman, J., P. Sengupta, and P. Todd. 2005. ¡°Progressing through Progresa: An Impact Assessment of a School Subsidy Experiment in Mexico.¡± Economic Development and Cultural Change 54(1): 237-75.
+Bourguignon, F., F. Ferreira, and P. Leite. 2003. ¡°Conditional Cash Transfer, Schooling, and Child Labor: Micro-Simulating Brazil¡¯s Bolsa Escola Program.¡± The World Bank Economic Review 17(2): 229-254.
+Case, A. and A Deaton. 1998. ¡°Large Cash Transfers to the Elderly in South Africa.¡± The Economic Journal 108(450): 1330-1361.
+Chay, K. Y. and J. Powell. 2001. ¡°Semiparametric Censored Regression Models.¡± Journal of Economic Perspectives 15(4): 29-42.
+Das, J., Q-T Do, and B. Ozler. 2005. ¡°Reassessing Conditional Cash Transfer Programs.¡± The World Bank Research Observer 20(1): 57-80.
+Economist, The. 2005. ¡°Poverty in Latin America: New thinking about an old problem,.¡± Sept. 17-23rd, pp. 36-38.
+Edmonds, E. 2005. ¡°Child Labor.¡± Unpublished manuscript, Dartmouth University. Filmer, D. and L. Pritchett. 2001. Estimating Wealth Effects without Expenditure Data- Or Tears: An Application to Educational Enrollments in States of India.¡± Demography 38(1): 115-32.
+Fitzgerald, J., P. Gottschalk, and R. Moffitt. 1998. ¡°An Analysis of Sample Attrition in Panel Data: The Michigan Panel Study of Income Dynamics.¡± The Journal of Human Resources 33(2): 251-99.
+Glewwe, P. 2002. ¡°Schools and Skills in Developing Countries: Education Policies and Socioeconomic Outcomes.¡± Journal of Economic Literature 40: 436-82.
+Glewwe, P and H. Jacoby. 1995. ¡°An Economic Analysis of Delayed Primary School Enrollment in a Low income Country: The Role of Early Childhood Nutrition.¡± Review of Economics and Statistics 77(1): 156-69.
+Le¨®n, M., R. Vos, and W. Brborich. 2001. ¡°Son efectivos los programas de transferencias monetarias para combatir la pobreza? Evaluaci¨®n de impacto del Bono Solidario en el Ecuador.¡± Unpublished manuscript, Sistema Integrado de Indicadores Sociales del Ecuador, Quito, Ecuador.
+Le¨®n, M., and S. Younger. 2005. ¡°Transfer Payments, Mother¡¯s Income, and Child Health in Ecuador.¡± Unpublished manuscript, Cornell University.
+Powell, J. 1984. ¡°Least Absolute Deviations Estimation for the Censored Regression Model.¡± Journal of Econometrics 25(3):303-25.
+Powell, J. 1986. ¡°Symmetrically Trimmed Least Squares Estimation for Tobit Models.¡± Econometrica 54(6): 1435-60.
+Ravallion, M. and Q. Wodon. 2000. ¡°Does Child Labour Displace Schooling? Evidence on Behavioural Responses to an Enrollment Subsidy.¡± The Economic Journal 110: C158- C175.
+Rawlings, L. and G. Rubio. 2005. ¡°Evaluating the Impact of Conditional Cash Transfer Programs.¡± The World Bank Research Observer 20(1): 29-55.
+Schultz, T. 2004. ¡°School Subsidies for the Poor: Evaluating the Mexican Progresa Poverty Program.¡± Journal of Development Economics 74: 199-250.
+Skoufias, E. 2005. Progresa and its Impacts on the Welfare of Rural Households in Mexico. IFPRI, Report 139. Washington, D.C.
+Todd, P., and K.I. Wolpin. 2003. ¡°Using a Social Experiment to Validate a Dynamic Behavioral Model of Child Schooling and Fertility: Assessing the Impact of a School Subsidy Program in Mexico.¡± Unpublished manuscript, University of Pennsylvania.
+Vos, R., and J. Ponce. 2005. ¡°Meeting the Millennium Development Goal in Education: A CostEffectiveness Analysis for Ecuador.¡± Unpublished manuscript, Institute of Social Studies, The Hague.
+World Bank. 2004. Ecuador: Poverty Assessment. Washington, D.C.

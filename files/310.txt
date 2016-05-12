@@ -1,0 +1,30 @@
+Azevedo, Joao Pedro & Davalos, Maria Eugenia & Diaz-Bonilla, Carolina & Atuesta, Bernardo & Castaneda, Raul Andres, 2013. "Fifteen years of inequality in Latin America : how have labor markets helped ?,"Policy Research Working Paper Series 6384, The World Bank.
+Azevedo, Joao Pedro, Viviane Sanfelice and Minh cong Nguyen (2012a). “Shapley Decomposition by Components of a Welfare Aggregate”. World Bank. mimeo.
+Azevedo, Joao Pedro, Minh Cong Nguyen and Viviane Sanfelice (2012b). "ADECOMP: Stata module to estimate Shapley Decomposition by Components of a Welfare Measure,"Statistical Software ComponentsS457562, Boston College Department of Economics.
+Barros, Ricardo Paes de. Carvalho, Mirela de. Franco, Samuel. Mendoça, Rosane (2006). “Uma Análise das Principais Causas da Queda Recente na Desigualdade de Renda Brasileira.” In: Revista Econômica. Volume 8, número 1, p.117-147. Universidade Federal Fluminense. Rio de Janeiro. Available in http://www.uff.br/revistaeconomica/V8N1/RICARDO.PDF
+Bourguignon, Francisco H.G. Ferreira, and Nora Lustig (2005), The Microeconomics of Income Distribution Dynamics in East Asia and Latin America. Washington, D.C.: The World Bank.
+Bourguignon, François and Ferreira, Francisco H.G. (2005) “Household Incomes: Methodological Aspects.” In François 
+Bourguignon, Francisco H.G. Ferreira and Nora Lustig (eds), The Microeconomics of Income Distribution Dynamics in East Asia and Latin America, pp. 17‐46 Washington, D.C.: The World Bank.
+Bourguignon François, Ferreira Francisco H. G. and Leite Phillippe G. (2008). Beyond Oaxaca‐  Blinder : Accounting for Differences in Households Income Distributions. Journal of Economic Inequality, Vol. 6, No.2, 117‐148
+Bruno, Michael, Martin Ravallion, and Lyn Squire (1998): "Equity and Growth in Developing Countries: Old and New Perspectives on the Policy Issues." In Vito Tanzi and Ke-young Chu, eds., Income Distribution and High-quality Growth. Cambridge, Mass.: MIT Press.
+Chen and Ravallion (2008). “The Developing World is Poorer Than We Thought, But No Less Successful in the Fight Against Poverty” World Bank Policy Research Working Paper 4703.
+Datt Gaurav and Ravallion Martin (1992). Growth and Redistribution Components of Changes in Poverty Measures: A Decomposition with Applications to Brazil and India in the 1980s. Journal of Development Economics, 38: 275‐296. 
+Dollar, David and Aart Kraay (2002): “Growth is good for the poor” Journal of Economic Growth 7: 195-225.
+Eberhard, J. and E. Engel (2009) “The Educational Transition and Decreasing Wage Inequality in Chile”, Research for Public Policy, Inclusive Development, ID-04-2009, RBLACUNDP, New York.
+Essama-Nssah, B. (2012). “Identification of Sources of Variation in Poverty Outcomes”, World Bank Policy Research Working Papers, No. 5954.
+Ferreira, Francisco H.G. (2010) “Distributions in Motion: Economic Growth, Inequality and Poverty Dynamics”. World Bank Policy Research Working Paper No. 5424. The World Bank, Washington, D.C.
+Ferreira, F., Leite P., and J. Litchfield (2008) “The Rise and Fall of Brazilian Inequality: 1981- 2004”, Macroeconomic Dynamics, 12 (S2), pp. 199-230.
+Fortin Nicole, Lemieux Thomas and Firpo Sergio. (2011). “Decomposition Methods in Economics”. In: Ashenfelter Orley and Card David (eds) Handbook of Labor Economics, Vol. 4A , pp. 1-102. Northolland, Amsterdam.
+Gasparini, L., Cruces, G. and Tornarolli, L. (2011). “Recent Trends in Income Inequality in Latin America”. Economia 10, 147-201.
+Gray Molina, G. and E. Yañez (2009) “The Dynamics of Inequality in the Best and Worst of Times, Bolivia 1997 - 2007”, Research for Public Policy, Inclusive Development, ID-16- 2009, RBLAC-UNDP, New York
+Heckman, James. (1993). “What Has Been Learned about Labor Supply in the Past Twenty Years?” American Economic Review. LXXXIII, 116 –121.
+Juhn Chinhui, Murphy Kevin M. and Brooks Pierce (1993). Wage Inequality and the Rise of Returns to Skill. Journal of Political Economy, Vol. 101, No.3: 410‐442. 
+Kuznets, Simon (1955): “Economic growth and income inequality”, American Economic Review 65 (1): 1-29. 
+Ravallion Martin (2001). Growth, Inequality and Poverty: Looking Beyond Averages. World Development, Vol. 29: No. 11: 1803‐1815.
+Ravallion Martin and Chen Shaohua. (2003). Measuring Pro‐Poor Growth. Economic Letters 78, 93‐99.
+Ravallion Martin and Huppi Monika. (1991). Measuring Changes in Poverty: A Methodological Case Study of Indonesia during an Adjustment Period. The World Bank Economic Review, Vol.5, No5:57‐82.
+Ravallion, Martin and Shaohua Chen (1997): “What can new survey data tell us about recent changes in distribution and poverty?” World Bank Economic Review 11 (2): 357-382.
+Ravallion, Martin and Shaohua Chen (2007): “China’s (Uneven) Progress Against Poverty”. Journal of Development Economics, 82 (1): 1-42.
+Shapley, L. (1953). “A value for n-person games”, in: H. W. Kuhn and A. W. Tucker (eds.), Contributions to the Theory of Games, Vol. 2 (Princeton, N.J.: Princeton University Press).
+Shorrocks A. F. (1999). Decomposition Procedures for Distributional Analysis: A Unified Framework Based on Shapley Value. University of Essex and Institute for Fiscal Studies, mimeo.
+World Bank (2005): World Development Report 2006: Equity and Development, Washington, DC: World Bank and Oxford University Press.

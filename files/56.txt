@@ -1,0 +1,22 @@
+Attanasio, O., C. Meghir and A. Santiago (2005). ※Education Choices in Mexico: Using a Structural Model and a Randomized Experiment to Evaluate PROGRESA.§ University College London IFS Working Paper EWP0501.
+Bourguignon, F., F. Ferreira and P. Leite (2003). ※Ex-ante Evaluation of CCT Programs: the Case of Bolsa Escola.§ Policy Research Working Paper No. 2916. The World Bank. Washington DC Cardoso, E. and A. Souza (2004). ※The Impact of Cash Transfers on Child Labor and School Attendance in Brazil§. Department of Economics, Vanderbilt University; Working Paper No. 04- W07. Nashville, TN.
+Coady, David. 2004. ※Alleviating Structural Poverty in Developing Countries: The Approach of PROGRESA in Mexico.§ Background Paper for the 2004 World Development Report. Available at: http://econ.worldbank.org/files/27999_Coady.pdf
+Davidson, C. and S. Woodbury (1993). "The Displacement Effect of Reemployment Bonus Programs," Journal of Labor Economics, Vol. 11(4): 575-605.
+De Janvry, A. and E. Sadoulet (2006). "Making Conditional Cash Transfers More Efficient: Designing for Maximum Effect of the Conditionality." World Bank Economic Review; Vol. 20: 1- 29.
+Heckman, J. and J. Hotz (1989). ※Alternative Methods for Evaluating the Impact of Training Programs§. Journal of the American Statistical Association; Vol. 84 (408): 862-880.
+Heckman, J., H. Ichimura and P. Todd (1997). ※Matching As An Econometric Evaluation Estimator: Evidence from Evaluating a Job Training Programme§. Review of Economic Studies; Vol. 64 (4): 605-654.
+Heckman, J., H. Ichimura and P. Todd (1998). ※Matching As An Econometric Evaluation Estimator§. Review of Economic Studies; Vol. 65 (2): 261-294.
+LaLonde, R. (1986). ※Evaluating the Econometric Evaluations of Training Programs with Experimental Data§. The American Economic Review; Vol. 76(4): 604-620.
+Leite, P. (2007) ※Les politiques d'allocations scolaires et l＊in谷galit谷 des chances au Br谷sil§ mimeo
+Lise, J. S. Seitz, and J. Smith (2009) ※Evaluating Search and matching Models Using Experimental Data,§ Available at: https://www2.bc.edu/~seitzsh/ssp_red01.pdf
+Maluccio, J., and Flores, R. (2004). "Impact Evaluation of a Conditional Cash Transfer program: The Nicaraguan Red de Protecci車n Social," IFPRI 每 FCND Discussion Papers n o 184, International Food Policy Research Institute (IFPRI).
+McKenzie, D., J. Gibson and S. Stillman (2006). "How Important Is Selection? Experimental vs. Non-Experimental Measures of the Income Gains from Migration," IZA Discussion Papers 2007, Institute for the Study of Labor (IZA).
+Parker, S. and E. Skoufias (2000). The Impact of PROGRESA on Work, Leisure, and Time Allocation. Report submitted to PROGRESA. International Food Policy Research Institute, Washington, D.C.
+Ravallion, M. (2008). ※Evaluating Anti-Poverty Programs§ in Handbook of Development Economics (eds. T. Schultz and J. Strauss). North-Holland
+Schady, N. and M. Araujo (2006). ※Cash transfers, conditions, school enrollment, and child work: Evidence from a randomized experiment in Ecuador. Policy Research Working Paper No. 3930. Impact Evaluation Series No. 3. The World Bank. Washington DC.
+Schady, N. and M. Araujo (2008). ※Cash Transfers, Conditions, and School Enrollment in Ecuador§. Economia; Vol. 8(2): 43-70. Brookings Institution Press.
+Schultz, T. (2000). ※School Subsidies for the Poor: Evaluating the Mexican Progresa Poverty Program§, Journal of Development Economics, 74(1):199-250.
+Skoufias, E. and V. Di Maro (2008). "Conditional Cash Transfers, Adult Work Incentives, and Poverty." Journal of Development Studies; Vol. 44 (7): 935 - 960.
+Skoufias, E. and S. Parker (2001). "Conditional Cash Transfers and Their Impact on Child Work and Schooling: Evidence from the PROGRESA Program in Mexico." Econom赤a; Vol. 2 (1): 45-86.
+Smith, J. and P. Todd (2005). ※Does matching overcome LaLonde＊s critique of nonexperimental estimators?§ Journal of Econometrics, 125: 305每353.
+Todd, P. and K. Wolpin (2006). "Assessing the Impact of a School Subsidy Program in Mexico: Using a Social Experiment to Validate a Dynamic Behavioral Model of Child Schooling and Fertility." American Economic Review, 96(5): 1384每1417.

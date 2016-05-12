@@ -1,0 +1,47 @@
+Banerjee, Abhijit, “The Two Poverties,” Nordic Journal of Political Economy, 2000, 26 (2), 129 – 141.
+Banerjee, Abhijit V. and Andrew F. Newman, “Occupational Choice and the Process of Development,” Journal of Political Economy, 1993, 101 (2), 274–298.
+and Esther Duflo, “The Economic Lives of the Poor,” Journal of Economic Perspectives, 2007, 21 (1), 141 – 168.
+, ￼ , Rachel Glennerster, and Cynthia Kinnan, “The Miracle of Microfinance,” BREAD Working Paper 278, 2010.
+Bolton, Patrick and Howard Rosenthal, “Political Intervention in Debt Contracts,” Journal of Political Economy, October 2002, 110 (5), 1103–1134.
+Bulow, Jeremy and Kenneth Rogoff, “A Constant Recontracting Model of Sovereign Debt,” Journal of Political Economy, February 1989, 97 (1), 155–78.
+Burgess, Robin and Rohini Pande, “Do Rural Banks Matter? Evidence from the Indian Social Banking Experiment,” The American Economic Review, 2005, 95 (3), 780–795.
+, Grace Wong, and Rohini Pande, “Banking for the Poor: Evidence From India,” Journal of the European Economic Association, 2005, 3 (2), 268–278.
+Campbell, John Y., “Household Finance,” Journal of Finance, 08 2006, 61 (4), 1553–1604.
+Cole, Shawn A., “Fixing Market Failures or Fixing Elections? Elections, Banks and Agricultural Lending in India,” American Economic Journal: Applied Economics, 2009, 1 (1), 219–250.
+Cole, Shawn, Xavier Gine ́, Jeremy Tobacman, Petia Topalova, Robert Townsend, and James Vickery, “Barriers to Household Risk-Management: Evidence from India,” Forthcoming, American Economic Journal: Applied Economics, 2012.
+de Mel, Suresh, David McKenzie, and Christopher Woodruff, “Returns to Capital in Microenter- prises: Evidence from a Field Experiment,” The Quarterly Journal of Economics, November 2008, 123 (4), 1329–1372.
+Dinc ̧, Serdar, “Politicians and Banks: Political Influences on Government-Owned Banks in Emerging Markets,” Journal of Financial Economics, 2005, 77 (1), 453–479.
+Djankov, Simeon, Caralee McLiesh, and Andrei Shleifer, “Private Credit in 129 Countries,” Journal of Financial Economics, 2007, 84, 299–329.
+Domowitz, Ian and Robert L. Sartain, “Determinants of the Consumer Bankruptcy Decision,” Jour- nal of Finance, 02 1999, 54 (1), 403–420.
+Duflo, Esther, Michael Kremer, and Jonathan Robinson, “Nudging Farmers to Use Fertilizer: The- ory and Experimental Evidence from Kenya,” American Economic Review, October 2011, 101 (6), 2350–90.
+Dupas, Pascaline and Jonathan Robinson, “Savings Constraints and Microenterprise Development: Evidence from a Field Experiment in Kenya,” Forthcoming, American Economic Journal: Applied Economics, 2012.
+Eaton, Jonathan, “Debt Relief and the International Enforcement of Loan Contracts,” Journal of Economic Perspectives, Winter 1990, 4 (1), 43–56.
+Ghosh, Parikshit, Dilip Mookherjee, and Debraj Ray, “Credit Rationing in Developing Countries: An Overview of the Theory,” in “D. Mookherjee and D. Ray (eds) A Reader in Development Eco- nomics” 2000, pp. 383–401.
+Gine ́, Xavier, Robert Townsend, and James Vickery, “Patterns of Rainfall Insurance Participation in Rural India,” World Bank Economic Review, 2008, 22, 539–566.
+Government of Gujarat, Statistical Abstract of Gujarat State, Gandhinagar, India: Directorate of Economics and Statistics, 2008.
+, Statistical Outline, Gujarat State, Gandhinagar, India: Directorate of Economics and Statistics, 2008.
+Government of India, Census of India, New Delhi, India: Office of the Registrar General and Census Commissioner, 2001.
+, India Statistical Abstract, New Delhi, India: Central Statistical Organization, 2001.
+, Statewise Number of Farmers Benefited from Agricultural Debt Waiver and Debt Relief Scheme in India, New Delhi, India: IndiaStat and Rajiya Sabha Report, 2008.
+Gropp, Reint, John Karl Scholz, and Michelle J White, “Personal Bankruptcy and Credit Supply and Demand,” The Quarterly Journal of Economics, February 1997, 112 (1), 217–51.
+Hahn, Jinyong, Petra Todd, and Wilbert Van der Klaauw, “Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design,” Econometrica, January 2001, 69 (1), 201–09. Han, Song and Geng Li, “Household Borrowing after Personal Bankruptcy,” Federal Reserve Board, Working Paper., 2008.
+Heckman, James J. and Richard Jr. Robb, “Alternative methods for evaluating the impact of interventions : An overview,” Journal of Econometrics, 1985, 30 (1-2), 239–267.
+Imbens, Guido and Karthik Kalyanaraman, “Optimal Bandwith Choice for the Regression Discontinuity Estimator,” Review of Economic Studies, 2012, 79 (3), 933–959.
+and Thomas Lemieux, “Special issue editors’ introduction: The regression discontinuity design Theory and applications,” Journal of Econometrics, 2008, 142 (2), 611 – 614.
+Imbens, Guido W. and Thomas Lemieux, “Regression discontinuity designs: A guide to practice,” Journal of Econometrics, 2008, 142 (2), 615 – 635.
+Jaffee, Dwight M. and Thomas Russell, “Imperfect Information, Uncertainty, and Credit Rationing,” The Quarterly Journal of Economics, 1976, 90 (4), 651–666.
+Jensen, Michael C. and William H. Meckling, “Theory of the firm: Managerial behavior, agency costs and ownership structure,” Journal of Financial Economics, October 1976, 3 (4), 305–360.
+Kaboski, John and Robert Townsend, “A Structural Evaluation of a Large Scale Quasi-Experimental Microfinance Initiative,” Econometrica, 2011, 79 (5), 1357–1406.
+Karlan, Dean and Jonathan Morduch, “Access to Finance,” Handbook of Development Economics, Volume 5. Dani Rodrik and Mark Rosenzweig (Eds.), 2009, Chapter 2.
+and Jonathan Zinman, “Lying About Borrowing,” Journal of the European Economic Association, 04-05 2008, 6 (2-3), 510–521.
+and ￼ , “Observing Unobservables: Identifying Information Asymmetries With a Consumer Credit Field Experiment,” Econometrica, November 2009, 77 (6), 1993–2008. 
+and ￼ , “Lying About Borrowing,” Journal of the European Economic Association, 04-05 2010, 6 (2-3), 510–521.
+Krugman, Paul, “Financing vs. forgiving a debt overhang,” Journal of Development Economics, November 1988, 29 (3), 253–268.
+McCrary, Justin, “Manipulation of the running variable in the regression discontinuity design: A density test,” Journal of Econometrics, 2008, 142 (2), 698–714.
+Mookherjee, Dilip and Debraj Ray, “Persistent Inequality,” Review of Economic Studies, 2003, 70 (2), 369–393.
+Myers, Stewart C., “Determinants of corporate borrowing,” Journal of Financial Economics, Novem- ber 1977, 5 (2), 147–175.
+Robert, Christopher, “Weath and Well-Being: Lessons from Indian Debt Relief,” Mimeo, Harvard University, 2012.
+Stiglitz, Joseph E. and Andrew Weiss, “Credit Rationing in Markets with Imperfect Information,” The American Economic Review, 1981, 71 (3), 393–410.
+Townsend, Robert, “Credit Intermediation and Poverty Reduction,” in “Abhijit Banerjee, Roland Be ́nabou and Dilip Mookherjee (eds) Understanding Poverty” Oxford University Press 2006.
+Visaria, Sujata, “Legal Reform and Loan Repayment: The Microeconomic Impact of Debt Recovery Tribunals in India,” American Economic Journal: Applied Economics, 2009, 1 (3), 59–81.
+von Lilienfeld-Toal, Ulf, Dilip Mookherjee, and Sujata Visaria, “The Distributive Impact of Re- forms in Credit Enforcement: Evidence from Indian Debt Recovery Tribunals,” Econometrica, 2012, 80 (2), 497–558.

@@ -1,0 +1,36 @@
+Albers, R., and M.Peters.2011.“Food and Energy Prices, Government Subsidies and Fiscal Balances in South Mediterranean Countries.” European Commission.Economic Papers #437.
+Azevedo J.P., S.Franco, E.Rubiano, A.Hoyos, 2010."HOI: Stata module to compute Human Opportunity Index," Statistical Software Components S457191, Boston College Department of Economics.
+Barros, R., F.Ferreira, J.Molinas and J.Saavedra.2008.Measuring Inequality of Opportunities in Latin America and the Caribbean.Washington D.C.: The World Bank.
+Bourguignon, François, Francisco H.G.Ferreira, and Marta Menéndez.2007a.“Inequality of Opportunity in Brazil.” Review of Income Wealth 53(4): 585-618.
+Bourguignon, F., F.H.G.Ferreira, and M.Walton.2007b.“Equity, Efficiency and Inequality Traps: A research agenda.” Journal of Economic Inequality 5: 235-56.
+The Egyptian Center for Economic Studies (ECES).2010.“The Subsidy System in Egypt: Alternatives for Reform.” Policy Viewpoint 25.
+Cameron, S.V., and J.J.Heckman.1998."Life Cycle Schooling and Dynamic Selection Bias: Models and Evidence for Five Cohorts of American Males." Journal of Political Economy 106(2).
+Carneiro, P., and J.Heckman.2003.“Human capital policy.” NBER Working Paper No.9495.February.
+Federal Interagency Forum on Child and Family Statistics.2007.America’s Children: Key National Indicators of Well-Being.Washington, D.C.
+Ferreira, F.H.G., and J.Gignoux.2008.”The Measurement of Inequality of Opportunity: Theory and an application to Latin America.” Policy Research Working Paper 4659, World Bank, Washington, D.C.
+Grantham-Mcgregor, Burn, Cueto, Glewwe, Richter, and Strupp.2007.“Child development in developing countries 1: Developmental potential in the first 5 years for children in developing countries.” Lancet 369: 60-70.
+Hassine, N.B.2009.“Inequality of Opportunity in Egypt.” Economic Research Forum, Working Paper 549.
+Heckman, J.2006.Interview with J.Macey.Economist argues for early childhood programs.ABC Local Radio, Australia.http://www.abc.net.au/am/content/2006/s1563997.htm.
+_____.2008.“School, Skills, and Synapses.” Working Paper 14064, National Bureau of Economic Research.
+_____.2011.“The American Family in Black and White: A Post-Racial Strategy for Improving Skills to Promote Equality.” IZA Discussion Paper No.5495.
+Heckman, J., and Masterov.2007.“The Productivity Argument for Investing in Young Children.” Working Paper 13016, National Bureau of Economic Research.
+Hoyos, Alejandro, and Ambar Narayan.2011.“Inequalities of Opportunities among Children: How Much Does Gender Matter?”.World Bank: WDR background paper.
+Kilburn, R., and L.Karoly.2008.“The Economy of Early Childhood Policy: What the Dismal Science has to Say About Investing in Children.” Occasional Paper of Labor and Population, RAND.
+Martinez-Vasquez, J., and Timoneef.2011.“Decentralizing Egypt.” In J.Martinez-Vasquezand F.Vaillancourt (eds).Fiscal Decentralization in Developing Countries.United Kingdon: Edward Elgar Publishing Ltd., pp.389-430.
+Ministry of Economic Development.2010.Statistics of Public Investment by sector, from GDP data, and by region.Cairo, Egypt.Unpublished data.
+Molinas, J.R., Paes de Barros, R., Saavedra, J.and Guigale, M.(2010).Do Our Children Have A Chance? The 2010 Human Opportunity Report for Latin America and the Caribbean.Washington, D.C.: The World Bank.
+O’Donnell, O., E.Doorslaer, A.Wagstaff and M.Lindelow.2008.“Analyzing Health Equity Using Household Survey Data: A Guide to Techniques and Their implementation”.The World Bank, Washington.
+Ravallion, M.2010.“Mashup Indices of Development.” Policy Research Working Paper No.5432, World Bank, Washington, D.C.
+Rocco L., K.Tanabe, M.Suhrcke, and E.Fumagalli.2011.“Chronic Diseases and Labor Market Outcomes in Egypt.” Policy Research Working Paper No.5575, World Bank, Washington, D.C.
+Roemer, John E.1998.Equality of Opportunity.Cambridge, MA: Harvard University Press.
+Schweinhart, L.J.2004.“The High/Scope Perry preschool study through age 40: summary, conclusions, and frequently asked questions.” Ypsilanti: High/Scope Educational Research Foundation.
+United Nations Children’s Fund (UNICEF).2010a.Child Poverty and disparities in Egypt: Building the Social Infrastructure for Egypt’s Future.UNICEF Egypt, February.
+_____.2010b.Trends of Child Poverty and Disparities in Egypt Between 2000 and 2008.UNICEF Egypt, November.
+United Nations Development Programme (UNDP).2001.Egypt Human Development Report.United Nations Development Programme.
+_____.2010.Egypt Human Development Report: Youth in Egypt: Building Our Future.United Nations Development Programme.
+World Bank.2007.Egypt Poverty Assessment Update, World Bank, Washington, D.C.
+_________.2009.Economic growth, inequality and poverty: Social mobility in Egypt between 2005 and 2008.World Bank, Washington, D.C.
+_____.2010.Egypt’s Food Subsidies: Benefit Incidence and Leakages.World Bank, Washington, D.C.
+_____.2011.Poverty in Egypt 2008-09: Withstanding the Global Economic Crisis.World Bank, Washington, D.C.
+World Health Organization Commission (WHO).2007.Early child development: A powerful equalizer.
+￼

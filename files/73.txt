@@ -1,0 +1,47 @@
+Beegle, Kathleen, Joachim De Weerdt, Jed Friedman, and John Gibson. 2012. “Methods of Household Consumption Measurement through Surveys: Experimental Results from Tanzania.” Journal of Development Economics 98(1): 3–18.
+United Nations High Commissioner for Refugees (UNHCR). 2014. “Syrian Refugees Living Outside Camps in Jordan. Home Visit Data Findings 2013.” UNHCR, Geneva. Available at: https://s3.amazonaws.com/unhcrsharedmedia/urban-refugees-in-jordan /HVreport_09MarCS6_smallsize.pdf.
+———. 2015. “Living in the Shadows. Jordan Home Visits Report 2014.” UNHCR, Geneva. Available at: http://www.unhcr.org/54b685079.pdf.
+World Food Programme (WFP). 2014. “Verification Exercise, Preliminary Results, March 2014.” WFP, Rome. Available at: http://foodsecuritycluster.net/document /wfp-verification-exercise-preliminary-results-march-2014.
+World Food Programme (WFP), United Nations Children’s Fund (UNICEF), and United Nations High Commissioner for Refugees (UNHCR). 2013. “Vulnerability Assessment of Syrian Refugees in Lebanon.” Available at: https://data.unhcr.org/syrianrefugees /download.php?id=3853.
+———. 2014. “Vulnerability Assessment of Syrian Refugees (VASyR) in Lebanon, 2014.” Available at: http://foodsecuritycluster.net/sites/default/files/VASyR%202014 %20FINAL.pdf.
+Ceriani, L. 2015. “Vulnerability to Poverty: Empirical Findings.” Unpublished paper. World Bank, Washington, DC.
+Decancq, K., and M. A. Lugo. 2013. “Weights in Multidimensional Indices of Wellbeing: An Overview.” Econometric Reviews 32(1): 7–34.
+Edgeworth, F. 1881 [1961]. Mathematical Psychics: An Essay on the Application of Mathematics to the Moral Sciences. New York: Augustus M. Kelly.
+Kahneman, D., and A. Tversky. 1979. “Prospect Theory: An Analysis of Decision under Risk.” Econometrica 47(2): 263–91.
+Morduch, Jonathan. 1994. “Poverty and Vulnerability.” American Economic Review 84(2): 221–25.
+Abu-Ismail, K., A. Abdel-Gadir, and Centr H. El-Laithy. 2011. “Poverty and Inequality in Syria (1997–2007).” Arab Development Challenges Report Background Paper 2011/15. United Nations Development Programme. UNDP, New York, NY.
+Central Bureau of Statistics (CBS). 2007. Syria Household Income and Expenditure Survey (HIES) 2007. Ref. SYR_2007_HIES_v01_M. CBS, Damascus.
+Erian, W., B. Katlan, and O. Babah. 2011. “Drought Vulnerability in the Arab Region: Special case study: Syria.” Global Assessment Report on Disaster Risk Reduction.
+International Federation of the Red Cross and Red Crescent Societies (IFRC). 2010. “Syria: Drought. Operations Update No 2.” ILO, Geneva.
+International Labour Organization (ILO). 2013. Key Indicators of the Labour Market Database. 8th edition. ILO, Geneva.
+———. 2014. “Assessment of the Impact of Syrian Refugees in Lebanon and Their Employment Profile.” International Labour Organization, Regional Office for the Arab States.
+International Monetary Fund (IMF). 2007. “Syrian Arab Republic: 2007 Article IV Consultation—Staff Report.” IMF Country Report No. 07/288, August. IMF, Washington, DC.
+———. 2014. World Economic Outlook Database, October 2014. IMF, Washington, DC.
+Kelley, C. P., S. Mohtadi, M. A. Cane, R. Seager, and R. Kushnir. 2015. “Climate Change in the Fertile Crescent and Implications of the Recent Syrian Drought.” Proceedings of the National Academy of Sciences of the United States of America 112 (11): 3241–46.
+Sadek, G. 2013. “Legal Status of Refugees: Egypt, Jordan, Lebanon, and Iraq.” Law Library of Congress, Global Legal Research Center. Washington, DC.
+Syrian Center for Policy Research (SCPR). 2013. “Socioeconomic Roots and Impact of the Syrian Crisis.” SCPR, Damascus.
+———. 2015. “Alienation and Violence: Impact of Syria Crisis Report 2014.” SCPR, Damascus.
+United Nations High Commissioner for Refugees (UNHCR). 2015a. Syria Regional Refugee Response. Inter-agency Information Sharing Portal. UNHCR, Geneva. Available at: http://data.unhcr.org/syrianrefugees/regional.php.
+———. 2015b. UNHCR Country Operations Profile—Syrian Arab Republic. UNHCR, Geneva. Available at: http://data.unhcr.org/syrianrefugees/regional.php.
+United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA). 2011. “UNRWA Statistics—2010.” UNRWA, Washington, DC.
+United Nations (UN). 2013. World Population Prospects: The 2012 Revision. Population Division—Department of Economic and Social Affairs. UN, New York. Available at: http://esa.un.org/unpd/wpp/.
+World Food Programme (WFP), United Nations Children’s Fund (UNICEF), and United Nations High Commissioner for Refugees (UNHCR). 2013. “Vulnerability Assessment of Syrian Refugees in Lebanon.” WFP, Rome. Available at: https://data.unhcr.org /syrianrefugees/download.php?id=3853.
+World Bank. 2008. “Agriculture in Syria: Towards the Social Market.” Agriculture Sector Note and Technical Note on Agricultural Subsidies. World Bank, Washington, DC.
+———. 2010. “Economic and Reform Challenges: A Growth Diagnostics Report—Phase 1.” Syrian Arab Republic: Country Economic Memorandum, Report No. 79910-SY, July 2010.
+———. 2015. World Development Indicators Database. Downloaded on February 22, 2015. World Bank, Washington, DC. Available at: http://data.worldbank.org /data-catalog/world-development-indicators.
+Amemiya, T. 1977. “The Maximum Likelihood Estimator and the Non-linear Three Stage Least Squares Estimator in the General Nonlinear Simultaneous Equation Model.” Econometrica 45: 955–68.
+Calvo, C., and S. Dercon. 2013. “Vulnerability to Individual and Aggregate Poverty.” Social Choice and Welfare 41(4): 721–40.
+Ceriani, L. 2015. “Vulnerability to Poverty: Empirical Findings.” Unpublished paper. World Bank, Washington, DC.
+Chaudhuri, S., J. Jalan, and A. Suryahadi. 2002. “Assessing Household Vulnerability to Poverty from Cross-Sectional Data: A Methodology and Estimates from Indonesia.” Discussion Paper Series 0102-52. Department of Economics, Columbia University, New York.
+Christiaensen, L., and R. N. Boisvert. 2000. “On Measuring Household Food Vulnerability: Case Evidence from Northern Mali.” Working paper. World Bank, Washington, DC.
+Christiaensen, L., and K. Subbarao. 2005. “Toward an Understanding of Household Vulnerability in Rural Kenya.” Journal of African Economies 14: 520–58.
+Dang, H. H., and P. Lanjouw. 2014. “Welfare Dynamics Measurement: Two Definitions of a Vulnerability Line and Their Empirical Application.” Policy Research Working Paper Series WPS6944. World Bank, Washington, DC.
+Kuhl, J. J. 2003. “Disaggregating Household Vulnerability—Analyzing Fluctuations in Consumption Using a Simulation Approach.” Manuscript: Institute of Economics, University of Copenhagen.
+Ligon, E., and L. Schechter. 2003. “Measuring Vulnerability.” The Economic Journal 113: C95–C102.
+Pritchett, L., A. Suryahadi, and S. Sumarto. 2000. “Quantifying Vulnerability to Poverty: A Proposed Measure, Applied to Indonesia.” Working Paper 2437. World Bank, Washington, DC.
+Suryahadi, A., and S. Sumarto. 2003. “Poverty and Vulnerability in Indonesia Before and After the Economic Crisis.” Asian Economic Journal 17: 45–64.
+World Bank. 2001. World Development Report 2000/2001: Attacking Poverty. New York: Oxford University Press.
+International Rescue Committee (IRC). 2014. “Emergency Economies: The Impact of Cash Assistance in Lebanon.” IRC, New York. Available at: http://www.rescue.org/press- releases/irc-releases-evaluation-cash-transfers-work-refugees-emergencies-21557.
+United Nations High Commissioner for Refugees (UNHCR). 2014. “Chapter 3 Criteria for Monthly Financial Assistance.” Unpublished paper. UNHCR, Geneva.
+World Food Programme (WFP). 2014a. “Economic Impact Study: Direct and Indirect Impact of the WFP Food Voucher Programme in Jordan.” WFP, Rome. Available at: http://documents.wfp.org/stellent/groups/public/documents/ena/wfp264168.pdf.
+———. 2014b. “Economic Impact Study: Direct and Indirect Effects of the WFP Value-Based Food Voucher Programme in Lebanon.” WFP, Rome. Available at: http://documents.wfp. org/stellent/groups/public/documents/ena/wfp267746.pdf.

@@ -1,0 +1,22 @@
+Azevedo, J., Inchauste, G. Olivieri, S., Saavedra, J., and H. Winkler. 2013. “Is labor income responsible for poverty reduction? A decomposition approach” World Bank Policy Research Working Paper No. 6414.
+Barros, Ricardo Paes, Mirela de Carvalho, Samuel Franco, and Rosane Mendoça. 2006. “Uma Análise das Principais Causas da Queda Recente na Desigualdade de Renda Brasileira.” In: Revista Econômica 8 (1): 117–147. Rio de Janeiro: Universidade Federal Fluminense. http://www.uff.br/revistaeconomica/V8N1/RICARDO.PDF
+Blinder, Alan S. 1973. “Wage Discrimination: Reduced Form and Structural Estimates.” The Journal of Human Resources 8 (4): 436–55.
+Bourguignon, François, Francisco H. G. Ferreira and Nora Lustig. 2005. The Microeconomics of Income Distribution Dynamics in East Asia and Latin America. Washington, DC: World Bank.
+Bourguignon, François, Francisco H. G. Ferreira, and Phillippe G. Leite. 2008. “Beyond Oaxaca-Blinder: Accounting for Differences in Household Income Distributions.” Journal of Economic Inequality 6 (2): 117–48.
+Central Bank of Sri Lanka. 2007Annual Report. Available at: http://www.cbsl.gov.lk/pics_n_docs/10_pub/_docs/efr/annual_report/Ar2007/content.htm
+Central Bank of Sri Lanka. 2008Annual Report. Available at: http://www.cbsl.gov.lk/htm/english/10_pub/p_1.html
+Central Bank of Sri Lanka. 2012 Annual Report. Available at: http://www.cbsl.gov.lk/htm/english/10_pub/p_1.html
+Datt, Gaurav, and Martin Ravallion. 1992. Growth and Redistribution Components of Changes in Poverty Measures: A Decomposition with Applications to Brazil and India in the 1980s. Journal of Development Economics, 38: 275–296.
+Essama-Nssah, B. 2012. “Identification of Sources of Variation in Poverty Outcomes”, World Bank Policy Research Working Papers, No. 5954.
+Ferreira, Francisco H. G. 2012. “Distributions in Motion: Economic Growth, Inequality, and Poverty Dynamics.” In The Oxford Handbook of the Economics of Poverty, edited by Philip N. Jefferson, 427– 62. New York: Oxford University Press.
+Fortin, Nicole, Thomas Lemieux, and Sergio Firpo. 2011. “Decomposition Methods in Economics.” In Handbook of Labor Economics, Vol. 4A, edited by Ashenfelter Orley and Card David, 1–102. Amsterdam: North-Holland.
+Heckman, James J. 1979. “Sample Selection Bias as a Specification Error.” Econometrica 47 (1): 153–61. Inchauste, G. Olivieri, S., Saavedra, J., and H. Winkler. 2013. “What is Behind the Decline in Poverty Since 2000? Evidence from Bangladesh, Peru and Thailand” World Bank Policy Research Working Paper No. 6199.
+Inchauste, G. Azevedo, J.P, Essama-Nssah, B., Olivieri, S., Van Nguyen, T., Saavedra-Chanduvi, .J and H. Winkler. 2014. “Understanding Changes in Poverty” Directions in Development, Poverty.
+Juhn, Chinhui, Kevin M. Murphy, and Pierce Brooks. 1993. “Wage Inequality and the Rise of Returns to Skill.” Journal of Political Economy 101 (3): 410–42.
+Lanjouw, Luoto, and David McKenzie. 2011. “Using Repeated Cross-Sections to Explore Movements into and out of Poverty” World Bank Policy Research Working Paper No. 5550.
+Oaxaca, Ronald L. 1973. “Male-Female Wage Differentials in Urban Labor Markets.” International Economic Review 14 (3): 693–709.
+Ravallion, Martin. 2001. “Growth, Inequality and Poverty: Looking Beyond Averages.” World Development 29 (11): 1803–15.
+Roy, A. 1951. “Some Thoughts on the Distribution of Earnings.” Oxford Economic Papers 3 (2): 135–46. Shorrocks A.F. 1999. Decomposition Procedures for Distributional Analysis: A Unified Framework Based on Shapley Value. University of Essex and Institute for Fiscal Studies. Mimeo.
+Shapley, L. 1953. “A value for n-person games.” In,Contributions to the Theory of Games, ed. H. W. Kuhn and A. W. Tucker 2. Princeton, N.J.: Princeton University Press.
+Tinbergen, Jan. 1975. Income Differences: Recent Research. Amsterdam: North‐Holland.
+World Bank (2013),”Bangladesh-Poverty Assessment: Assessing a Decade of progress in Reducing Poverty 2000-2010” Bangladesh Development Series Paper No.31. The World Bank: Washington DC.

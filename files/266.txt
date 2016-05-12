@@ -1,0 +1,36 @@
+Alkire, S. 2011. “A National MPI for Bhutan: Three Trial Measures.” Oxford Poverty and Human Development Initiatives, Oxford.
+Atkinson, A.B. 1987. “On the Measurement of Poverty.”Econometrica, Vol. 55, No.4: 749-764.
+Benjamin, Dwayne, Loren Brandt, and John Giles. 2005.“The Evolution of Income Inequality in Rural China.”Economic Development and Cultural Change, Vol. 53, No.4: 769-824.
+Bhutan Multiple Indicator Survey. 2010. National Statistics Bureau, Royal Government of Bhutan. 
+Bourguignon, François, Francisco H. G. Ferreira, and Nora Lustig. 2005. Introduction in François Bourguignon, Francisco H.G. Ferreira and Nora Lustig (eds), “The Microeconomics of Income Distribution Dynamics in East Asia and Latin America,” pp. 17-46, Washington, D.C.: The World Bank.
+Dang, H-A. and P. Lanjouw. 2013. “Measuring Poverty Dynamics with Synthetic Panels Based on Cross-Sections.” World Bank Policy Research Paper number 6504, Washington, DC.: World Bank.
+Datt, Gaurav, and Martin Ravallion. 1992.“Growth and Redistribution Components of Changes in Poverty Measures: A Decomposition with Applications to Brazil and India in the 1980s.”Journal of Development Economics, 38: 275-95.
+Dercon, S., D.O. Gilligan, J. Hoddinott, and T. Woldehanna.2009. “The Impact of Agricultural Extension and Roads on Poverty and Consumption Growth in Fifteen Ethiopian Villages,” American Journal of Agricultural Economics, 91 (4), 1007–1021.
+Duclos, Jean-Yves. 2009. What is “ProPoor”?Social Choice and Welfare, 32:37-58.
+Essama-Nssah, B. 2012. “Identification of Sources of Variation in Poverty Outcomes.” World Bank Policy Research Working Paper No. 5954. Washington, D.C.: The World Bank.
+Essama-Nssah., B. and Peter J. Lambert. 2009.“Measuring Pro-Poorness: A Unifying Approach with New Results.”Review of Income and Wealth, Series 55, No. 3: 752-778.
+FAO (Food and Agriculture Organization). 2011. Guidelines for Measuring Household and Individual Dietary Diversity, FAO. Nutrition and Consumer Protection Division, Food and Agriculture Organization of the United Nations, Rome, Italy. Available online at <http:// www.fao.org/fileadmin/user_upload/ wa_workshop/docs/FAO-guidelinesdietary-diversity2011.pdf> 
+Firpo, S., N. Fortin, and T. Lemieux. 2009. “Unconditional Quantile Regressions,”Econometrica, 77, 953-973. 
+Foster, James E., J. Greer, and E. Thorbecke. 2010.“The Foster-Greer-Thorbecke (FGT) Poverty Measures: 25 Years Later.” Journal of Economic Inequality, 8: 491-524.
+Gross National Happiness Report. 2010. Gross National Happiness Survey results 2010, Available online at <http://www. grossnationalhappiness.com/surveyresults/index/>
+Hettige, H. 2006. “When do Rural Roads Benefit the Poor and How? An In-depth 116 Bhutan Poverty Assessment 2014 Analysis Based on Case Studies,” Asian Development Bank, Manila, Philippines.
+IMF (International Monetary Fund). 2010a. Bhutan: Poverty Reduction Strategy Paper.IMF Country Report No. 10/180. Washington, D.C.: IMF. 
+IMF (International Monetary Fund). 2010b. Bhutan: Poverty Reduction Strategy Paper – Joint Staff Advisory Note. IMF Country Report No. 10/181. Washington, D.C.: IMF.
+Jenkins, S. and Peter J.Lambert.1997.“Three ‘I’s of Poverty Curves, with Analysis of UK Poverty Trends.” Oxford Economic Papers, 49: 317-327.
+Kennedy, G., T.Ballard, and M-C. Dop. 2011. “Guidelines for Measuring Household and Individual Dietary Diversity.” Nutrition and Consumer Protection Division, Food and Agriculture Organization (FAO) of the United Nations, Rome, Italy. Available online at <http://www.fao.org/fileadmin/user_upload/wa_workshop/docs/FAOguidelines-dietary-diversity2011.pdf>
+Khandker, S.R., Z. Bakht, and G. B. Koolwal. 2009. “The Poverty Impact of Rural Roads: Evidence from Bangladesh”, Economic Development and Cultural Change, 57, 685–722.
+Kray, Aart. 2006.“When is Growth Pro-Poor? Evidence from a Panel of Countries.” Journal of Development Economics, 80: 198-227.
+National Statistics Bureau. 2013. Available<http://www.nsb.gov.bt/ publication/publications.php?id=3>
+Osmani, S. 2005.“Defining Pro-Poor Growth.” One Pager Number 9, International Poverty Center, Brazil. 
+PovcalNet: the on-line tool for poverty measurement developed by the Development Research Group of the World Bank: http://iresearch.worldbank. org/PovcalNet/index.htm?0 
+Ravallion, Martin. 1994.“Poverty Comparisons.” Chur (Switzerland): Harwood Academic Publishers.
+Ravallion, Martin., and Shaohua Chen. 2003.“Measuring Pro-Poor Growth.” Economics Letters 78: 93-99.
+RGoB (Royal Government of Bhutan). 2013. Poverty Analysis Report 2012. Thimphu: National Statistics Bureau.
+RGoB 2007. Poverty Analysis Report 2007. Thimphu: National Statistics Bureau.
+Shorrocks, A.F. 1999. “Decomposition Procedure for Distribution Analysis: A Unified Framework Based on Shapely Value”. University of Essex and Institute for Fiscal studies, Colchester, England. 
+Tiwari, S., E. Skoufias, and M. Sherpa. 2013. “Shorter, Cheaper, Quicker, Better: Linking Measures of HouseholdFood Security to Nutritional Outcomes in Bangladesh, Nepal, Pakistan, Uganda, and Tanzania.”Policy Research Working Paper 6584. Washington, DC.: World Bank. 
+Ura, K., S.Alkire, T.Zangmo, and W. Wangdi. 2012. “An Extensive Analysis of GNH Index”, Center for Bhutan Studies: Thimphu, Bhutan. Available online at, <http://www.grossnationalhappiness.com>
+Warr, P. 2010. “Roads and Poverty in Rural Laos: an Econometric Analysis.”Pacific Economic Review, 15(1), 152-169.
+WHO (World Health Organization). 2013. Progress on Sanitation and Drinking Water. Water Supply and Sanitation Monitoring, Joint Monitoring Programme for Water Supply and Sanitation, 2013
+World Bank. 2010. Sustainable Transport for All: Helping People to Help Bhutan Poverty Assessment 2014 117 Themselves, Rural Transport, IDA at Work in Transportation –2010 Report. Available online at, <http:// siteresources.worldbank.org/IDA/ Resources/73153-1285271432420/ IDA_AT_WORK_Transport_2010.pdf>
+Yamauchi, F., M. Muto, S. Chowdhury, R. Dewina, and S. Sumaryanto. 2009. “Spatial Networks, Labour Supply, and Income Dynamics: Evidence from Indonesian Villages.” International Food Policy Research Institute, Discussion Paper No. 897.
