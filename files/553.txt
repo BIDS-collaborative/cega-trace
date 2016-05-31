@@ -1,0 +1,62 @@
+Adams Jr., Richard H. 2006. Remittances, Poverty, and Investment in Guatemala. In: Caglar Ozden and Maurice Schiff, (eds.), International Migration, Remittances, and the Brain Drain. Washington, DC: World Bank and Palgrave Macmillan.
+Alcazar, L. and E. Wachtenheim. 2005. Determinantes del funcionamiento de los proyectos de FONCODES. Lima, Peru.
+Arneson, Richard. 1989. ¡°Equality and Equality of Opportunity for Welfare¡± Philosophical Studies, 56: 77-93.
+Broersma, Lourens and Jouke van Dijk. 2008. ¡°The effect of congestion and agglomeration on multifactor productivity growth in Dutch regions.¡± Journal of Economic Geography, 8(2): 181?209. Bourguignon, Francois, Francisco Ferreira, and Phillippe Leite. 2002. ¡°Beyond OaxacaBlinder: Accounting for Differences in Household Income Distributions across Countries.¡± World Bank Policy Research Working Paper 2828.
+Caballero, Jose. 2004. ¡°Rural Poverty in Mexico.¡± Washington D.C.: World Bank. 
+CEDLAS. A Guide to the Socio-Economic Database for Latin America and the Caribbean. 2007. Available in http://www.depeco.econo.unlp.edu.ar/cedlas/sedlac/guide.htm.
+Cotton, J. 1988. ¡°On the Decomposition of Wage Differentials.¡± The Review of Economics and Statistics, 70: pp. 236-243.
+Deaton, Angus. 1997. The Analysis of Household Surveys. Washington D.C.: World Bank.
+De Janvry, Alain, and Elisabeth Sadoulet. 2000. "Rural Poverty in Latin America: Determinants and Exit Paths." Food Policy 25(4): 389-409. --- 2001. ¡°Income Strategies Among Rural Households in Mexico: The Role of Off-Farm Activities¡±. World Development 29(3): 476-80. --- 2001. "Investing in Rural Development is Good Business." In R. Echeverria, ed., Development of Rural Economies. Washington, D.C.: Inter-American Development Bank. --- 2004. ¡°Toward a Territorial Approach to Rural Development¡±, paper prepared for the Fourth Regional Thematic Forum in Latin America and the Caribbean ¡°Harvesting Opportunities: Rural Development in the 21st Century¡±. --- 2004. ¡°Achieving success in Rural Development: Towards Implementation of an Integral Approach¡±. --- 2004. ¡°Towards a Territorial Approach to Rural Development: International Experiences and Implications for Mexico¡¯s Microregions Strategy¡±. DETERMINANTS OF REGIONAL WELFARE DISPARITIES WITHIN LATIN AMERICAN COUNTRIES 67 67 Vol1_Interiores_ingles.indd 67 6/5/09 12:06 AM
+Duarte, Angelo Jose Mont¡¯Alverne, Pedro Cavalcanti Ferreira, and Marcio Antonio Salvato. 2003. ¡°Regional or educational disparities? A counterfactual exercise¡± Ensaios Economicos da EPGE No 532.
+Efron, Bradley, and Robert J. Tibshirani. 1993. Introduction to the Bootstrap. Boca Raton: Chapman/CRC Press.
+Escobar Latapi, A. and M. Gonzalez-de la Rocha. 2003. Seguimiento de impacto 2001- 2002. Comunidades de 2,500 a 50,000 habitantes. Evaluacion cualitativa del Programa de Desarrollo Humano Oportunidades 2002. Cuernavaca, Mexico: Instituto Nacional de Salud Publica.
+Escobar Latapi, A. and M. Gonzalez-de la Rocha. 2005. ¡°Evaluacion cualitativa del Programa de Oportunidades en zonas urbanas, 2003¡±, in Hernandez, B. and M. Hernandez (eds.), Evaluacion externa de impacto del Programa Oportunidades 2003. Cuernavaca, Mexico: Instituto Nacional de Salud Publica.
+Escobar Latapi, A. and M. Gonzalez-de la Rocha. 2005. ¡°Evaluacion cualitativa de mediano plazo del Programa Oportunidades en zonas rurales¡±, in Hernandez, B. and M. Hernandez (eds.), Evaluacion externa de impacto del Programa Oportunidades 2004. Tomo IV, Aspectos economicos y sociales. Cuernavaca, Mexico: Instituto Nacional de Salud Publica.
+Fazio, Maria Victoria. 2006. Economic Opportunities for Indigenous Peoples in Guatemala. Washington D.C.: World Bank.
+GRADE. 2007. Evaluacion tematica para JBIC. Mejora de las condiciones y medios de vida en comunidades pobres?el caso de Peru. Evaluacion de Impacto sobre la Pobreza de PE-P19 y PE-P24, Lima, Peru: GRADE.
+Grediaga, I.O. 2005. ¡°Impact of Oportunidades benefits on working incentives in rural and urban areas: A public policy perspective¡±. MSc in Public Policy Dissertation, University of College London, School of Public Policy.
+Greenwood, M. 1975. ¡°Research on Internal Migration in the United States: A Survey.¡± Journal of Economic Literature. Volume 13, Issue 2: p. 397-433.
+Greenwood, M. 1997. ¡°Internal migration in developed countries.¡± In: Handbook of Population and Family Economics. Amsterdam, Netherlands, Elsevier Science Publishers: p. 647-720. 
+Grosh, M, et al. 2008. The Design and Implementation of Effective Safety Nets. Washington D.C.: World Bank.
+Guimaraes, Juliana Ferraz, Tiago Cavalcanti, and Raul Silveira Neto. 2006. ¡°Accounting for Labor Income Differences in Brazil: the Role of Human Capital¡± Anais do XXXIV Encontro Nacional de Economia [Proceedings of the 34th Brazilian Economics Meeting] 35, ANPEC - Associacao Nacional dos Centros de Posgraduacao em Economia [Brazilian Association of Graduate Programs in Economics].
+Haggblade, Steven, Peter B. R. Hazell, and Thomas Reardon (ed.). 2007. Transforming the Rural Nonfarm Economy: Opportunities and Threats in the Developing World. Baltimore, MD: Johns Hopkins University Press.
+Hendricks, Wallace, and Roger Koenker. 1992. ¡°Hierarchical Spline Models for Conditional Quantiles and the Demand for Electricity,¡± Journal of the American Statistical Association, 87(417): pp 58-68.
+Hernandez Avila, M. and B. Hernandez Prado. 2005. ¡°Evaluacion externa de impacto del Programa Oportunidades 2004, Educacion.¡± 68 DETERMINANTS OF REGIONAL WELFARE DISPARITIES WITHIN LATIN AMERICAN COUNTRIES 68 Vol1_Interiores_ingles.indd 68 6/5/09 12:06 AM
+Hernandez Avila, M., B. Hernandez Prado and J. Urquieta Salomon. 2006. ¡°Evaluacion externa de impacto del Programa Oportunidades 2006.¡±
+Instituto Apoyo. 2000. Sexta Evaluacion ExPost del Foncodes, Evaluacion de Impacto y Sostenibilidad. Lima, Peru: Instituto Apoyo.
+Jann, B. 2008. ¡°A Stata implementation of the Blinder-Oaxaca decomposition¡± ETH Zurich Sociology Working Paper No. 5.
+Jalan, Jyotsna and Martin Ravallion. 2002. ¡°Geographic Poverty Traps? A Micro Model of Consumption Growth in Rural China,¡± Journal of Applied Econometrics, 17: pp. 329-346.
+Kanbur, Ravi. 2006. ¡°The policy significance of inequality decompositions¡± Journal of Economic Inequality, 4(3): pp 367-374.
+Koenker and Bassett. 1978. ¡°Regresion Quantiles,¡± Econometrica, 46(1): pp 33-50.
+Koenker and Hallock. 2001. ¡°Quantile Regression,¡± Journal of Economic Perspectives, 15: pp 143-156.
+Krugman, P. 1998. ¡°What¡¯s New about the New Economic Geography.¡± Oxford Review of Economic Policy 14(2): 7-17.
+Lall, Somik, and Z. Shalizi. 2003. ¡°Location and Growth in the Brazilian Northeast.¡± Journal of Regional Science, 43(4): 663-681.
+Lall, S., C. Timmins, S. Yu. 2008. ¡°Moving to Opportunity? Successful Integration of Bright Lights,¡± Presentation at World Bank, June 2008.
+Lopez-Acevedo G., Vicente Paqueo, and Harry Patrinos. 2003. ¡°A Case Study of Mexico Conditional Cash Transfer¡± in Globalization and Social Safety Nets in AsiaPacific Region, Park and Lee Editors, Policy Paper 2003-18.
+Lucas, Robert E.B. 1997. ¡°Internal Migration in Developing Countries,¡± in Handbook of Population and Family Economics, Volume 1B, Rosenzweig, Mark R. and Oded Stark, Ed. Amsterdam: Elsevier Science B.V.
+Machado, Jose A. F., and Jose Mata. 2005. ¡°Counterfactual Decomposition of Changes in Wage Distributions Using Quantile Regression¡±, Journal of Applied Econometrics, 20: 445 ? 465.
+Martinez Galarraga, Julio Paluzie Hernandez, Elisenda Novell, Jordi Pons, Tirado Fabregat and Daniel Aurelio. 2007. ¡°Agglomeration and labour productivity in Spanish industry: a long-term analysis.¡± Working Papers in Economics 175, Universitat de Barcelona. Espai de Recerca en Economia.
+Mont'Alverne A.J. P. Cavalcanti Ferreira, and M.A. Salvato. 2004. Regional or Educational Disparities? A Counetrfactual Exercise,¡± FGV Working Paper No. 532.
+Neumark, D. 1988. ¡°Employers¡¯ Discriminatory Behavior and the Estimation of Wage Discrimination,¡± Journal of Human Resources 23: pp. 279-295.
+Nguyen, Binh T., James W. Albrecht, Susan B. Vroman, and M. Daniel Westbrook. 2007. ¡°A Quantile Regression Decomposition of Urban-Rural Inequality in Vietnam¡±, Journal of Development Economics, 83: 466 ? 490.
+Oaxaca, Ronald, L. 1973. ¡°Male-Female Wage Differentials in Urban Labor Markets,¡± International Economic Review, vol. 14, pp. 693-709.
+Oaxaca Ronald, and Michael Ransom. 1994. ¡°On Discrimination and the Decomposition of Wage Differentials,¡± Journal of Econometrics, vol. 61. pp. 2- 21.
+Ozden, Caglar, and Maurice Schiff. 2007. International Migration, Economic Development and Policy. Washington, DC: World Bank. DETERMINANTS OF REGIONAL WELFARE DISPARITIES WITHIN LATIN AMERICAN COUNTRIES 69 69 Vol1_Interiores_ingles.indd 69 6/5/09 12:06 AM
+Ozgen, Ceren, Peter Nijkamp and Jacques Poot. 2009. ¡°The Effect of Migration on Income Convergence: Meta-Analytic Evidence.¡± Tinbergen Institute Discussion Papers 09-022/3.
+Paes de Barros, Francisco Ferreira, Jose Molinas Vega, and Jaime Saavedra. 2009. ¡°Measuring Inequality of Opportunities in Latin America and the Caribbean,¡± Washington D.C: World Bank
+Ravallion, Martin. 2004. ¡°Pro-Poor Growth: A Primer.¡± World Bank Policy Research Working Paper 3242.
+Ravallion, Martin, and Quentin Wodon. 1999. ¡°Poor Areas, or Only Poor People?¡± Journal of Regional Science, vol. 39, no. 4, pp. 689-711.
+Rawlings, L.B. and Rubio, G. (2005). ¡°Evaluating the Impact of Conditional Cash Transfer Programs¡±. The World Bank Research Observer, 20(1): 29-55. 
+Reimers, C. W. 1993. ¡°Labor Market Discrimination Against Hispanic and Black Men.¡± Review of Economics and Statistics, 65(4), pp. 570-579.
+Schultz, P. 1971. ¡°Rural-Urban Migration in Colombia,¡± in Review of Economics and Statistics, 53:2: p. 157-63.
+Shilpi, Forhad. 2008. ¡°Migration, sorting and regional inequality: evidence from Bangladesh¡± World Bank Policy Research Working Paper No. 4616.
+Skoufias, Emmanuel and Francisco Haimovich, 2008 ¡°The Role of Internal Migration in LAC countries¡± World Bank mimeo.
+Soto, Jorge Mario et al. 2008. A review of territorial development programs. World Bank mimeo.
+Tannuri-Pianto, Maria, Pianto, Donald and Arias, Omar. 2004. ¡°Rural-Urban Migration in Bolivia: An Escape Boat?¡± Anais do XXXII Encontro Nacional de Economia [Proceedings of the 32th Brazilian Economics Meeting] 120, ANPEC - Associacao Nacional dos Centros de Posgraduacao em Economia, 2004.
+Venables, A. 2005. ¡°Spatial disparities in developing countries: cities, regions, and international trade.¡± Journal of Economic Geography 5(1): 3-21.
+World Bank. 2003. ¡°Brazil: Inequality and Economic Development¡± Washington, D.C.: The World Bank (Report# 24487-BR).
+World Bank. 2005. World Development Report 2006: Equity and Development. New York: The World Bank and Oxford University Press.
+World Bank. 2004. Poverty in Mexico : An Assessment of Conditions, Trends and Government Strategy. ? Washington, D.C. The World Bank. ? (Report No. 28612-ME). --- 2005b. Mexico : A Study of Rural Poverty. ? Washington, D.C. The World Bank. ? (Report No. 32867-MX). --- 2005c. Mexico : An Overview of Social Protection. ? Washington, DC. The World Bank. ? (Report No. 32929-MX).
+World Bank. 2007. ¡°Brazil: Measuring Poverty Using Household Consumption¡± Washington, D.C.: The World Bank (Report # 36358-BR).
+World Bank. 2009. World Development Report 2009: ¡°Reshaping Economic Geography¡±, Washington, D.C.: The World Bank.
+Yotopoulos, Pan A. and Jeffrey B. Nugent. 1976. Economics of Development: Empirical Investigations. New York: Harper & Row, Publishers, Inc.

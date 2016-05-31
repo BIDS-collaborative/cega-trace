@@ -1,0 +1,21 @@
+Andrabi, Tahir, Jishnu Das and Asim Ijaz Khwaja (2005), ¡°Private Schooling: Limits and Possibilities¡±, processed, Department of Economics, Pomona College, USA.
+Andrabi, Tahir, Jishnu Das and Asim Ijaz Khwaja (2006), ¡°Students Today, Teachers Tomorrow? The Rise of Affordable Private Schools¡±, processed, Department of Economics, Pomona College, USA.
+Andrabi, Tahir, Jishnu Das, Asim Ijaz Khwaja, and Tristan Zajonc (2006), ¡°Report on Learning and Educational Attainments in Pakistani Schools¡±, processed, Department of Economics, Pomona College, USA.
+Asadullah, Mohammad N,. Nazmul Chaudhury, and Amit Dar (2006), ¡°Conditional Cash Transfer and Educational Gender Gaps: Insights from Bangladeshi households¡±, processed, Oxford University and World Bank.
+Bertrand, Marianne, Esther Duflo and Sendhil Mullainathan (2004), ¡°How Much Should We Trust Differences-in-Differences Estimates?¡± Quarterly Journal of Economics, 119(1):249-275
+Coady, David, Margaret Grosh, and John Hoddinott (2004), Targeting of transfers in developing countries: review of lessons and experience, The World Bank. 
+Ezemenari, Kene, Nazmul Chaudhury, and Janet Owens (2002), ¡°Gender and Social Risk Management¡±, Social Protection/Human Development Network, World Bank.
+Federal Bureau of Statistics, Government of Pakistan (2005), Pakistan Social and Living Standards Measurement Survey 2004-05.
+Hahn, Jinyong, Petra Todd and Wilbert Van der Klaauw (2001), ¡°Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design,¡± Econometrica 69(1): 201-209
+Heckman, James, Hidehiko Ichimura and Petra Todd (1997), ¡°Matching as an Econometric Evaluation Estimator: Evidence from Evaluating a Job Training Programme,¡± Review of Economic Studies 64(4): 605-654.
+Jalan, Jyotsna and Martin Ravallion (1998), ¡°Are there Dynamic Gains from a Poor-Area Development Program?¡± Journal of Public Economics, 67(1): 65-86.
+de Janvry, Alain, and Elisabeth Sadoulet (2006), ¡°Making Conditional Cash Transfer Programs More Efficient: Designing for Maximum Effect of the Conditionality¡±, World Bank Economic Review, Vol. 20, No.1.
+Khandker, Shahidur and Mark M. Pitt (2003) ¡°Subsidy to Promote Girls¡¯ Secondary Education: The Female Stipend Program in Bangladesh¡±, Annual Meeting of the Population Association of America.
+Ludwig, Jens and Douglas L. Miller (2005), ¡°Does Head Start Improve Children¡¯s Life Chances: Evidence from a Regression-Discontinuity Design,¡± Working Paper 11702, National Bureau of Economics Research (NBER).
+Porter, Jack (2003), ¡°Estimation in the Regression-Discontinuity Model¡±, Working Paper, Harvard University Economics Department.
+Ravallion, Martin (2005), Evaluating Anti-Poverty Programs. Handbook of Agricultural Economics vol. 4. Robert E. Evenson and T. Paul Schultz. North-Holland.
+Rosenbaum, Paul and Donald Rubin (1983), ¡°The Central Role of the Propensity Score in Observational Studies of Casual Effects,¡± Biometrika, 70: 41-55.
+Sathar, Zeba, Cynthia B. Lloyd, Cem Mete, and Minhaj ul Haque (2000). "Schooling opportunities for girls as a stimulus for fertility changes in rural Pakistan," Policy Research Division Working Paper no. 143. New York: Population Council.
+State Bank of Pakistan (2006), Special Section: Impact Analysis of Punjab Education Sector Reforms in First Quarterly Report for FY06, The State of Pakistan¡¯s Economy.
+Van der Klaauw, Wilbert (2002), ¡°Estimating the Effect of Financial Aid Offers on College Enrollment: A Regression-Discontinuity Approach,¡± International Economic Review, 43(4): 1249-1287.
+van de Walle, Dominique, 1998 ¡° Targeting Revisited¡±, World Bank Research Observer, Vol.13, No.2.

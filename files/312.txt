@@ -1,0 +1,13 @@
+Atkinson, A, Piketty, T. and Saez, E. (2011) Top incomes in the long run of history, Journal of Economic Literature, 49, 3-71.
+Cowell, F.A. and Victoria-Feser, M.-P. (1996) Poverty measurement with contaminated data: A robust approach, European Economic Review, 40, 1761-1771.
+Cowell, F.A. and Victoria-Feser, M.-P. (1996) Robustness properties of inequality measures, Econometrica, 64, 77- 101.
+Cowell, F.A. and Victoria-Feser, M.-P. (2007) Robust Lorenz curves: a semiparametric approach, Journal of Economic Inequality, 5, 21–35.
+Cowell, F.A. and Flachaire, E. (2007) Income distribution and inequality measurement: The problem of extreme values, Journal of Econometrics, 141(2), 1044–1072.
+Davidson, R. and Flachaire, E. (2007) Asymptotic and bootstrap inference for inequality and poverty measures, Journal of Econometrics, 141(1), 141-166.
+Deaton, A. (2005) Measuring Poverty in a growing world (or measuring growth in a poor world), The Review of Economics and Statistics, LXXXVII (1), 1-19
+Korinek, A., Mistiaen, J.A. and Ravallion, M. (2006) Survey nonresponse and the distribution of income, Journal of Economic Inequality, 4, 33-55.
+Korinek, A., Mistiaen, J.A. and Ravallion, M. (2007) An econometric method of correcting for unit nonresponse bias in surveys, Journal of Econometrics, 136, 213-235.
+Neri, L., Gagliardi, F., Ciampalini, G., Verma, V. and Betti, G. (2009) Outliers at upper end of income distribution (EU-SILC 2007), DMQ Working Paper n. 86, November 2009.
+Pareto, V. (1896) La courbe de la repartition de la richesse, Ecrits sur la courbe de la repartition 31
+de la richesse, (writings by Pareto collected by G. Busino, Librairie Droz, 1965), 1-15.
+World Bank (2013) Inside Inequality in Egypt: Historical trends, recent facts, people’s perceptions and the spatial dimension, mimeo.

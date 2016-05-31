@@ -1,0 +1,9 @@
+Pezzin, Liliana E., and Barbara S. Schone, “The Allocation of Resources in Intragenerational Households: Adult Children and Their Elderly Parents,” American Economic Review Papers and Proceedings 87 (1997), 460–464. 
+Rangel, Marcos A., “Alimony Rights and Intrahousehold Allocation of Resources: Evidence from Brazil,” Economic Journal 116 (2006), 627–658. 
+Rosenbaum, Paul. R., and Donald B. Rubin, “Constructing a Control Group Using Multivariate Matched Sampling Methods That Incorporate the Propensity Score,” 39:1 (1985), 33–38. 
+Rubin, Donald B., “Using Multivariate Matched Sampling and Regression Adjustment to Control Bias in Observational Studies,” Journal of the American Statistical Association 74 (1979), 318–328. 
+——— “Matched Sampling for Causal Effect” (Cambridge: Cambridge University Press, 2006). 
+Thomas, Duncan, “Intra-Household Resource Allocation: An Inferential Approach,” Journal of Human Resources 25 (1990), 635–664. 
+——— “Like Father, Like Son; Like Mother, Like Daughter: Parental Resources and Child Height,” Journal of Human Resources 29 (1994), 950–988. 
+Thomas, Duncan, Dante Contreras, and Elizabeth Frankenberg, “Distribution of Power within the Household and Child Health,” mimeograph, UCLA (2002). 
+Ward-Batts, Jennifer, “Out of the Wallet and into the Purse: Using Micro Data to Test Income Pooling,” Journal of Human Resources 43 (2008), 325–351.

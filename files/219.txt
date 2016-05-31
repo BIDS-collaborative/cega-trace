@@ -1,0 +1,34 @@
+Agénor, P. (2013). Public Capital, Growth and Welfare. New Jersey, Princeton University Press.
+Adjemian, S. and M. Juillard (2010) Dealing with ZLB in DSGE models: An application to the Japanese economy, ESRI Discussion Paper Series No.258.
+Auty, R. M. (1993). Sustaining Development in Mineral Economies: The Resource Curse Thesis. London, Routledge.
+Arezki, R. and F. van der Ploeg (2008). “Can the Natural Resource Curse be Turned into a Blessing? Role of Trade Policy and Institutions.” IMF Working Paper 07/55 , Washington, International Monetary Fund.
+Berg, A., Portillo, R., Yang, S.-C. S., Zanna, L.-F., 2013. Public investment in resource-abundant developing countries. IMF Economic Review 61, 92–129.
+Berg, A., S. S. Yang, and L. Zanna (2014) Modeling African Economies: A DSGE Approach, IMF paper, Mimeo.
+Benigno, G. and Fornaro, L. (2014), The Financial Resource Curse. The Scandinavian Journal of Economics, 116: 58–86.
+Campbell, J. Y. and N.G. Mankiw (1989). “Consumption, Income, and Interest Rates: Reinterpreting the Time Series Evidence.” NBER Macroeconomics Annual 6:141-201.
+Collier, P. and A. Hoeffler (2004). “Greed and Grievance in Civil War.” Oxford Economic Papers, Vol. 56, No.4, pp.563-95.
+Corden, M. and P. Neary (1982). “Booming Sector and De-Industrilization in a Small Open Economy.” Economic Journal, Vol. 92, pp. 825-48.
+Collier, Paul, Rick van der Ploeg, Michael Spence, and Anthony J. Venables. 2010. “Managing Resource Revenues in Developing Countries.” IMF Staff Papers, Vol. 57, No. 1, pp. 84-118.
+Devarajan, S., D. Go, J. Page, S. Robinson and K. Thierfelder (2008). “Macroeconomic Dynamics of Scaling Up Foreign Aid.” Chapter 5 in D. Go and J. Page, eds., Africa at a Turning Point? Growth, Aid and External Shocks. The World Bank.
+Devarajan, S., D. Go, and H. Li (1999). “Quantifying the Fiscal Effects of Trade Reform.” World Bank Policy Research Working Paper #2162 (August).
+Devarajan, S. and D. Go (1998). “The Simplest Dynamic General Equilibrium Model of an Open Economy.” Journal of Policy Modeling (December). 20 (6):677-714.
+Dagher, J., J. Gottschalk, and R. Portillo (2010). “Oil Windfalls in Ghana: A DSGE Approach.” IMF Working Paper # WP/10/116. Washington, D.C.
+Dessus, S. and A. Varoudakis (2013). “Protecting Public Investment against Shocks in the West African Economic and Monetary Union.” World Bank Policy Research Working Paper #6562 (August).
+Dissou, Y. and S. Didic (2013) Public Investment and Economic Growth: A Dynamic General Equilibrium Analysis with Heterogeneous Agents, Mimeo, Department of economics, University of Ottawa, Ottawa, Canada.
+Dissou, Y. and L. Karnizova (2012). “Emission Cap or Emission Tax? A Multi-sector Business Cycle Analysis.” Working paper #1210E, Department of Economics, University of Ottawa, Canada.
+Fair, R.C. and J.B. (1983) "Taylor. Solution and maximum likelihood estimation of dynamic nonlinear rational expectations models" Econometrica, 51:1169-1185.
+Gagnon, J. E. (1990).Solving the stochastic growth model by deterministic extended path. Journal of Business & Economic Statistics, 8, 35-36.
+Gelb, A. et al. (1988). Oil Windfalls: Blessing or Curse?” Oxford University Press for the World Bank, New York.
+Go, D., S.Robinson, K. Thierfelder, and R. Utz.(2013). “Dutch Disease and Spending Strategies in a Resource-Rich Low-Income Country – the Case of Niger.” World Bank Policy Research Working Paper #6691 (November).
+Hayashi, F. (1982). Tobin’s marginal q and average q: A neoclassical interpretation, Econometrica 50, 213-224.
+Heer, B., & Maußner, A. (2008). Computation of business cycle models: a comparison of numerical methods. Macroeconomic Dynamics, 12, 641-663.
+Love, D. R. F. (2010) "Revisiting deterministic extended-path: a simple and accurate solution method for macroeconomic models", International Journal of Computational Economics and Econometrics, 1(3/4) 2010.
+Medina, J. P. & C. Soto (2005), Oil Shocks and Monetary Policy in an Estimated DSGE Model for a Small Open Economy, Working papers, Central bank of Chili.
+Mehlum, H., K. Moene, and R. Torvi (2006). “Insitutions and the Resource Curse.” Economic Journal, Vol. 116, No. 508, pp. 1-20.
+Melina, G., S. S. Yang, and L. Zanna (2014). “Debt Sustainability, Public Investment, and Natural Resources in Developing Countries: the DIGNAR Model.” IMF Working Paper 14/50 , Washington, International Monetary Fund.
+Ogaki, M., Ostry, J., Reinhart, C. (1996). Saving Behavior in Low- and Middle-income Developing Countries: A Comparison. IMF Staff Papers 43 (1), 38–71.
+Pritchett, Lant, 2000. "The Tyranny of Concepts: CUDIE (Cumulated, Depreciated, Investment Effort) Is Not Capital," Journal of Economic Growth, Springer, vol. 5(4), pages 361-84, December.
+Sachs, J. and A. Warner (1997). “Natural Resource Abundance and Economic Growth.” In G. Meier and J. Rauch, eds. Leading Issues in Economic Development. , Oxford, Oxford University Press.
+Schmitt-Grohé, S. and M. Uribe (2003) Closing small open economy models, Journal of International Economics 61 (2003), pp. 163–185.
+Shea, J. (1995). “Union Contracts and the Life-Cycle/Permanent Income Hypthesis.” American Economic Review 85(March):186-200.
+Turnosvsky, S. (2009). Capital Accumulation and Economic Growth in a Small Open Economy. Cambridge, Cambridge University Press. 

@@ -1,0 +1,89 @@
+Atkinson, A. B. 1970. “On the Measurement of Inequality.” Journal of Economic Theory 2 (1970): 244–63.
+Commission on Growth and Development. 2008. The Growth Report: Strategies for Sustained Growth and Inclusive Development. Washington, DC: World Bank and International Bank for Reconstruction and Development.
+Commission on the Measurement of Economic and Social Progress. 2009. “Report by the Commission on the Measurement of Economic and Social Progress.” Commission on the Measurement of Economic and Social Progress, Paris. http://www.stiglitz-sen-fitoussi.fr/en/index.htm.
+Foster, J. E., and Y. Jin. 1998. “Poverty Orderings for the Dalton Utility- Gap Measures.” In The Distribution of Welfare and Household Production: International Perspectives, edited by S. Jenkins, A. Kapteyn, and B. van Praag, 268–85. New York: Cambridge University Press.
+Mincer, J. 1974. Schooling, Experience, and Earnings. New York: Columbia University Press.
+Oaxaca, R. 1973. “Male-Female Wage Differentials in Urban Labor Markets.” International Economic Review 14 (3): 693–709.
+Atkinson, A. B. 1970. “On the Measurement of Inequality.” Journal of Economic Theory 2 (1970): 244–63.
+———. 1987. “On the Measurement of Poverty.” Econometrica 55 (4): 749–64. Atkinson, A. B., and J. Micklewright. 1983. “On the Reliability of Income Data in the Family Expenditure Survey 1970–1977.” Journal of the Royal Statistical Society, Series A (146): 33–61.
+Bourguignon, F. 2003. “The Growth Elasticity of Poverty Reduction: Explaining Heterogeneity across Countries and Time Periods.” In Inequality and Growth: Theory and Policy Implications, edited by T. Eicher and S. Turnovsky, 3–26. Cambridge, MA: Massachusetts Institute of Technology.
+Chakravarty, S. R. 1983. “A New Index of Poverty.” Mathematical Social Sciences 6: 307–13.
+———. 2009. Inequality, Polarization and Poverty: Advances in Distributional Analysis. New York: Springer.
+Clark, S., R. Hemming, and D. Ulph. 1981. “On Indices for the Measurement of Poverty.” The Economic Journal 91 (362): 515–26.
+Dalton, H. 1920. “The Measurement of the Inequality of Incomes.” The Economic Journal 30: 348–61.
+Dasgupta, P., A. Sen, and D. Starrett. 1973. “Notes on the Measurement of Inequality.” Journal of Economic Theory 6 (2): 180–87.
+Deaton, A. 1997. The Analysis of Household Surveys: A Microeconometric Approach to Development Policy. Baltimore: World Bank.
+Deaton, A., and S. Zaidi. 2002. “Guidelines for Constructing Consumption Aggregates for Welfare Analysis.” Living Standards Measurement Study Working Paper 135, World Bank, Washington, DC.
+Foster, J. E., J. Greer, and E. Thorbecke. 1984. “A Class of Decomposable Poverty Measures.” Econometrica 52 (3): 761–66.
+Foster, J. E., and A. Sen. 1997. On Economic Inequality. 2nd ed. Oxford, U.K.: Oxford University Press.
+Foster, J. E., and A. F. Shorrocks. 1988. “Poverty Orderings.” Econometrica 56 (1): 173–77.
+———. 1991. “Subgroup Consistent Poverty Indices.” Econometrica 59 (3): 687–709.
+Foster, J. E., and M. Székely. 2008. “Is Economic Growth Good for the Poor? Tracking Low Incomes Using General Means.” International Economic Review 49 (4): 1143–72.
+Gini, C. 1912. “Variabilità e mutabilità.” Reprinted in Memorie di metodolog- ica statistica, edited by E. Pizetti and T. Salvemini. Rome: Libreria Eredi Virgilio Veschi (1955).
+Grosh, M., and P. Glewwe, eds. 2000. Designing Household Survey Questionnaires for Developing Countries: Lessons from 15 Years of the Living Standards Measurement Study. Washington, DC: World Bank.
+Huppi, M., and M. Ravallion. 1991. “The Sectoral Structure of Poverty dur- ing an Adjustment Period: Evidence for Indonesia in the Mid-1980s.” World Development 19 (12): 1653–78.
+Kakwani N., and H. H. Son. 2008. “Poverty Equivalent Growth Rate.” Review of Income and Wealth 54 (4): 643–55.
+Kanbur, R. 2006. “The Policy Significance of Inequality Decompositions.” Journal of Economic Inequality 4 (3): 367–74.
+Lambert, P., and J. R. Aronson. 1993. “Inequality Decomposition Analysis and the Gini Coefficient Revisited.” The Economic Journal 103 (420): 1221–27.
+Lorenz, M. O. 1905. “Methods of Measuring the Concentration of Wealth.” Publications of the American Statistical Association 9 (70): 209–19.
+Pigou, A. C. 1912. Wealth and Welfare. London: Macmillan.
+Ravallion, M. 1994. Poverty Comparisons. Chur, Switzerland: Harwood Academic Press.
+Rawls, J. 1971. A Theory of Justice. Cambridge, MA: Harvard University Press. Rothschild, M., and J. E. Stiglitz. 1973. “Some Further Results on the
+Measurement of Inequality.” Journal of Economic Theory 6 (2): 188–204. Sen, A. K. 1976a. “Poverty: An Ordinal Approach to Measurement.” Econometrica 44 (2): 219–31.
+———. 1976b. “Real National Income.” Review of Economic Studies 43 (1): 19–39.
+Shorrocks, A. F. 1980. “The Class of Additively Decomposable Inequality Measures.” Econometrica 48 (3): 613–25.
+———. 1983. “Ranking Income Distributions.” Economica 50 (197): 3–17. ———. 1995. “Revisiting the Sen Poverty Index.” Econometrica 63 (5): 1225–30.
+Shorrocks, A. F., and J. E. Foster. 1987. “Transfer Sensitive Inequality Measures.” Review of Economic Studies 54 (3): 485–97.
+Thon, D. 1979. “On Measuring Poverty.” Review of Income and Wealth 25 (4): 429–39.
+Watts, H. W. 1968. “An Economic Definition of Poverty.” Discussion paper, Institute for Research on Poverty, University of Wisconsin, Madison. Xu, K. and L. Osberg. 2003. “The Social Welfare Implications, Decomposability, and Geometry of the Sen Family of Poverty Indices.” Canadian Journal of Economics 35 (1): 138–52.
+Zheng, B. 1997. “Aggregate Poverty Measures.” Journal of Economic Surveys 11 (2): 123–62.
+———. 2000. “Poverty Orderings.” Journal of Economic Surveys 14 (4): 427–66.
+———. 2007a. “Unit-Consistent Decomposable Inequality Measures.” Economica 74 (293): 97–111.
+———. 2007b. “Unit-Consistent Poverty Indices.” Economic Theory 31 (1): 113–42.
+Alkire, S., and J. E. Foster. 2007. “Counting and Multidimensional Poverty Measurement.” Working Paper 7, Oxford Poverty and Human Development Initiative, University of Oxford.
+———. 2010. “Designing the Inequality-Adjusted Human Development Index (HDI).” Working Paper 37, Oxford Poverty and Human Development Initiative, University of Oxford.
+———. 2011. “Counting and Multidimensional Poverty Measurement.” Journal of Public Economics 95 (7–8): 476–87.
+Alkire, S., J. E. Foster, and M. E. Santos. 2011. “Where Did Identification Go?” Journal of Economic Inequality 9 (3): 501–5.
+Allison, R. A., and J. E. Foster. 2004. “Measuring Health Inequality Using Qualitative Data.” Journal of Health Economics 23 (3): 505–24.
+Angulo, R. C., B. Y. Diaz, and R. Pardo. 2011. “Multidimensional Poverty Index (MPI-Colombia) 1997–2010.” Department of Planning (Departamento Nacional de Planeación), Bogota.
+Atkinson, A. B., and F. Bourguignon. 1982. “The Comparison of Multi- Dimensioned Distributions of Economic Status.” Review of Economic Studies 49 (2): 183–201.
+———. 2000. “Poverty and Inclusion from a World Perspective.” In Governance, Equity, and Global Markets, edited by J. E. Stiglitz and P.-A. Muet, 151–66. Oxford: Oxford University Press.
+Bennett, C. J., and C. Hatzimasoura. 2011. “Poverty Measurement with Ordinal Data.” IIEP-WP-201114, Institute for International Economic Policy, Elliott School of International Affairs, The George Washington University, Washington, DC.
+Bossert, W., S. R. Chakravarty, and C. D’Ambrosio. 2009. “Multidimensional Poverty and Material Deprivation.” Working Paper 129, Society for the Study of Economic Inequality (ECINEQ), Palma de Mallorca, Spain.
+Bourguignon, F., and S. R. Chakravarty. 2003. “The Measurement of Multidimensional Poverty.” Journal of Economic Inequality 1 (1): 25–49.
+Calvo, C., and S. Dercon. 2009. “Chronic Poverty and All That: The Measurement of Poverty over Time.” In Poverty Dynamics: Interdisciplinary Perspectives, edited by A. Addison, D. Hulme, and R. Kanbur, 29–58. Oxford: Oxford University Press.
+Chakravarty, S. R., and C. D’Ambrosio. 2010. “Polarization Orderings of Income Distributions.” Review of Income and Wealth 56 (1): 47–64.
+CONEVAL (Consejo Nacional de Evaluación de la Política de Desarrollo Social). 2011. “Coneval Presents 2010 Poverty Levels for Each Municipality.” Press Release No. 015, Mexico, D.F., December 2.
+Dang, H.-A., P. Lanjouw, J. Luoto, and D. McKenzie. 2011. “Using Repeated Cross-Sections to Explore Movements in and out of Poverty.” Policy Research Working Paper 5550, World Bank, Washington, DC.
+de Barros, R. P., F. H. G. Ferreira, J. R. Molinas, M. Vega, and J. S. Chanduvi. 2009. Measuring Inequality of Opportunities in Latin America and the Caribbean. Washington, DC: World Bank.
+Duclos, J.-Y., J. M. Esteban, and D. Ray. 2004. “Polarization: Concepts, Measurement, Estimation.” Econometrica 72 (6): 1737–72.
+Esteban, J. M., and D. Ray. 1994. “On the Measurement of Polarization.” Econometrica 62 (4): 819–51.
+Ferreira, F. 2011. “Poverty Is Multidimensional. but What Are We Going to Do about It?” Journal of Economic Inequality 9 (93): 493–95.
+Ferreira, F., and J. Gignoux. 2008. “The Measurement of Inequality of Opportunity: Theory and an Application to Latin America.” Policy Research Working Paper 4659, World Bank, Washington, DC.
+Foster, J. E. 1998. “Absolute versus Relative Poverty.” American Economic Review 88 (2): 335–41.
+———. 2009. “A Class of Chronic Poverty Measures.” In Poverty Dynamics: Interdisciplinary Perspectives, edited by A. Addison, D. Hulme, and R. Kanbur, 59–76. Oxford: Oxford University Press.
+Foster, J. E., L. López-Calva, and M. Székely. 2005. “Measuring the Distribution of Human Development: Methodology and an Application to Mexico.” Journal of Human Development and Capabilities 6 (1): 5–25.
+Foster, J. E., M. McGillivray, and S. Seth. 2010. “Rank Robustness of Composite Indices: Dominance and Ambiguity.” Paper presented at the 31st General Conference of the International Association for Research in Income and Wealth, St. Gallen, Switzerland, August 22–28.
+———. 2013. “Composite Indices: Rank Robustness, Statistical Association, and Redundancy.” Econometric Reviews 32 (1): 35–56.
+Foster, J. E., and M. E. Santos. 2006. “Measuring Chronic Poverty.” Paper presented at the 11th Annual Meeting of the Latin American and Caribbean Economic Association (LACEA), Instituto Tecnológico Autónomo de México, Mexico D. F., November 2–4.
+Foster, J. E., and M. Székely. 2006. “Poverty Lines over Space and Time.” Unpublished manuscript, Vanderbilt University, Nashville, TN.
+Foster, J. E., and M. C. Wolfson. 1992. “Polarization and the Decline of the Middle Class: Canada and the U.S.” Unpublished manuscript, Vanderbilt University, Nashville, TN.
+———. 2010. “Polarization and the Decline of the Middle Class: Canada and the U.S.” Journal of Economic Inequality 8 (2): 247–73.
+Hicks, D. A. 1997. “The Inequality-Adjusted Human Development Index: A Constructive Proposal.” World Development 25 (8): 1283–98.
+Jalan, J., and M. Ravallion. 2000. “Is Transient Poverty Different? Evidence for Rural China.” Journal of Development Studies 36 (6): 82–89.
+Massoumi, E., and M. A. Lugo. 2008. “The Information Basis of Multivariate Poverty Assessments.” In Quantitative Approaches to Multidimensional Poverty Measurement, edited by N. Kakwani and J. Silber, 1–29. London: Palgrave MacMillan.
+Madden, D. 2000. “Relative or Absolute Poverty Lines: A New Approach.” Review of Income and Wealth 46 (2): 181–99.
+Ravallion, M. 2011. “On Multidimensional Indices of Poverty.” Journal of Economic Inequality 9 (2): 235–48.
+Ravallion, M., and S. Chen. 2011. “Weakly Relative Poverty.” Review of Economics and Statistics 93 (4): 1251–61.
+Roemer, J. 1998. Equality of Opportunity. Cambridge, MA: Harvard University Press.
+Sen, A. 1999. Development as Freedom. New York: Knopf.
+Seth, S. 2009. “Inequality, Interactions, and Human Development.” Journal of Human Development and Capabilities 10 (3): 375–96.
+———. 2012. “A Class of Distribution and Association Sensitive Multidimensional Welfare Indices.” Journal of Economic Inequality, doi: 10.1007/s10888-011-9210-3.
+Stewart, F. 2002. “Horizontal Inequalities: A Neglected Dimension of Development.” Working Paper 81, Queen Elizabeth House, University of Oxford.
+Tsui, K.-Y. 2002. “Multidimensional Poverty Indices.” Social Choice and Welfare 19 (1): 69–93.
+UNDP (United Nations Development Programme). 2010. Human Development Report 2010: The Real Wealth of Nations—Pathways to Human Development. New York: Palgrave-Macmillan.
+World Bank. 2000. World Development Report 2000/2001: Attacking Poverty. Washington, DC: World Bank.
+Zhang, X., and R. Kanbur. 2001. “What Difference Do Polarisation Measures Make? An Application to China.” Journal of Development Studies 37 (3): 85–98.
+Jenkins, S. P. 1995. “Accounting for Inequality Trends: Decomposition Analyses for the UK, 1971–86.” Economica 62 (245): 29–63.
+Mookherjee, D., and A. F. Shorrocks. 1982. “A Decomposition Analysis of the Trend in UK Income Inequality.” The Economic Journal 92 (368): 886–902.
+Shorrocks, A. F. 1982. “Inequality Decomposition by Factor Components.” Econometrica 50 (1): 193–211.

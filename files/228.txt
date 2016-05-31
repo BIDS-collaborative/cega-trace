@@ -1,0 +1,37 @@
+Azevedo, J. P., S. Franco, E. Rubiano and A. Hoyos. 2010. “HOI Stata Module to compute Human Opportunity Index”, Statistical Software Components S457191. (http://ideas.repec.org/c/boc/bocode/s457191.html).
+Azevedo, J. P., V. Sanfelice and M. C. Nguyen. 2012. “Shapley Decomposition by components of a Welfare Measure” World Bank (mimeo).
+Barros, R. P., M. Carvalho, S. Franco, and R. Mendoça. 2006. “Uma Análise das Principais Causas da Queda Recente na Desigualdade de Renda Brasileira.” Revista Econômica, vol. 8(1), pp 117-147.
+Barros, R. P., F. Ferreira, J. Molinas and J. Saavedra-Chanduvi. 2009. “Measuring Inequality of Opportunities in Latin America and the Caribbean.” World Bank. Washington, DC: Palgrave Macmillan.
+Beuermann, D., C. McKelvey and R. Vakis. 2012. “Mobile Phones and Economic Development in Rural Peru,” Journal of Development Studies, vol. 48(11), pp 1617-1628.
+Brunori, P., F. Ferreira and V. Peragine. 2013. “Inequality of Opportunity, Income Inequality and Economic Mobility: Some International Comparisons.” Policy Research Working Paper 6304, Washington, DC: World Bank.
+Bucheli, M., N. Lustig, M. Rossi and F. Amábile. 2014. “Social Spending, Taxes, and Income Redistribution in Uruguay.” In Lustig, N., C. Pessino and J. Scott, editors, “Fiscal Policy, Poverty and Redistribution in Latin America,” Special Issue, Public Finance Review, forthcoming.
+Cecchini, S. and A. Madariaga. 2011. “Conditional Cash Transfer Programmes: The Recent Experience in Latin America and the Caribbean.” Economic Commission for Latin America and the Caribbean (ECLAC). Santiago, Chile.
+Checchi, D., V. Peragine and L. Serlenga. 2010. “Fair and unfair income inequalities in Europe.” ECINEQ working paper 174-2010.
+Commission on Growth and Development. 2008. “The Growth Report: Strategies for Sustained Growth and Inclusive Development.” Washington, DC: World Bank.
+Datt, G. and M. Ravallion. 1992. “Growth and Redistribution Components of Changes in Poverty Measures: A Decomposition with Applications to Brazil and India in the 1980s.” Journal of Development Economics, 38, pp 275–95.
+De la Torre, A., E. Yeyati and S. Pienknagura. 2013. “Latin America’s Deceleration and the Exchange Rate Buffer.” LAC Semiannual Report, October 2013. Washington, DC: World Bank.
+Economic Commission for Latin America and the Caribbean. 2014. “Panorama fiscal de América Latina y el Caribe 2014: Hacia una mayor calidad de las finanzas públicas.” (LC/L.3766) Santiago, Chile.
+Escobal, J., J. Saavedra, and R. Vakis. 2012. “¿Está el piso parejo para los niños del Perú?” Washington, DC: World Bank.
+Ferreira, F., J. Messina, J. Rigolini, M. Lugo, R. Vakis and L. López-Calva. 2012. “Economic mobility and the rise of the Latin American middle class.” World Bank Publications.
+Goni, E., J. Lopez and L. Serven. 2011. “Fiscal Redistribution and Income Inequality in Latin America.” World Development 39(9), pp 1558-1569.
+Hanushek, E. A. and L. Woessmann. 2012. “Schooling, educational achievement, and the Latin American growth puzzle.” Journal of Development Economics 99(2), pp 497-512.
+Higgins, S. and C. Pereira. 2014. “The Effects of Brazil’s Taxation and Social Spending on the Distribution of Household Income.” In Lustig, N., C. Pessino and J. Scott, editors, “Fiscal Policy, Poverty and Redistribution in Latin America,” Special Issue, Public Finance Review, forthcoming.
+Hoyos, A. and A. Narayan. 2012. “Inequality of opportunities among children: how much does gender matter?” Unpublished manuscript.
+Jaramillo, M. 2014. “The Incidence of Social Spending and Taxes in Peru.” In Lustig, N., C. Pessino and J. Scott, editors, “Fiscal Policy, Poverty and Redistribution in Latin America,” Special Issue, Public Finance Review, forthcoming.
+Lustig, N. and S. Higgins. 2012. “Commitment to Equity Assessment (CEQ): Estimating the Incidence of Social Spending, Subsidies and Taxes. Handbook,” Tulane Economics Department Working Paper 1219 and CIPR (Center for Inter-American Policy & Research) Working Paper, New Orleans, Louisiana, October 2012. http://econ.tulane.edu/RePEc/pdf/tul1219.pdf.
+Lustig, N. and C. Pessino. 2014. “Social Spending and Income Redistribution in Argentina in the 2000s: The Rising Role of Noncontributory Pensions.” In Lustig, N., C. Pessino and J. Scott, editors, “Fiscal Policy, Poverty and Redistribution in Latin America,” Special Issue, Public Finance Review, forthcoming.
+Lustig, N., C. Pessino and J. Scott, eds. 2014. “Fiscal Policy, Poverty and Redistribution in Latin America,” Special Issue, Public Finance Review, forthcoming.
+Molinas, J., R. P. Barros, J. Saavedra and M. Giugale. 2012. “Do Our Children Have a Chance? A Human Opportunity Report for Latin America and the Caribbean.” Washington, DC: World Bank.
+OECD/ Economic Comission for Latin America and the Caribbean/Inter-American Center of Tax Administration. 2012. “Revenue statistics in Latin America.” OECD Publishing. http//:dx.doi.org/10.1787/9789264183889-en-fr.
+OECD. 2013. “PISA 2012 Assessment and Analytical Framework: Mathematics, Reading, Science, Problem Solving and Financial Literacy.” OECD Publishing.
+Paz Arauco, V., G. Molina, W. Pozo and E. Aguilar. “Explaining Low Redistributive Impact in Bolivia.” In Lustig, N., C. Pessino and J. Scott, editors, “Fiscal Policy, Poverty and Redistribution in Latin America,” Special Issue, Public Finance Review, forthcoming.
+Ravallion, M. 2004. “Pro-Poor Growth: A Primer”. The World Bank, Policy Research Working Paper No. 3242.
+Scott, J. “Redistributive Impact and Efficiency of Mexico’s Fiscal System.” In Lustig, N., C. Pessino and J. Scott, editors, “Fiscal Policy, Poverty and Redistribution in Latin America,” Special Issue, Public Finance Review, forthcoming.
+SEDLAC (Socio-Economic Database for Latin America and the Caribbean). Center for Distributive, Labor and Social Studies (CEDLAS) of Universidad de La Plata, Argentina, and World Bank, Washington, DC. http://sedlac.econo.unlp.edu.ar/eng.
+Sen, A. 1976. “The Measurement of Poverty: An Axiomatic Approach,” Econometrica, 44, pp 219-232.
+Shorrocks, A. 1999. “Decomposition Procedures for Distributional Analysis: A Unified Framework Based on the Shapley Value.” Mimeo. University of Essex.
+World Bank. 2006. “Equity and Development”. World Development Report. Washington, DC: World Bank.
+World Bank. 2011. Igualdad de Oportunidades para los Niños y Jóvenes de Bolivia. Washington, DC: World Bank.
+World Bank. 2013a. “Understanding the Poverty Impact of the Global Financial Crisis in Latin America and the Caribbean.” Washington, DC: LCR Regional Study.
+World Bank. 2013b. “Shifting gears to accelerate shared prosperity in Latin America and the Caribbean.” Washington, DC: LCSPP Poverty and Labor Brief, No. 5.
+World Bank. 2014. Global Economic Prospects, Volume 8, January 2014, World Bank, Washington, DC.

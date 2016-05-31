@@ -1,0 +1,17 @@
+Batini, N., Eyraud, L., and Weber, A. (2014). “A Simple Method to Compute Fiscal Multipliers”. IMF Working Paper No. WP/14/93.
+Bolder, D. J. (2002). “Towards a more complete debt strategy simulation framework”. Bank of Canada Working Paper No. 2002-13.
+Bolder, D. J. (2003). “A stochastic simulation framework for the government of Canada’s debt strategy”. Bank of Canada Working Paper No. 2003-10.
+Bolder, D. J. (2005). “Measuring and managing foreign currency risk in a sovereign liability portfolio”. Manuscript. Financial Markets Department, Bank of Canada.
+Bolder, D. J. (2008). “The Canadian debt-strategy model”. Bank of Canada Review, pp. 3-16.
+Briceño-Garmendia, C. M., and D. A. Benitez (2011). “Cape Verde’s Infrastructure. A Continental Perspective”. World Bank Policy Research Working Paper No. 5687.
+Cabral, R., and M. Lopes (2005). “Benchmark for public debt: Two alternative approaches”. Manuscript. Annual Meeting of the Brazilian Society of Finance.
+Cabral, R., Lopes, M., Baghdassarian, W., Alves, L. F., Souza Junior, P., and A. Santos (2008). “A benchmark for public debt: The Brazilian case”. Manuscript. Latina America and the Caribbean Debt Group, IDB.
+Di Bella, G. (2008). “A Stochastic Framework for Public Debt Sustainability Analysis”. IMF Working Paper No. WP/08/58.
+Di Giovanni, J., and Gardner, E. (2008). “A Simple Stochastic Approach to Debt Sustainability Applied to Lebannon”. IMF Working Paper No. WP/08/97.
+Fatás, A. (2001). “The Effects of Business Cycles on Growth”, working paper prepared for the 5th annual conference of the Central Bank of Chile, November, 2001.
+Government of Cape Verde (2011). “Medium-Term Debt Management Strategy MTDS Report”.
+International Monetary Fund (2012). “Cape Verde. Second Review Under the Policy Support Instrument and Request for Waivers of Nonobservance of assessment Criteria”. EBS/12/7.
+International Monetary Fund and International Development Association (2012). “Revisiting the Debt Sustainability Framework for Low-Income Countries”. SM/12/10. (Washington).
+International Monetary Fund and International Development Association (2004). “Debt-Sustainability in LowIncome Countries-Proposal for an Operational Framework and Policy Implications”. SM/04/27. (Washington).
+Pradelli, J., and Baghdassarian, W. (2013). “Cape Verde: Building Resiliense in a Small Island State”. CEM – Cape Verde. World Bank.
+Tielens, J. Van Aarle, B. and Van Hove, J. (2014). “Effects of Eurobonds: A stochastic Sovereign Debt Sustainability Analysis for Portugal, Ireland and Greece”. Discussion Paper Series DPS 14.10, Ku Leuven Center for Economic Studies.

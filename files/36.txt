@@ -1,0 +1,47 @@
+Angrist, J. 1997. ※Conditional Independence in Sample Selection Models.§ Economics Letters 54(2): 103-12.
+Angrist, J., G. Imbens, and D. Rubin. 1996. ※Identification of Casual Effects Using Instrumental Variables.§ Journal of the American Statistical Association 91(434): 444-55.
+Angrist, J., E. Bettinger, E. Bloom, E. King, and M. Kremer. 2002. ※Vouchers for Private Schooling in Colombia: Evidence from a Randomized Natural Experiment.§ American Economic Review 92(5): 1535-58.
+Attanasio, O., and V. Lechene. 2002. ※Tests of Income Pooling in Household Decisions.§ Review of Economic Dynamics 5(4): 720-48.
+Attanasio, O., and A. Mesnard. 2005. ※The Impact of a Conditional Cash Transfer Programme on Consumption in Colombia.§ Unpublished manuscript, The Institute for Fiscal Studies, London.
+Becker, G. 1981. A Treatise on the Family. Cambridge: Harvard University Press.
+Beegle, K., Frankenberg, E., and D. Thomas. 2001. ※Bargaining Power within Couples and Reproductive Health Care Use in Indonesia.§ Studies in Family Planning 32(2): 130-46.
+Behrman, J., and J. Hoddinott. 2005. ※Programme Evaluation with Unobserved Heterogeneity and Selective Implementation: The Mexican PROGRESA Impact on Child Nutrition.§ Oxford Bulletin of Economics and Statistics 67(4): 547-69.
+Behrman, J., P. Sengupta, and P. Todd. 2005. ※Progressing through Progresa: An Impact Assessment of a School Subsidy Experiment in Mexico.§ Economic Development and Cultural Change 54(1): 237-75.
+Bourguignon, F., M. Browning, P. A. Chiappori, and V. Lechene. 1993. ※Intra-Household Allocation of Consumption: A model and some Evidence from French Data.§ Annales d＊ Economie et de Statistique 29: 137-56.
+Blundell, R., J. Banks, and A. Lewbell. 1997. ※Quadratic Engel Curves and Consumer Demand.§ Review of Economics and Statistics 79(4): 527-39.
+Case, A., and A. Deaton. 1998. ※Large Cash Transfers to the Elderly in South Africa.§ Economic Journal 108(450): 1330-1361.
+Chiappori, P. A. 1988. ※Rational Household Labor Supply.§ Econometrica 56(1): 63-89.
+Chiappori, P. A. 1992. ※Collective Labor Supply and Welfare.§ Journal of Political Economy 100(3): 437-67.
+Costa, D. 2001. ※Estimating Real Income in the US from 1888 to 1994: Correcting CPI Bias using Engel Curves.§ Journal of Political Economy 109(6): 1288-1310.
+Deaton, A. 1997. The Analysis of Household Surveys: A Microeconometric Approach to Development Policy. Baltimore and London: Johns Hopkins University Press.
+Deaton, A., and J. Dreze. 2007. ※Indian Food Puzzles: Growth, Poverty, and (mal)nutrition.§ Unpublished manuscript, Princeton University.
+Doss, C. 2005. ※The Effects of Intrahousehold Property Ownership on Expenditure Patterns in Ghana.§ Journal of African Economies 15(1): 149-80.
+Edmonds, E. 2002. ※Reconsidering the Labeling Effect for Child Benefits: Evidence from a Transition Economy.§ Economics Letters 76(3): 303-09.
+Engel, E. 1857. ※Die Productions- und consumtionsverhaeltnisse des Koenigreichs Sachsen.§ In E. Engel, Die Lebenskosten belgischer arbeiter-familien. C. Heinrich: Dresden.
+Fehr, E., and S. Gachter. 2000. ※Fairness and Retaliation〞The Economics of Reciprocity.§ Journal of Economic Perspectives 14: 159-81.
+Fehr, E., and K. Schmidt. 2007. ※The Economics of Fairness, Reciprocity, and Altrusim.§ In Handbook of Altrusim, Gift Giving and Reciprocity. North Holland: Amsterdam.
+Fitzgerald, J., P. Gottschalk, and R. Moffitt. 1998. ※An Analysis of Sample Attrition in Panel Data: The Michigan Panel Study of Income Dynamics.§ The Journal of Human Resources 33(2): 251-99.
+Frankenberg, E., and D. Thomas. 2003. ※Household Decisions, Gender and Development: Measuring Power.§ In A. Quisumbing., Ed., Household Decisions, Gender and Development: A Synthesis of Recent Research, International Food Policy Research Institute, Washington, D.C.
+Gertler, P. 2004. ※Do Conditional Cash Transfers Improve Child Health? Evidence from PROGRESA's Controlled Randomized Experiment.§ American Economic Review 94(2): 331-336.
+Hoddinott, J., and E. Skoufias. 2004. ※The Impact of PROGRESA on Food Consumption.§ Economic Development and Cultural Change 53(1): 37-61.
+Hotchkiss, J.L. 2005. ※Do Husbands and Wives Pool their Resources? Further Evidence.§ Journal of Human Resources 40(2): 519-31.
+Imbens, G., and J. Angrist. 1994. ※Identification and Estimation of Local Average Treatment Effects.§ Econometrica 62(2): 467-75.
+Kahneman, D., and Tversky, A., eds. 2000. Choices, Values, and Frames. Cambridge University Press and the Russell Sage Foundation.
+Kooreman, P. 2000. ※The Labeling Effect of a Child Benefit System.§ American Economic Review 90(3): 571-83.
+Lanjouw, J., and Lanjouw, P. 1997. ※Poverty Comparisons with Noncompatible Data: Theory and Illustrations.§ World Bank Policy Research Working Paper 1709, Washington, D.C.
+Lundberg, S., R. A. Pollack, T. J. Wales. 1997. ※Do Husbands and Wives Pool their Resources?
+Evidence from the United Kingdom Child Benefit.§ Journal of Human Resources 32(3): 463- 80.
+Maluccio, J., and R. Flores. 2004. ※Impact Evaluation of a Conditional Cash Transfer Program: The Nicaraguan Red de Protecci車n Social.§ FCND Discussion Paper 184, International Food Policy Research Institute, Washington, D.C.
+Morduch J. 1999. ※The Microfinance Promise.§ Journal of Economic Literature 37(4): 1569每1614. Paxson, C., and N. Schady. 2007. ※Does Money Matter? The Effects of Cash Transfers on Child Health and Development in Rural Ecuador.§ World Bank Policy Research Working Paper 4226.
+Pittm M. M. and S. Khandker. 1998. ※The Impact of Group-Based Credit Programs on Poor Households in Bangladesh: Does the Gender of Participants Matter?§ Journal of Political Economy 106(5): 958每96.
+Rivera, J. A., D. Sotres-Alvarez, J. P. Habicht, T. Shamah and S. Villalpando. 2004. ※Impact of the Mexican Program for Education, Health, and Nutrition (Progresa) on Rates of Growth and
+Anemia in Infants and Young Children: a Randomized Effectiveness Study.§ Journal of the American Medical Association 291(21): 2563-70.
+Rubalcava, L., G. Teruel, and D. Thomas. 2005. ※Spending, Savings, and Transfers Paid to Women.§ Unpublished manuscript, University of California at Los Angeles.
+Schady, N., and C. Araujo. 2006. ※Cash Transfers, Conditions, and School Enrollment in Ecuador.§ Unpublished manuscript, The World Bank.
+Schultz, T. 2004. ※School Subsidies for the Poor: Evaluating the Mexican Progresa Poverty Program.§ Journal of Development Economics 74: 199-250.
+Thaler, R. H. 1999. ※Mental Accounting Matters.§ Journal of Behavioral Decision Making 12: 183- 206.
+Thomas, D. 1986. ※The Food Share as a Welfare Measure.§ Ph.D. dissertation, Department of Economics, Princeton University.
+Thomas, D. 1990. ※Intra-household Resource Allocation: An Inferential Approach.§ Journal of Human Resources 25(4): 635-64.
+Thomas, D. 1994. ※Like Father, Like Son, Like Mother, Like Daughter: Parental Resources and Child Height.§ Journal of Human Resources 29(4): 950-88.
+Ward-Batts. J. 2003. ※Out of the Wallet and into the Purse: Using Micro Data to Test Income Pooling.§ Unpublished manuscript, Department of Economics, Claremont McKenna College.
+World Bank, and Secretar赤a T谷cnica del Frente Social. 2006. ※Evaluaci車n de impacto del Bono de Desarrollo Humano.§ Presentation made at the Central Bank of Ecuador.
